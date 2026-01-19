@@ -1,0 +1,24 @@
+=== Results: Lattice-Based A* ===
+Algorithm Instance: LazyLBA*
+Parameters:
+  Control Set: data/base_control_set.txt
+  Map: maps/Moscow_0_512.map (with obstacles)
+  Goal Tolerance: R = 0, A = 0 (discrete headings)
+  Heuristic Weight (w): 1.5
+  Lazy Evaluation: Enabled
+Problem Instance:
+  Start:  (163, 1, 14)
+  Finish: (5, 467, 13)
+Metrics:
+  Solved: Yes
+  Expansions (Steps): 9631
+  Collision Checks: 306374
+  Search Time (s): 0.014817
+  Reconstruction Time (s): 6e-06
+  Total Time (s): 0.014823
+  Path Cost: 528.307
+  Path Length (m): 528.307
+  AOL Metric: 0.032851
+--------------------
+Primitive Sequence (IDs):
+515 468 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 582 662 424 662 424 662 424 662 424 662 464 600 564 600 564 576 584 584 704 599 582 582 582 582 582 750 388 416 516 483 483 483 483 499 460 715 460 

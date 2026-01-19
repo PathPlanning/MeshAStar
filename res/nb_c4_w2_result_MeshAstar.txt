@@ -1,0 +1,24 @@
+=== Results: MeshA* ===
+Algorithm Instance: MeshA*
+Parameters:
+  Control Set: data/base_control_set.txt
+  Map: maps/my_map.map (with obstacles)
+  Goal Tolerance: R = 0, A = 0 (discrete headings)
+  Heuristic Weight (w): 2
+  Lazy Evaluation: Disabled
+Problem Instance:
+  Start:  (11, 26, 7)
+  Finish: (29, 63, 10)
+Metrics:
+  Solved: Yes
+  Expansions (Steps): 7507
+  Collision Checks: 15771
+  Search Time (s): 0.002786
+  Reconstruction Time (s): 5e-06
+  Total Time (s): 0.002791
+  Path Cost: 65.5789
+  Path Length (m): 65.5789
+  AOL Metric: 0.148299
+--------------------
+Primitive Sequence (IDs):
+716 457 484 484 484 484 484 552 388 456 547 388 388 388 388 388 388 388 388 388 456 547 412 584 584 584 712 453 732 

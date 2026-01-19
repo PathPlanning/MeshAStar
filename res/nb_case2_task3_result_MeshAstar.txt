@@ -1,0 +1,24 @@
+=== Results: MeshA* ===
+Algorithm Instance: MeshA*
+Parameters:
+  Control Set: data/base_control_set.txt
+  Map: maps/Moscow_0_512.map (with obstacles)
+  Goal Tolerance: R = 0, A = 0 (discrete headings)
+  Heuristic Weight (w): 1.5
+  Lazy Evaluation: Disabled
+Problem Instance:
+  Start:  (31, 311, 11)
+  Finish: (20, 437, 9)
+Metrics:
+  Solved: Yes
+  Expansions (Steps): 29422
+  Collision Checks: 63954
+  Search Time (s): 0.010367
+  Reconstruction Time (s): 8e-06
+  Total Time (s): 0.010375
+  Path Cost: 162.878
+  Path Length (m): 162.878
+  AOL Metric: 0.0908735
+--------------------
+Primitive Sequence (IDs):
+725 707 726 584 584 704 591 711 584 704 711 584 584 584 704 711 584 584 584 584 704 711 584 584 584 584 720 590 590 590 590 590 590 590 590 590 590 590 590 590 590 590 590 590 590 590 590 590 734 552 448 572 388 456 487 487 487 487 487 487 487 487 487 487 487 487 487 555 391 463 

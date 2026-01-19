@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Build artifacts & Binaries
+obj/
+mesh_astar
+
+# OS specific
+.DS_Store
+Thumbs.db

@@ -1,0 +1,24 @@
+=== Results: Lattice-Based A* ===
+Algorithm Instance: LBA*
+Parameters:
+  Control Set: data/base_control_set.txt
+  Map: maps/my_map.map (with obstacles)
+  Goal Tolerance: R = 0, A = 0 (discrete headings)
+  Heuristic Weight (w): 2
+  Lazy Evaluation: Disabled
+Problem Instance:
+  Start:  (11, 26, 7)
+  Finish: (29, 63, 10)
+Metrics:
+  Solved: Yes
+  Expansions (Steps): 2624
+  Collision Checks: 475984
+  Search Time (s): 0.002902
+  Reconstruction Time (s): 3e-06
+  Total Time (s): 0.002905
+  Path Cost: 64.3739
+  Path Length (m): 64.3739
+  AOL Metric: 0.157059
+--------------------
+Primitive Sequence (IDs):
+716 461 576 744 428 551 720 726 584 584 584 584 712 453 732 

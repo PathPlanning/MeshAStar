@@ -1,0 +1,7664 @@
+control-set-start with theta: 0 has type: 0
+control-set-start with theta: 2 has type: 7
+control-set-start with theta: 4 has type: 11
+control-set-start with theta: 3 has type: 20
+control-set-start with theta: 1 has type: 24
+control-set-start with theta: 5 has type: 41
+control-set-start with theta: 7 has type: 45
+control-set-start with theta: 6 has type: 56
+control-set-start with theta: 8 has type: 77
+control-set-start with theta: 9 has type: 94
+control-set-start with theta: 11 has type: 98
+control-set-start with theta: 12 has type: 106
+control-set-start with theta: 10 has type: 110
+control-set-start with theta: 13 has type: 133
+control-set-start with theta: 15 has type: 137
+control-set-start with theta: 14 has type: 167
+in goal type: 0 ends (or equal starts) prims-in-theta: 0
+in goal type: 7 ends (or equal starts) prims-in-theta: 2
+in goal type: 11 ends (or equal starts) prims-in-theta: 4
+in goal type: 20 ends (or equal starts) prims-in-theta: 3
+in goal type: 24 ends (or equal starts) prims-in-theta: 1
+in goal type: 41 ends (or equal starts) prims-in-theta: 5
+in goal type: 45 ends (or equal starts) prims-in-theta: 7
+in goal type: 56 ends (or equal starts) prims-in-theta: 6
+in goal type: 77 ends (or equal starts) prims-in-theta: 8
+in goal type: 94 ends (or equal starts) prims-in-theta: 9
+in goal type: 98 ends (or equal starts) prims-in-theta: 11
+in goal type: 106 ends (or equal starts) prims-in-theta: 12
+in goal type: 110 ends (or equal starts) prims-in-theta: 10
+in goal type: 133 ends (or equal starts) prims-in-theta: 13
+in goal type: 137 ends (or equal starts) prims-in-theta: 15
+in goal type: 167 ends (or equal starts) prims-in-theta: 14
+start type is: 0
+0 1 0 388
+0 1 1 -1
+---
+start type is: 1
+0 1 2 -1
+---
+start type is: 2
+0 1 3 -1
+1 0 876 -1
+-1 0 878 -1
+---
+start type is: 3
+1 0 4 -1
+0 1 839 -1
+-1 0 869 -1
+---
+start type is: 4
+0 1 5 -1
+---
+start type is: 5
+1 0 6 -1
+---
+start type is: 6
+0 1 7 472
+0 1 835 -1
+---
+start type is: 7
+1 1 7 484
+1 0 8 -1
+1 1 771 -1
+0 1 822 -1
+---
+start type is: 8
+0 1 9 -1
+---
+start type is: 9
+1 0 10 -1
+---
+start type is: 10
+1 0 11 544
+0 1 761 -1
+1 0 770 -1
+---
+start type is: 11
+1 0 11 389
+1 0 12 -1
+---
+start type is: 12
+1 0 13 -1
+---
+start type is: 13
+1 0 14 -1
+0 -1 757 -1
+0 1 759 -1
+---
+start type is: 14
+1 0 15 -1
+0 1 743 -1
+0 -1 750 -1
+---
+start type is: 15
+0 1 16 -1
+0 -1 722 -1
+1 0 730 -1
+---
+start type is: 16
+1 0 17 -1
+---
+start type is: 17
+1 0 18 -1
+0 1 718 -1
+---
+start type is: 18
+0 1 19 -1
+---
+start type is: 19
+1 0 20 469
+---
+start type is: 20
+1 0 21 -1
+---
+start type is: 21
+0 1 22 -1
+1 0 717 -1
+---
+start type is: 22
+1 0 20 591
+1 0 23 -1
+---
+start type is: 23
+0 1 24 711
+1 0 677 -1
+0 1 703 -1
+---
+start type is: 24
+0 1 25 -1
+---
+start type is: 25
+1 0 26 -1
+0 1 676 -1
+---
+start type is: 26
+0 1 24 584
+0 1 27 -1
+---
+start type is: 27
+1 0 20 704
+1 0 28 -1
+0 1 650 -1
+---
+start type is: 28
+1 0 11 712
+0 1 29 -1
+---
+start type is: 29
+1 0 30 -1
+1 1 649 -1
+---
+start type is: 30
+0 1 31 -1
+1 0 37 -1
+---
+start type is: 31
+1 0 20 752
+1 0 32 -1
+---
+start type is: 32
+1 0 33 -1
+0 1 36 -1
+---
+start type is: 33
+1 0 34 -1
+0 1 35 -1
+---
+start type is: 34
+1 0 11 624
+---
+start type is: 35
+1 0 20 640
+---
+start type is: 36
+1 0 7 736
+---
+start type is: 37
+1 0 38 -1
+---
+start type is: 38
+1 0 39 -1
+---
+start type is: 39
+1 0 11 616
+0 -1 40 -1
+---
+start type is: 40
+1 0 41 592
+---
+start type is: 41
+1 0 42 -1
+---
+start type is: 42
+0 -1 43 -1
+1 0 648 -1
+---
+start type is: 43
+1 0 41 585
+1 0 44 -1
+---
+start type is: 44
+0 -1 45 705
+1 0 608 -1
+0 -1 634 -1
+---
+start type is: 45
+0 -1 46 -1
+---
+start type is: 46
+1 0 47 -1
+0 -1 607 -1
+---
+start type is: 47
+0 -1 45 588
+0 -1 48 -1
+---
+start type is: 48
+1 0 41 708
+0 -1 49 -1
+1 0 593 -1
+---
+start type is: 49
+1 0 50 -1
+0 -1 583 -1
+-1 0 592 -1
+---
+start type is: 50
+0 -1 51 -1
+---
+start type is: 51
+1 0 52 -1
+0 -1 574 -1
+---
+start type is: 52
+0 -1 53 -1
+---
+start type is: 53
+1 0 54 -1
+---
+start type is: 54
+0 -1 55 -1
+---
+start type is: 55
+1 -1 56 604
+1 0 41 612
+---
+start type is: 56
+1 -1 56 485
+1 -1 57 -1
+1 0 548 -1
+0 -1 561 -1
+---
+start type is: 57
+1 0 58 -1
+0 -1 517 -1
+1 -1 536 -1
+---
+start type is: 58
+0 -1 59 -1
+---
+start type is: 59
+1 0 60 -1
+0 -1 71 -1
+---
+start type is: 60
+0 -1 61 -1
+---
+start type is: 61
+1 0 62 -1
+0 -1 67 -1
+---
+start type is: 62
+1 0 63 -1
+---
+start type is: 63
+0 -1 64 -1
+1 0 65 -1
+---
+start type is: 64
+1 0 41 565
+---
+start type is: 65
+1 0 11 541
+0 1 66 -1
+---
+start type is: 66
+1 0 20 533
+---
+start type is: 67
+1 0 68 -1
+---
+start type is: 68
+0 -1 69 -1
+---
+start type is: 69
+1 0 70 -1
+---
+start type is: 70
+0 -1 45 493
+---
+start type is: 71
+1 0 72 -1
+---
+start type is: 72
+0 -1 73 -1
+---
+start type is: 73
+1 0 74 -1
+---
+start type is: 74
+0 -1 75 -1
+---
+start type is: 75
+0 -1 76 -1
+---
+start type is: 76
+0 -1 77 497
+---
+start type is: 77
+0 -1 77 390
+0 -1 78 -1
+---
+start type is: 78
+0 -1 79 -1
+---
+start type is: 79
+0 -1 80 -1
+-1 0 513 -1
+1 0 515 -1
+---
+start type is: 80
+1 0 81 -1
+0 -1 88 -1
+-1 0 506 -1
+---
+start type is: 81
+0 -1 82 -1
+---
+start type is: 82
+1 0 83 -1
+---
+start type is: 83
+0 -1 56 478
+0 -1 84 -1
+---
+start type is: 84
+1 0 85 -1
+---
+start type is: 85
+1 0 86 -1
+---
+start type is: 86
+1 0 11 422
+0 -1 87 -1
+---
+start type is: 87
+1 0 41 434
+---
+start type is: 88
+0 -1 89 -1
+1 0 490 -1
+-1 0 498 -1
+---
+start type is: 89
+0 -1 90 -1
+1 0 488 -1
+-1 0 489 -1
+---
+start type is: 90
+0 -1 91 -1
+-1 0 482 -1
+1 0 485 -1
+---
+start type is: 91
+0 -1 77 386
+1 0 92 -1
+-1 0 93 -1
+---
+start type is: 92
+0 -1 45 426
+---
+start type is: 93
+0 -1 94 398
+---
+start type is: 94
+0 -1 95 -1
+---
+start type is: 95
+-1 0 96 -1
+0 -1 481 -1
+---
+start type is: 96
+0 -1 94 586
+0 -1 97 -1
+---
+start type is: 97
+-1 0 98 706
+0 -1 441 -1
+-1 0 467 -1
+---
+start type is: 98
+-1 0 99 -1
+---
+start type is: 99
+0 -1 100 -1
+-1 0 440 -1
+---
+start type is: 100
+-1 0 98 589
+-1 0 101 -1
+---
+start type is: 101
+0 -1 94 709
+-1 0 102 -1
+0 -1 426 -1
+---
+start type is: 102
+-1 0 103 -1
+0 -1 410 -1
+0 1 425 -1
+---
+start type is: 103
+-1 0 104 -1
+0 1 409 -1
+---
+start type is: 104
+-1 0 105 -1
+---
+start type is: 105
+-1 0 106 749
+-1 0 404 -1
+0 1 406 -1
+---
+start type is: 106
+-1 0 106 391
+-1 0 107 -1
+---
+start type is: 107
+-1 0 108 -1
+---
+start type is: 108
+0 -1 109 -1
+-1 0 357 -1
+0 1 402 -1
+---
+start type is: 109
+-1 0 110 459
+-1 0 356 -1
+---
+start type is: 110
+-1 -1 110 486
+0 -1 111 -1
+-1 -1 124 -1
+-1 0 343 -1
+---
+start type is: 111
+-1 0 112 -1
+---
+start type is: 112
+0 -1 113 -1
+---
+start type is: 113
+0 -1 77 554
+-1 0 114 -1
+0 -1 123 -1
+---
+start type is: 114
+0 -1 115 -1
+---
+start type is: 115
+0 -1 116 -1
+---
+start type is: 116
+0 -1 77 574
+0 -1 117 -1
+---
+start type is: 117
+0 -1 118 -1
+1 0 120 -1
+---
+start type is: 118
+1 0 119 -1
+---
+start type is: 119
+0 -1 45 530
+---
+start type is: 120
+0 -1 121 -1
+---
+start type is: 121
+1 0 122 -1
+---
+start type is: 122
+0 -1 56 518
+---
+start type is: 123
+0 -1 45 558
+---
+start type is: 124
+-1 0 125 -1
+0 -1 312 -1
+-1 -1 331 -1
+---
+start type is: 125
+0 -1 126 -1
+---
+start type is: 126
+-1 0 127 -1
+0 -1 306 -1
+---
+start type is: 127
+0 -1 128 -1
+---
+start type is: 128
+-1 0 129 -1
+0 -1 302 -1
+---
+start type is: 129
+-1 0 130 -1
+---
+start type is: 130
+-1 0 131 -1
+0 -1 301 -1
+---
+start type is: 131
+-1 0 106 514
+0 1 132 -1
+---
+start type is: 132
+-1 0 133 506
+---
+start type is: 133
+-1 0 134 -1
+---
+start type is: 134
+0 1 135 -1
+-1 0 300 -1
+---
+start type is: 135
+-1 0 133 587
+-1 0 136 -1
+---
+start type is: 136
+0 1 137 707
+-1 0 260 -1
+0 1 286 -1
+---
+start type is: 137
+0 1 138 -1
+---
+start type is: 138
+-1 0 139 -1
+0 1 259 -1
+---
+start type is: 139
+0 1 137 590
+0 1 140 -1
+---
+start type is: 140
+-1 0 133 710
+0 1 141 -1
+-1 0 245 -1
+---
+start type is: 141
+0 1 142 -1
+1 0 151 -1
+-1 0 152 -1
+---
+start type is: 142
+0 1 143 -1
+1 0 150 -1
+---
+start type is: 143
+0 1 144 -1
+---
+start type is: 144
+0 1 0 750
+1 0 145 -1
+0 1 148 -1
+---
+start type is: 145
+0 1 146 -1
+---
+start type is: 146
+1 0 20 654
+1 0 147 -1
+---
+start type is: 147
+0 1 7 678
+---
+start type is: 148
+1 0 149 -1
+---
+start type is: 149
+0 1 24 702
+---
+start type is: 150
+0 1 24 766
+---
+start type is: 151
+0 1 7 734
+---
+start type is: 152
+0 1 153 -1
+---
+start type is: 153
+0 1 154 -1
+-1 0 163 -1
+---
+start type is: 154
+0 1 0 694
+-1 0 155 -1
+0 1 160 -1
+---
+start type is: 155
+0 1 156 -1
+---
+start type is: 156
+0 1 157 -1
+---
+start type is: 157
+0 1 0 662
+-1 0 158 -1
+1 0 159 -1
+---
+start type is: 158
+0 1 137 582
+---
+start type is: 159
+0 1 24 670
+---
+start type is: 160
+0 1 161 -1
+---
+start type is: 161
+1 0 162 -1
+---
+start type is: 162
+0 1 7 686
+---
+start type is: 163
+0 1 164 -1
+---
+start type is: 164
+-1 0 165 -1
+---
+start type is: 165
+0 1 166 -1
+---
+start type is: 166
+-1 0 133 614
+-1 1 167 606
+---
+start type is: 167
+-1 1 167 487
+-1 1 168 -1
+0 1 219 -1
+-1 0 232 -1
+---
+start type is: 168
+0 1 169 -1
+-1 0 188 -1
+-1 1 207 -1
+---
+start type is: 169
+-1 0 170 -1
+---
+start type is: 170
+0 1 171 -1
+-1 0 182 -1
+---
+start type is: 171
+-1 0 172 -1
+---
+start type is: 172
+0 1 173 -1
+-1 0 178 -1
+---
+start type is: 173
+0 1 174 -1
+---
+start type is: 174
+-1 0 175 -1
+0 1 176 -1
+---
+start type is: 175
+0 1 137 563
+---
+start type is: 176
+0 1 0 515
+1 0 177 -1
+---
+start type is: 177
+0 1 24 507
+---
+start type is: 178
+0 1 179 -1
+---
+start type is: 179
+-1 0 180 -1
+---
+start type is: 180
+0 1 181 -1
+---
+start type is: 181
+-1 0 133 523
+---
+start type is: 182
+0 1 183 -1
+---
+start type is: 183
+-1 0 184 -1
+---
+start type is: 184
+0 1 185 -1
+---
+start type is: 185
+-1 0 186 -1
+---
+start type is: 186
+-1 0 187 -1
+---
+start type is: 187
+-1 0 106 527
+---
+start type is: 188
+0 1 189 -1
+---
+start type is: 189
+-1 0 190 -1
+0 1 201 -1
+---
+start type is: 190
+0 1 191 -1
+---
+start type is: 191
+0 1 192 -1
+-1 0 196 -1
+---
+start type is: 192
+-1 0 193 -1
+---
+start type is: 193
+0 1 194 -1
+---
+start type is: 194
+-1 0 195 -1
+---
+start type is: 195
+0 1 137 495
+---
+start type is: 196
+-1 0 197 -1
+---
+start type is: 197
+0 1 198 -1
+-1 0 199 -1
+---
+start type is: 198
+-1 0 133 567
+---
+start type is: 199
+-1 0 106 543
+0 -1 200 -1
+---
+start type is: 200
+-1 0 98 535
+---
+start type is: 201
+-1 0 202 -1
+---
+start type is: 202
+0 1 203 -1
+---
+start type is: 203
+-1 0 204 -1
+---
+start type is: 204
+0 1 205 -1
+---
+start type is: 205
+0 1 206 -1
+---
+start type is: 206
+0 1 0 499
+---
+start type is: 207
+-1 0 208 -1
+0 1 212 -1
+-1 1 216 -1
+---
+start type is: 208
+0 1 209 -1
+---
+start type is: 209
+-1 0 210 -1
+---
+start type is: 210
+0 1 211 -1
+---
+start type is: 211
+-1 0 133 539
+---
+start type is: 212
+-1 0 213 -1
+---
+start type is: 213
+0 1 214 -1
+---
+start type is: 214
+-1 0 215 -1
+---
+start type is: 215
+0 1 137 511
+---
+start type is: 216
+-1 1 217 -1
+---
+start type is: 217
+-1 1 218 -1
+---
+start type is: 218
+-1 1 167 483
+---
+start type is: 219
+-1 0 220 -1
+---
+start type is: 220
+0 1 221 -1
+---
+start type is: 221
+0 1 0 547
+-1 0 222 -1
+0 1 231 -1
+---
+start type is: 222
+0 1 223 -1
+---
+start type is: 223
+0 1 224 -1
+---
+start type is: 224
+0 1 0 571
+0 1 225 -1
+---
+start type is: 225
+1 0 226 -1
+0 1 229 -1
+---
+start type is: 226
+0 1 227 -1
+---
+start type is: 227
+1 0 228 -1
+---
+start type is: 228
+0 1 7 491
+---
+start type is: 229
+1 0 230 -1
+---
+start type is: 230
+0 1 24 503
+---
+start type is: 231
+0 1 24 551
+---
+start type is: 232
+0 1 233 -1
+---
+start type is: 233
+-1 0 234 -1
+---
+start type is: 234
+-1 0 106 555
+0 1 235 -1
+-1 0 244 -1
+---
+start type is: 235
+-1 0 236 -1
+---
+start type is: 236
+-1 0 237 -1
+---
+start type is: 237
+-1 0 106 575
+-1 0 238 -1
+---
+start type is: 238
+0 -1 239 -1
+-1 0 242 -1
+---
+start type is: 239
+-1 0 240 -1
+---
+start type is: 240
+0 -1 241 -1
+---
+start type is: 241
+-1 0 110 519
+---
+start type is: 242
+0 -1 243 -1
+---
+start type is: 243
+-1 0 98 531
+---
+start type is: 244
+-1 0 98 559
+---
+start type is: 245
+-1 0 106 718
+0 1 246 -1
+---
+start type is: 246
+-1 0 247 -1
+-1 1 258 -1
+---
+start type is: 247
+0 1 248 -1
+-1 0 254 -1
+---
+start type is: 248
+-1 0 133 758
+-1 0 249 -1
+---
+start type is: 249
+0 1 250 -1
+-1 0 251 -1
+---
+start type is: 250
+-1 0 167 742
+---
+start type is: 251
+0 1 252 -1
+-1 0 253 -1
+---
+start type is: 252
+-1 0 133 646
+---
+start type is: 253
+-1 0 106 630
+---
+start type is: 254
+-1 0 255 -1
+---
+start type is: 255
+-1 0 256 -1
+---
+start type is: 256
+-1 0 106 622
+0 -1 257 -1
+---
+start type is: 257
+-1 0 98 598
+---
+start type is: 258
+-1 1 167 638
+---
+start type is: 259
+0 1 24 726
+---
+start type is: 260
+-1 0 261 -1
+0 1 270 -1
+0 -1 285 -1
+---
+start type is: 261
+-1 0 262 -1
+0 -1 269 -1
+---
+start type is: 262
+-1 0 263 -1
+---
+start type is: 263
+-1 0 106 747
+0 -1 264 -1
+-1 0 267 -1
+---
+start type is: 264
+-1 0 265 -1
+---
+start type is: 265
+0 -1 94 651
+0 -1 266 -1
+---
+start type is: 266
+-1 0 110 675
+---
+start type is: 267
+0 -1 268 -1
+---
+start type is: 268
+-1 0 98 699
+---
+start type is: 269
+-1 0 98 763
+---
+start type is: 270
+-1 0 271 -1
+---
+start type is: 271
+-1 0 272 -1
+0 1 281 -1
+---
+start type is: 272
+-1 0 106 691
+0 1 273 -1
+-1 0 278 -1
+---
+start type is: 273
+-1 0 274 -1
+---
+start type is: 274
+-1 0 275 -1
+---
+start type is: 275
+-1 0 106 659
+0 1 276 -1
+0 -1 277 -1
+---
+start type is: 276
+-1 0 133 579
+---
+start type is: 277
+-1 0 98 667
+---
+start type is: 278
+-1 0 279 -1
+---
+start type is: 279
+0 -1 280 -1
+---
+start type is: 280
+-1 0 110 683
+---
+start type is: 281
+-1 0 282 -1
+---
+start type is: 282
+0 1 283 -1
+---
+start type is: 283
+-1 0 284 -1
+---
+start type is: 284
+-1 1 167 603
+0 1 137 611
+---
+start type is: 285
+-1 0 110 731
+---
+start type is: 286
+0 1 0 715
+-1 0 287 -1
+---
+start type is: 287
+0 1 288 -1
+-1 1 299 -1
+---
+start type is: 288
+-1 0 289 -1
+0 1 295 -1
+---
+start type is: 289
+0 1 137 755
+0 1 290 -1
+---
+start type is: 290
+0 1 291 -1
+-1 0 294 -1
+---
+start type is: 291
+0 1 292 -1
+-1 0 293 -1
+---
+start type is: 292
+0 1 0 627
+---
+start type is: 293
+0 1 137 643
+---
+start type is: 294
+0 1 167 739
+---
+start type is: 295
+0 1 296 -1
+---
+start type is: 296
+0 1 297 -1
+---
+start type is: 297
+0 1 0 619
+1 0 298 -1
+---
+start type is: 298
+0 1 24 595
+---
+start type is: 299
+-1 1 167 635
+---
+start type is: 300
+-1 0 98 723
+---
+start type is: 301
+-1 0 98 562
+---
+start type is: 302
+-1 0 303 -1
+---
+start type is: 303
+0 -1 304 -1
+---
+start type is: 304
+-1 0 305 -1
+---
+start type is: 305
+0 -1 94 522
+---
+start type is: 306
+-1 0 307 -1
+---
+start type is: 307
+0 -1 308 -1
+---
+start type is: 308
+-1 0 309 -1
+---
+start type is: 309
+0 -1 310 -1
+---
+start type is: 310
+0 -1 311 -1
+---
+start type is: 311
+0 -1 77 526
+---
+start type is: 312
+-1 0 313 -1
+---
+start type is: 313
+0 -1 314 -1
+-1 0 325 -1
+---
+start type is: 314
+-1 0 315 -1
+---
+start type is: 315
+0 -1 316 -1
+-1 0 321 -1
+---
+start type is: 316
+0 -1 317 -1
+---
+start type is: 317
+0 -1 318 -1
+-1 0 320 -1
+---
+start type is: 318
+0 -1 77 542
+1 0 319 -1
+---
+start type is: 319
+0 -1 45 534
+---
+start type is: 320
+0 -1 94 566
+---
+start type is: 321
+0 -1 322 -1
+---
+start type is: 322
+-1 0 323 -1
+---
+start type is: 323
+0 -1 324 -1
+---
+start type is: 324
+-1 0 98 494
+---
+start type is: 325
+0 -1 326 -1
+---
+start type is: 326
+-1 0 327 -1
+---
+start type is: 327
+0 -1 328 -1
+---
+start type is: 328
+-1 0 329 -1
+---
+start type is: 329
+-1 0 330 -1
+---
+start type is: 330
+-1 0 106 498
+---
+start type is: 331
+-1 -1 332 -1
+0 -1 335 -1
+-1 0 339 -1
+---
+start type is: 332
+-1 -1 333 -1
+---
+start type is: 333
+-1 -1 334 -1
+---
+start type is: 334
+-1 -1 110 482
+---
+start type is: 335
+-1 0 336 -1
+---
+start type is: 336
+0 -1 337 -1
+---
+start type is: 337
+-1 0 338 -1
+---
+start type is: 338
+0 -1 94 538
+---
+start type is: 339
+0 -1 340 -1
+---
+start type is: 340
+-1 0 341 -1
+---
+start type is: 341
+0 -1 342 -1
+---
+start type is: 342
+-1 0 98 510
+---
+start type is: 343
+0 -1 344 -1
+---
+start type is: 344
+-1 0 345 -1
+---
+start type is: 345
+-1 0 106 546
+0 -1 346 -1
+-1 0 355 -1
+---
+start type is: 346
+-1 0 347 -1
+---
+start type is: 347
+-1 0 348 -1
+---
+start type is: 348
+-1 0 106 570
+-1 0 349 -1
+---
+start type is: 349
+-1 0 350 -1
+0 1 352 -1
+---
+start type is: 350
+0 1 351 -1
+---
+start type is: 351
+-1 0 133 502
+---
+start type is: 352
+-1 0 353 -1
+---
+start type is: 353
+0 1 354 -1
+---
+start type is: 354
+-1 0 167 490
+---
+start type is: 355
+-1 0 133 550
+---
+start type is: 356
+0 -1 94 463
+---
+start type is: 357
+-1 0 358 -1
+0 -1 388 -1
+0 1 395 -1
+---
+start type is: 358
+-1 0 359 -1
+0 1 372 -1
+0 -1 380 -1
+---
+start type is: 359
+0 1 360 -1
+-1 0 361 -1
+0 -1 371 -1
+---
+start type is: 360
+-1 0 133 415
+---
+start type is: 361
+-1 0 362 -1
+0 -1 365 -1
+0 1 368 -1
+---
+start type is: 362
+-1 0 106 387
+0 -1 363 -1
+0 1 364 -1
+---
+start type is: 363
+-1 0 98 427
+---
+start type is: 364
+-1 0 133 399
+---
+start type is: 365
+-1 0 366 -1
+---
+start type is: 366
+0 -1 367 -1
+---
+start type is: 367
+-1 0 110 431
+---
+start type is: 368
+-1 0 369 -1
+---
+start type is: 369
+0 1 370 -1
+---
+start type is: 370
+-1 0 167 403
+---
+start type is: 371
+-1 0 98 443
+---
+start type is: 372
+-1 0 373 -1
+---
+start type is: 373
+0 1 374 -1
+-1 0 378 -1
+---
+start type is: 374
+-1 0 375 -1
+---
+start type is: 375
+0 1 376 -1
+---
+start type is: 376
+-1 0 167 419
+-1 0 377 -1
+---
+start type is: 377
+0 1 137 411
+---
+start type is: 378
+0 1 379 -1
+---
+start type is: 379
+-1 0 133 467
+---
+start type is: 380
+-1 0 381 -1
+---
+start type is: 381
+-1 0 382 -1
+0 -1 384 -1
+---
+start type is: 382
+0 -1 383 -1
+---
+start type is: 383
+-1 0 98 471
+---
+start type is: 384
+-1 0 385 -1
+---
+start type is: 385
+0 -1 386 -1
+---
+start type is: 386
+-1 0 110 447
+-1 0 387 -1
+---
+start type is: 387
+0 -1 94 439
+---
+start type is: 388
+-1 0 389 -1
+---
+start type is: 389
+0 -1 390 -1
+---
+start type is: 390
+-1 0 110 479
+-1 0 391 -1
+---
+start type is: 391
+0 -1 392 -1
+---
+start type is: 392
+0 -1 393 -1
+---
+start type is: 393
+0 -1 77 423
+-1 0 394 -1
+---
+start type is: 394
+0 -1 94 435
+---
+start type is: 395
+-1 0 396 -1
+---
+start type is: 396
+0 1 397 -1
+---
+start type is: 397
+-1 0 167 475
+-1 0 398 -1
+---
+start type is: 398
+0 1 399 -1
+---
+start type is: 399
+0 1 400 -1
+---
+start type is: 400
+0 1 0 395
+-1 0 401 -1
+---
+start type is: 401
+0 1 137 407
+---
+start type is: 402
+-1 0 167 451
+-1 0 403 -1
+---
+start type is: 403
+0 1 137 455
+---
+start type is: 404
+0 1 405 -1
+---
+start type is: 405
+-1 0 133 701
+---
+start type is: 406
+-1 0 407 -1
+---
+start type is: 407
+0 1 137 653
+0 1 408 -1
+---
+start type is: 408
+-1 0 167 677
+---
+start type is: 409
+-1 0 133 765
+---
+start type is: 410
+-1 0 411 -1
+---
+start type is: 411
+-1 0 412 -1
+0 -1 421 -1
+---
+start type is: 412
+-1 0 106 693
+0 -1 413 -1
+-1 0 418 -1
+---
+start type is: 413
+-1 0 414 -1
+---
+start type is: 414
+-1 0 415 -1
+---
+start type is: 415
+-1 0 106 661
+0 1 416 -1
+0 -1 417 -1
+---
+start type is: 416
+-1 0 133 669
+---
+start type is: 417
+-1 0 98 581
+---
+start type is: 418
+-1 0 419 -1
+---
+start type is: 419
+0 1 420 -1
+---
+start type is: 420
+-1 0 167 685
+---
+start type is: 421
+-1 0 422 -1
+---
+start type is: 422
+0 -1 423 -1
+---
+start type is: 423
+-1 0 424 -1
+---
+start type is: 424
+0 -1 94 613
+-1 -1 110 605
+---
+start type is: 425
+-1 0 167 733
+---
+start type is: 426
+0 -1 77 717
+-1 0 427 -1
+---
+start type is: 427
+-1 -1 428 -1
+0 -1 429 -1
+---
+start type is: 428
+-1 -1 110 637
+---
+start type is: 429
+0 -1 430 -1
+-1 0 434 -1
+---
+start type is: 430
+0 -1 431 -1
+---
+start type is: 431
+0 -1 432 -1
+---
+start type is: 432
+0 -1 77 621
+1 0 433 -1
+---
+start type is: 433
+0 -1 45 597
+---
+start type is: 434
+0 -1 94 757
+0 -1 435 -1
+---
+start type is: 435
+0 -1 436 -1
+-1 0 439 -1
+---
+start type is: 436
+-1 0 437 -1
+0 -1 438 -1
+---
+start type is: 437
+0 -1 94 645
+---
+start type is: 438
+0 -1 77 629
+---
+start type is: 439
+0 -1 110 741
+---
+start type is: 440
+-1 0 133 725
+---
+start type is: 441
+-1 0 442 -1
+0 -1 457 -1
+1 0 466 -1
+---
+start type is: 442
+0 -1 443 -1
+---
+start type is: 443
+0 -1 444 -1
+-1 0 453 -1
+---
+start type is: 444
+0 -1 77 690
+-1 0 445 -1
+0 -1 450 -1
+---
+start type is: 445
+0 -1 446 -1
+---
+start type is: 446
+0 -1 447 -1
+---
+start type is: 447
+0 -1 77 658
+-1 0 448 -1
+1 0 449 -1
+---
+start type is: 448
+0 -1 94 578
+---
+start type is: 449
+0 -1 45 666
+---
+start type is: 450
+0 -1 451 -1
+---
+start type is: 451
+1 0 452 -1
+---
+start type is: 452
+0 -1 56 682
+---
+start type is: 453
+0 -1 454 -1
+---
+start type is: 454
+-1 0 455 -1
+---
+start type is: 455
+0 -1 456 -1
+---
+start type is: 456
+-1 -1 110 602
+-1 0 98 610
+---
+start type is: 457
+0 -1 458 -1
+1 0 465 -1
+---
+start type is: 458
+0 -1 459 -1
+---
+start type is: 459
+0 -1 77 746
+1 0 460 -1
+0 -1 463 -1
+---
+start type is: 460
+0 -1 461 -1
+---
+start type is: 461
+1 0 41 650
+1 0 462 -1
+---
+start type is: 462
+0 -1 56 674
+---
+start type is: 463
+1 0 464 -1
+---
+start type is: 464
+0 -1 45 698
+---
+start type is: 465
+0 -1 45 762
+---
+start type is: 466
+0 -1 56 730
+---
+start type is: 467
+-1 0 106 714
+0 -1 468 -1
+---
+start type is: 468
+-1 0 469 -1
+-1 -1 480 -1
+---
+start type is: 469
+0 -1 470 -1
+-1 0 476 -1
+---
+start type is: 470
+-1 0 98 754
+-1 0 471 -1
+---
+start type is: 471
+0 -1 472 -1
+-1 0 473 -1
+---
+start type is: 472
+-1 0 110 738
+---
+start type is: 473
+0 -1 474 -1
+-1 0 475 -1
+---
+start type is: 474
+-1 0 98 642
+---
+start type is: 475
+-1 0 106 626
+---
+start type is: 476
+-1 0 477 -1
+---
+start type is: 477
+-1 0 478 -1
+---
+start type is: 478
+-1 0 106 618
+0 1 479 -1
+---
+start type is: 479
+-1 0 133 594
+---
+start type is: 480
+-1 -1 110 634
+---
+start type is: 481
+0 -1 45 722
+---
+start type is: 482
+0 -1 483 -1
+---
+start type is: 483
+-1 0 484 -1
+---
+start type is: 484
+0 -1 110 402
+---
+start type is: 485
+0 -1 486 -1
+---
+start type is: 486
+1 0 487 -1
+---
+start type is: 487
+0 -1 56 430
+---
+start type is: 488
+0 -1 45 442
+---
+start type is: 489
+0 -1 94 414
+---
+start type is: 490
+0 -1 491 -1
+---
+start type is: 491
+1 0 492 -1
+0 -1 496 -1
+---
+start type is: 492
+0 -1 493 -1
+---
+start type is: 493
+1 0 494 -1
+---
+start type is: 494
+0 -1 56 446
+0 -1 495 -1
+---
+start type is: 495
+1 0 41 438
+---
+start type is: 496
+1 0 497 -1
+---
+start type is: 497
+0 -1 45 470
+---
+start type is: 498
+0 -1 499 -1
+---
+start type is: 499
+0 -1 500 -1
+-1 0 502 -1
+---
+start type is: 500
+-1 0 501 -1
+---
+start type is: 501
+0 -1 94 466
+---
+start type is: 502
+0 -1 503 -1
+---
+start type is: 503
+-1 0 504 -1
+---
+start type is: 504
+0 -1 110 418
+0 -1 505 -1
+---
+start type is: 505
+-1 0 98 410
+---
+start type is: 506
+0 -1 507 -1
+---
+start type is: 507
+-1 0 508 -1
+---
+start type is: 508
+0 -1 110 474
+0 -1 509 -1
+---
+start type is: 509
+-1 0 510 -1
+---
+start type is: 510
+-1 0 511 -1
+---
+start type is: 511
+-1 0 106 394
+0 -1 512 -1
+---
+start type is: 512
+-1 0 98 406
+---
+start type is: 513
+0 -1 110 450
+0 -1 514 -1
+---
+start type is: 514
+-1 0 98 454
+---
+start type is: 515
+0 -1 56 458
+0 -1 516 -1
+---
+start type is: 516
+1 0 41 462
+---
+start type is: 517
+1 0 518 -1
+---
+start type is: 518
+0 -1 519 -1
+1 0 530 -1
+---
+start type is: 519
+1 0 520 -1
+---
+start type is: 520
+0 -1 521 -1
+1 0 526 -1
+---
+start type is: 521
+0 -1 522 -1
+---
+start type is: 522
+0 -1 523 -1
+1 0 525 -1
+---
+start type is: 523
+0 -1 77 513
+-1 0 524 -1
+---
+start type is: 524
+0 -1 94 505
+---
+start type is: 525
+0 -1 45 561
+---
+start type is: 526
+0 -1 527 -1
+---
+start type is: 527
+1 0 528 -1
+---
+start type is: 528
+0 -1 529 -1
+---
+start type is: 529
+1 0 41 521
+---
+start type is: 530
+0 -1 531 -1
+---
+start type is: 531
+1 0 532 -1
+---
+start type is: 532
+0 -1 533 -1
+---
+start type is: 533
+1 0 534 -1
+---
+start type is: 534
+1 0 535 -1
+---
+start type is: 535
+1 0 11 525
+---
+start type is: 536
+0 -1 537 -1
+1 -1 541 -1
+1 0 544 -1
+---
+start type is: 537
+1 0 538 -1
+---
+start type is: 538
+0 -1 539 -1
+---
+start type is: 539
+1 0 540 -1
+---
+start type is: 540
+0 -1 45 509
+---
+start type is: 541
+1 -1 542 -1
+---
+start type is: 542
+1 -1 543 -1
+---
+start type is: 543
+1 -1 56 481
+---
+start type is: 544
+0 -1 545 -1
+---
+start type is: 545
+1 0 546 -1
+---
+start type is: 546
+0 -1 547 -1
+---
+start type is: 547
+1 0 41 537
+---
+start type is: 548
+0 -1 549 -1
+---
+start type is: 549
+1 0 550 -1
+---
+start type is: 550
+1 0 11 553
+0 -1 551 -1
+1 0 560 -1
+---
+start type is: 551
+1 0 552 -1
+---
+start type is: 552
+1 0 553 -1
+---
+start type is: 553
+1 0 11 573
+1 0 554 -1
+---
+start type is: 554
+1 0 555 -1
+0 1 557 -1
+---
+start type is: 555
+0 1 556 -1
+---
+start type is: 556
+1 0 20 529
+---
+start type is: 557
+1 0 558 -1
+---
+start type is: 558
+0 1 559 -1
+---
+start type is: 559
+1 0 7 517
+---
+start type is: 560
+1 0 20 557
+---
+start type is: 561
+1 0 562 -1
+---
+start type is: 562
+0 -1 563 -1
+---
+start type is: 563
+0 -1 77 545
+1 0 564 -1
+0 -1 573 -1
+---
+start type is: 564
+0 -1 565 -1
+---
+start type is: 565
+0 -1 566 -1
+---
+start type is: 566
+0 -1 77 569
+0 -1 567 -1
+---
+start type is: 567
+0 -1 568 -1
+-1 0 570 -1
+---
+start type is: 568
+-1 0 569 -1
+---
+start type is: 569
+0 -1 94 501
+---
+start type is: 570
+0 -1 571 -1
+---
+start type is: 571
+-1 0 572 -1
+---
+start type is: 572
+0 -1 110 489
+---
+start type is: 573
+0 -1 94 549
+---
+start type is: 574
+0 -1 77 692
+0 -1 575 -1
+1 0 578 -1
+---
+start type is: 575
+0 -1 576 -1
+---
+start type is: 576
+-1 0 577 -1
+---
+start type is: 577
+0 -1 110 684
+---
+start type is: 578
+0 -1 579 -1
+---
+start type is: 579
+0 -1 580 -1
+---
+start type is: 580
+0 -1 77 660
+-1 0 581 -1
+1 0 582 -1
+---
+start type is: 581
+0 -1 94 668
+---
+start type is: 582
+0 -1 45 580
+---
+start type is: 583
+0 -1 584 -1
+-1 0 591 -1
+---
+start type is: 584
+0 -1 585 -1
+---
+start type is: 585
+0 -1 77 748
+-1 0 586 -1
+0 -1 589 -1
+---
+start type is: 586
+0 -1 587 -1
+---
+start type is: 587
+-1 0 98 652
+-1 0 588 -1
+---
+start type is: 588
+0 -1 110 676
+---
+start type is: 589
+-1 0 590 -1
+---
+start type is: 590
+0 -1 94 700
+---
+start type is: 591
+0 -1 94 764
+---
+start type is: 592
+0 -1 110 732
+---
+start type is: 593
+1 0 11 716
+0 -1 594 -1
+---
+start type is: 594
+1 0 595 -1
+1 -1 606 -1
+---
+start type is: 595
+1 0 596 -1
+0 -1 600 -1
+---
+start type is: 596
+1 0 597 -1
+---
+start type is: 597
+1 0 598 -1
+---
+start type is: 598
+1 0 11 620
+0 1 599 -1
+---
+start type is: 599
+1 0 20 596
+---
+start type is: 600
+1 0 41 756
+1 0 601 -1
+---
+start type is: 601
+0 -1 602 -1
+1 0 603 -1
+---
+start type is: 602
+1 0 56 740
+---
+start type is: 603
+1 0 604 -1
+0 -1 605 -1
+---
+start type is: 604
+1 0 11 628
+---
+start type is: 605
+1 0 41 644
+---
+start type is: 606
+1 -1 56 636
+---
+start type is: 607
+0 -1 94 724
+---
+start type is: 608
+0 -1 609 -1
+1 0 624 -1
+0 1 633 -1
+---
+start type is: 609
+1 0 610 -1
+---
+start type is: 610
+1 0 611 -1
+0 -1 620 -1
+---
+start type is: 611
+1 0 11 689
+1 0 612 -1
+0 -1 615 -1
+---
+start type is: 612
+1 0 613 -1
+---
+start type is: 613
+0 1 614 -1
+---
+start type is: 614
+1 0 7 681
+---
+start type is: 615
+1 0 616 -1
+---
+start type is: 616
+1 0 617 -1
+---
+start type is: 617
+1 0 11 657
+0 -1 618 -1
+0 1 619 -1
+---
+start type is: 618
+1 0 41 577
+---
+start type is: 619
+1 0 20 665
+---
+start type is: 620
+1 0 621 -1
+---
+start type is: 621
+0 -1 622 -1
+---
+start type is: 622
+1 0 623 -1
+---
+start type is: 623
+0 -1 45 609
+1 -1 56 601
+---
+start type is: 624
+1 0 625 -1
+0 1 632 -1
+---
+start type is: 625
+1 0 626 -1
+---
+start type is: 626
+1 0 11 745
+1 0 627 -1
+0 1 629 -1
+---
+start type is: 627
+0 1 628 -1
+---
+start type is: 628
+1 0 20 697
+---
+start type is: 629
+1 0 630 -1
+---
+start type is: 630
+0 1 24 649
+0 1 631 -1
+---
+start type is: 631
+1 0 7 673
+---
+start type is: 632
+1 0 20 761
+---
+start type is: 633
+1 0 7 729
+---
+start type is: 634
+0 -1 77 713
+1 0 635 -1
+---
+start type is: 635
+0 -1 636 -1
+1 -1 647 -1
+---
+start type is: 636
+0 -1 637 -1
+1 0 641 -1
+---
+start type is: 637
+0 -1 638 -1
+---
+start type is: 638
+0 -1 639 -1
+---
+start type is: 639
+0 -1 77 617
+-1 0 640 -1
+---
+start type is: 640
+0 -1 94 593
+---
+start type is: 641
+0 -1 45 753
+0 -1 642 -1
+---
+start type is: 642
+0 -1 643 -1
+1 0 646 -1
+---
+start type is: 643
+0 -1 644 -1
+1 0 645 -1
+---
+start type is: 644
+0 -1 77 625
+---
+start type is: 645
+0 -1 45 641
+---
+start type is: 646
+0 -1 56 737
+---
+start type is: 647
+1 -1 56 633
+---
+start type is: 648
+1 0 20 721
+---
+start type is: 649
+1 1 7 632
+---
+start type is: 650
+0 1 651 -1
+1 0 660 -1
+-1 0 675 -1
+---
+start type is: 651
+0 1 652 -1
+-1 0 659 -1
+---
+start type is: 652
+0 1 653 -1
+---
+start type is: 653
+0 1 0 744
+-1 0 654 -1
+0 1 657 -1
+---
+start type is: 654
+0 1 655 -1
+---
+start type is: 655
+-1 0 133 648
+-1 0 656 -1
+---
+start type is: 656
+0 1 167 672
+---
+start type is: 657
+-1 0 658 -1
+---
+start type is: 658
+0 1 137 696
+---
+start type is: 659
+0 1 137 760
+---
+start type is: 660
+0 1 661 -1
+---
+start type is: 661
+1 0 662 -1
+0 1 666 -1
+---
+start type is: 662
+0 1 663 -1
+---
+start type is: 663
+1 0 664 -1
+---
+start type is: 664
+0 1 665 -1
+---
+start type is: 665
+1 1 7 600
+1 0 20 608
+---
+start type is: 666
+0 1 0 688
+1 0 667 -1
+0 1 672 -1
+---
+start type is: 667
+0 1 668 -1
+---
+start type is: 668
+0 1 669 -1
+---
+start type is: 669
+0 1 0 656
+-1 0 670 -1
+1 0 671 -1
+---
+start type is: 670
+0 1 137 664
+---
+start type is: 671
+0 1 24 576
+---
+start type is: 672
+0 1 673 -1
+---
+start type is: 673
+-1 0 674 -1
+---
+start type is: 674
+0 1 167 680
+---
+start type is: 675
+0 1 167 728
+---
+start type is: 676
+0 1 137 720
+---
+start type is: 677
+0 1 678 -1
+0 -1 693 -1
+1 0 694 -1
+---
+start type is: 678
+1 0 679 -1
+---
+start type is: 679
+1 0 680 -1
+0 1 689 -1
+---
+start type is: 680
+1 0 11 695
+0 1 681 -1
+1 0 686 -1
+---
+start type is: 681
+1 0 682 -1
+---
+start type is: 682
+1 0 683 -1
+---
+start type is: 683
+1 0 11 663
+0 -1 684 -1
+0 1 685 -1
+---
+start type is: 684
+1 0 41 671
+---
+start type is: 685
+1 0 20 583
+---
+start type is: 686
+1 0 687 -1
+---
+start type is: 687
+0 -1 688 -1
+---
+start type is: 688
+1 0 56 687
+---
+start type is: 689
+1 0 690 -1
+---
+start type is: 690
+0 1 691 -1
+---
+start type is: 691
+1 0 692 -1
+---
+start type is: 692
+0 1 24 615
+1 1 7 607
+---
+start type is: 693
+1 0 56 735
+---
+start type is: 694
+1 0 695 -1
+0 -1 702 -1
+---
+start type is: 695
+1 0 696 -1
+---
+start type is: 696
+1 0 11 751
+0 -1 697 -1
+1 0 700 -1
+---
+start type is: 697
+1 0 698 -1
+---
+start type is: 698
+0 -1 45 655
+0 -1 699 -1
+---
+start type is: 699
+1 0 56 679
+---
+start type is: 700
+0 -1 701 -1
+---
+start type is: 701
+1 0 41 703
+---
+start type is: 702
+1 0 41 767
+---
+start type is: 703
+0 1 0 719
+1 0 704 -1
+---
+start type is: 704
+0 1 705 -1
+1 1 716 -1
+---
+start type is: 705
+1 0 706 -1
+0 1 712 -1
+---
+start type is: 706
+0 1 24 759
+0 1 707 -1
+---
+start type is: 707
+0 1 708 -1
+1 0 711 -1
+---
+start type is: 708
+0 1 709 -1
+1 0 710 -1
+---
+start type is: 709
+0 1 0 631
+---
+start type is: 710
+0 1 24 647
+---
+start type is: 711
+0 1 7 743
+---
+start type is: 712
+0 1 713 -1
+---
+start type is: 713
+0 1 714 -1
+---
+start type is: 714
+0 1 0 623
+-1 0 715 -1
+---
+start type is: 715
+0 1 137 599
+---
+start type is: 716
+1 1 7 639
+---
+start type is: 717
+1 0 41 727
+---
+start type is: 718
+1 0 719 -1
+---
+start type is: 719
+0 1 720 -1
+---
+start type is: 720
+1 0 7 445
+1 0 721 -1
+---
+start type is: 721
+0 1 24 437
+---
+start type is: 722
+1 0 723 -1
+---
+start type is: 723
+0 -1 724 -1
+1 0 728 -1
+---
+start type is: 724
+1 0 725 -1
+---
+start type is: 725
+0 -1 726 -1
+---
+start type is: 726
+1 0 56 417
+1 0 727 -1
+---
+start type is: 727
+0 -1 45 409
+---
+start type is: 728
+0 -1 729 -1
+---
+start type is: 729
+1 0 41 465
+---
+start type is: 730
+0 1 731 -1
+1 0 732 -1
+0 -1 742 -1
+---
+start type is: 731
+1 0 20 441
+---
+start type is: 732
+1 0 733 -1
+0 1 736 -1
+0 -1 739 -1
+---
+start type is: 733
+1 0 11 385
+0 1 734 -1
+0 -1 735 -1
+---
+start type is: 734
+1 0 20 425
+---
+start type is: 735
+1 0 41 397
+---
+start type is: 736
+1 0 737 -1
+---
+start type is: 737
+0 1 738 -1
+---
+start type is: 738
+1 0 7 429
+---
+start type is: 739
+1 0 740 -1
+---
+start type is: 740
+0 -1 741 -1
+---
+start type is: 741
+1 0 56 401
+---
+start type is: 742
+1 0 41 413
+---
+start type is: 743
+1 0 744 -1
+---
+start type is: 744
+0 1 745 -1
+---
+start type is: 745
+1 0 7 477
+1 0 746 -1
+---
+start type is: 746
+0 1 747 -1
+---
+start type is: 747
+0 1 748 -1
+---
+start type is: 748
+0 1 0 421
+1 0 749 -1
+---
+start type is: 749
+0 1 24 433
+---
+start type is: 750
+1 0 751 -1
+---
+start type is: 751
+0 -1 752 -1
+---
+start type is: 752
+1 0 56 473
+1 0 753 -1
+---
+start type is: 753
+0 -1 754 -1
+---
+start type is: 754
+0 -1 755 -1
+---
+start type is: 755
+0 -1 77 393
+1 0 756 -1
+---
+start type is: 756
+0 -1 45 405
+---
+start type is: 757
+1 0 56 449
+1 0 758 -1
+---
+start type is: 758
+0 -1 45 453
+---
+start type is: 759
+1 0 7 457
+1 0 760 -1
+---
+start type is: 760
+0 1 24 461
+---
+start type is: 761
+1 0 762 -1
+---
+start type is: 762
+1 0 763 -1
+---
+start type is: 763
+1 0 11 568
+1 0 764 -1
+---
+start type is: 764
+1 0 765 -1
+0 -1 767 -1
+---
+start type is: 765
+0 -1 766 -1
+---
+start type is: 766
+1 0 41 500
+---
+start type is: 767
+1 0 768 -1
+---
+start type is: 768
+0 -1 769 -1
+---
+start type is: 769
+1 0 56 488
+---
+start type is: 770
+1 0 41 548
+---
+start type is: 771
+0 1 772 -1
+1 0 791 -1
+1 1 810 -1
+---
+start type is: 772
+1 0 773 -1
+---
+start type is: 773
+0 1 774 -1
+1 0 785 -1
+---
+start type is: 774
+1 0 775 -1
+---
+start type is: 775
+0 1 776 -1
+1 0 781 -1
+---
+start type is: 776
+0 1 777 -1
+---
+start type is: 777
+0 1 778 -1
+1 0 780 -1
+---
+start type is: 778
+0 1 0 540
+-1 0 779 -1
+---
+start type is: 779
+0 1 137 532
+---
+start type is: 780
+0 1 24 564
+---
+start type is: 781
+0 1 782 -1
+---
+start type is: 782
+1 0 783 -1
+---
+start type is: 783
+0 1 784 -1
+---
+start type is: 784
+1 0 20 492
+---
+start type is: 785
+0 1 786 -1
+---
+start type is: 786
+1 0 787 -1
+---
+start type is: 787
+0 1 788 -1
+---
+start type is: 788
+1 0 789 -1
+---
+start type is: 789
+1 0 790 -1
+---
+start type is: 790
+1 0 11 496
+---
+start type is: 791
+0 1 792 -1
+---
+start type is: 792
+1 0 793 -1
+0 1 804 -1
+---
+start type is: 793
+0 1 794 -1
+---
+start type is: 794
+1 0 795 -1
+0 1 800 -1
+---
+start type is: 795
+1 0 796 -1
+---
+start type is: 796
+1 0 797 -1
+0 1 799 -1
+---
+start type is: 797
+1 0 11 512
+0 -1 798 -1
+---
+start type is: 798
+1 0 41 504
+---
+start type is: 799
+1 0 20 560
+---
+start type is: 800
+1 0 801 -1
+---
+start type is: 801
+0 1 802 -1
+---
+start type is: 802
+1 0 803 -1
+---
+start type is: 803
+0 1 24 520
+---
+start type is: 804
+1 0 805 -1
+---
+start type is: 805
+0 1 806 -1
+---
+start type is: 806
+1 0 807 -1
+---
+start type is: 807
+0 1 808 -1
+---
+start type is: 808
+0 1 809 -1
+---
+start type is: 809
+0 1 0 524
+---
+start type is: 810
+0 1 811 -1
+1 1 815 -1
+1 0 818 -1
+---
+start type is: 811
+1 0 812 -1
+---
+start type is: 812
+0 1 813 -1
+---
+start type is: 813
+1 0 814 -1
+---
+start type is: 814
+0 1 24 536
+---
+start type is: 815
+1 1 816 -1
+---
+start type is: 816
+1 1 817 -1
+---
+start type is: 817
+1 1 7 480
+---
+start type is: 818
+0 1 819 -1
+---
+start type is: 819
+1 0 820 -1
+---
+start type is: 820
+0 1 821 -1
+---
+start type is: 821
+1 0 20 508
+---
+start type is: 822
+1 0 823 -1
+---
+start type is: 823
+0 1 824 -1
+---
+start type is: 824
+0 1 0 552
+1 0 825 -1
+0 1 834 -1
+---
+start type is: 825
+0 1 826 -1
+---
+start type is: 826
+0 1 827 -1
+---
+start type is: 827
+0 1 0 572
+0 1 828 -1
+---
+start type is: 828
+-1 0 829 -1
+0 1 832 -1
+---
+start type is: 829
+0 1 830 -1
+---
+start type is: 830
+-1 0 831 -1
+---
+start type is: 831
+0 1 167 516
+---
+start type is: 832
+-1 0 833 -1
+---
+start type is: 833
+0 1 137 528
+---
+start type is: 834
+0 1 137 556
+---
+start type is: 835
+1 0 836 -1
+---
+start type is: 836
+1 0 837 -1
+---
+start type is: 837
+1 0 11 392
+0 1 838 -1
+---
+start type is: 838
+1 0 20 404
+---
+start type is: 839
+0 1 840 -1
+-1 0 853 -1
+1 0 861 -1
+---
+start type is: 840
+0 1 841 -1
+1 0 851 -1
+-1 0 852 -1
+---
+start type is: 841
+0 1 842 -1
+-1 0 845 -1
+1 0 848 -1
+---
+start type is: 842
+0 1 0 384
+-1 0 843 -1
+1 0 844 -1
+---
+start type is: 843
+0 1 137 424
+---
+start type is: 844
+0 1 24 396
+---
+start type is: 845
+0 1 846 -1
+---
+start type is: 846
+-1 0 847 -1
+---
+start type is: 847
+0 1 167 428
+---
+start type is: 848
+0 1 849 -1
+---
+start type is: 849
+1 0 850 -1
+---
+start type is: 850
+0 1 7 400
+---
+start type is: 851
+0 1 24 412
+---
+start type is: 852
+0 1 137 440
+---
+start type is: 853
+0 1 854 -1
+---
+start type is: 854
+-1 0 855 -1
+0 1 859 -1
+---
+start type is: 855
+0 1 856 -1
+---
+start type is: 856
+-1 0 857 -1
+---
+start type is: 857
+0 1 167 444
+0 1 858 -1
+---
+start type is: 858
+-1 0 133 436
+---
+start type is: 859
+-1 0 860 -1
+---
+start type is: 860
+0 1 137 468
+---
+start type is: 861
+0 1 862 -1
+---
+start type is: 862
+1 0 863 -1
+0 1 867 -1
+---
+start type is: 863
+0 1 864 -1
+---
+start type is: 864
+1 0 865 -1
+---
+start type is: 865
+0 1 7 416
+0 1 866 -1
+---
+start type is: 866
+1 0 20 408
+---
+start type is: 867
+1 0 868 -1
+---
+start type is: 868
+0 1 24 464
+---
+start type is: 869
+0 1 870 -1
+---
+start type is: 870
+-1 0 871 -1
+---
+start type is: 871
+0 1 167 476
+0 1 872 -1
+---
+start type is: 872
+-1 0 873 -1
+---
+start type is: 873
+-1 0 874 -1
+---
+start type is: 874
+-1 0 106 420
+0 1 875 -1
+---
+start type is: 875
+-1 0 133 432
+---
+start type is: 876
+0 1 7 448
+0 1 877 -1
+---
+start type is: 877
+1 0 20 452
+---
+start type is: 878
+0 1 167 456
+0 1 879 -1
+---
+start type is: 879
+-1 0 133 460
+---
+final_thetas_of_type: 0 is (ft, di, dj, k, id):
+0 0 0 0 -1
+---
+final_thetas_of_type: 1 is (ft, di, dj, k, id):
+1 2 6 1 464
+2 1 2 1 448
+13 -5 5 1 432
+2 2 7 1 400
+14 -3 6 1 444
+14 -2 4 1 476
+13 -2 2 1 460
+14 -2 7 1 428
+12 -5 4 1 420
+2 2 4 1 472
+15 -1 5 1 440
+1 1 5 1 412
+0 0 7 1 384
+3 2 2 1 452
+3 5 5 1 404
+2 3 6 1 416
+4 5 4 1 392
+14 -1 2 1 456
+13 -4 6 1 436
+1 1 7 1 396
+3 4 6 1 408
+15 -2 6 1 468
+15 -1 7 1 424
+---
+final_thetas_of_type: 2 is (ft, di, dj, k, id):
+14 -1 1 2 456
+14 -3 5 2 444
+13 -5 4 2 432
+2 3 5 2 416
+14 -2 3 2 476
+2 2 3 2 472
+1 1 4 2 412
+0 0 6 2 384
+1 1 6 2 396
+3 5 4 2 404
+3 2 1 2 452
+3 4 5 2 408
+4 5 3 2 392
+2 2 6 2 400
+15 -2 5 2 468
+15 -1 6 2 424
+1 2 5 2 464
+2 1 1 2 448
+14 -2 6 2 428
+13 -4 5 2 436
+12 -5 3 2 420
+15 -1 4 2 440
+13 -2 1 2 460
+---
+final_thetas_of_type: 3 is (ft, di, dj, k, id):
+3 5 3 3 404
+14 -2 2 3 476
+3 4 4 3 408
+13 -5 3 3 432
+2 2 2 3 472
+15 -2 4 3 468
+15 -1 3 3 440
+1 2 4 3 464
+4 5 2 3 392
+12 -5 2 3 420
+0 0 5 3 384
+2 2 5 3 400
+14 -2 5 3 428
+15 -1 5 3 424
+1 1 5 3 396
+13 -4 4 3 436
+14 -3 4 3 444
+1 1 3 3 412
+2 3 4 3 416
+---
+final_thetas_of_type: 4 is (ft, di, dj, k, id):
+3 4 3 4 404
+2 1 2 4 472
+4 4 2 4 392
+---
+final_thetas_of_type: 5 is (ft, di, dj, k, id):
+2 1 1 5 472
+3 4 2 5 404
+4 4 1 5 392
+---
+final_thetas_of_type: 6 is (ft, di, dj, k, id):
+4 3 1 6 392
+3 3 2 6 404
+2 0 1 6 472
+---
+final_thetas_of_type: 7 is (ft, di, dj, k, id):
+2 0 0 0 -1
+---
+final_thetas_of_type: 8 is (ft, di, dj, k, id):
+5 3 1 1 548
+4 4 2 1 568
+6 6 0 1 488
+4 2 1 1 544
+5 6 1 1 500
+---
+final_thetas_of_type: 9 is (ft, di, dj, k, id):
+5 6 0 2 500
+5 3 0 2 548
+6 6 -1 2 488
+4 2 0 2 544
+4 4 1 2 568
+---
+final_thetas_of_type: 10 is (ft, di, dj, k, id):
+5 2 0 3 548
+6 5 -1 3 488
+4 1 0 3 544
+5 5 0 3 500
+4 3 1 3 568
+---
+final_thetas_of_type: 11 is (ft, di, dj, k, id):
+4 0 0 0 -1
+---
+final_thetas_of_type: 12 is (ft, di, dj, k, id):
+1 6 4 1 437
+4 7 0 1 385
+5 6 -2 1 465
+6 7 -2 1 401
+3 6 2 1 469
+1 5 5 1 433
+0 4 5 1 421
+7 5 -5 1 405
+5 5 -1 1 413
+1 2 2 1 461
+2 6 3 1 445
+6 6 -3 1 417
+7 2 -2 1 453
+7 6 -4 1 409
+5 7 -1 1 397
+3 7 1 1 425
+2 7 2 1 429
+6 4 -2 1 473
+8 4 -5 1 393
+3 5 1 1 441
+6 2 -1 1 449
+2 4 2 1 477
+2 2 1 1 457
+---
+final_thetas_of_type: 13 is (ft, di, dj, k, id):
+6 1 -1 2 449
+8 3 -5 2 393
+6 5 -3 2 417
+7 5 -4 2 409
+7 1 -2 2 453
+3 4 1 2 441
+6 3 -2 2 473
+3 5 2 2 469
+2 5 3 2 445
+3 6 1 2 425
+1 1 2 2 461
+5 5 -2 2 465
+2 1 1 2 457
+1 5 4 2 437
+2 6 2 2 429
+6 6 -2 2 401
+5 6 -1 2 397
+5 4 -1 2 413
+2 3 2 2 477
+1 4 5 2 433
+0 3 5 2 421
+7 4 -5 2 405
+4 6 0 2 385
+---
+final_thetas_of_type: 14 is (ft, di, dj, k, id):
+4 5 0 3 385
+3 5 1 3 425
+6 2 -2 3 473
+3 4 2 3 469
+2 4 3 3 445
+7 4 -4 3 409
+1 4 4 3 437
+5 4 -2 3 465
+2 2 2 3 477
+5 5 -1 3 397
+6 5 -2 3 401
+2 5 2 3 429
+5 3 -1 3 413
+0 2 5 3 421
+1 3 5 3 433
+8 2 -5 3 393
+6 4 -3 3 417
+3 3 1 3 441
+7 3 -5 3 405
+---
+final_thetas_of_type: 15 is (ft, di, dj, k, id):
+5 3 -2 4 465
+5 4 -1 4 397
+3 4 1 4 425
+2 4 2 4 429
+4 4 0 4 385
+6 4 -2 4 401
+6 3 -3 4 417
+3 3 2 4 469
+2 3 3 4 445
+1 3 4 4 437
+5 2 -1 4 413
+3 2 1 4 441
+7 3 -4 4 409
+---
+final_thetas_of_type: 16 is (ft, di, dj, k, id):
+1 3 3 5 437
+2 3 2 5 445
+3 3 1 5 469
+---
+final_thetas_of_type: 17 is (ft, di, dj, k, id):
+2 2 2 6 445
+1 2 3 6 437
+3 2 1 6 469
+---
+final_thetas_of_type: 18 is (ft, di, dj, k, id):
+3 1 1 7 469
+---
+final_thetas_of_type: 19 is (ft, di, dj, k, id):
+3 1 0 8 469
+---
+final_thetas_of_type: 20 is (ft, di, dj, k, id):
+3 0 0 0 -1
+---
+final_thetas_of_type: 21 is (ft, di, dj, k, id):
+3 1 1 1 591
+1 1 2 1 711
+6 3 0 1 735
+1 3 4 1 759
+4 5 2 1 695
+5 2 0 1 727
+6 7 1 1 687
+1 4 6 1 647
+2 4 4 1 639
+3 7 4 1 583
+5 7 0 1 703
+5 4 0 1 767
+1 5 5 1 615
+4 6 1 1 751
+0 1 3 1 719
+7 6 -1 1 655
+0 3 7 1 631
+5 7 2 1 671
+2 4 5 1 743
+0 2 7 1 623
+2 6 5 1 607
+6 7 -1 1 679
+15 1 7 1 599
+4 7 3 1 663
+---
+final_thetas_of_type: 22 is (ft, di, dj, k, id):
+5 7 1 2 671
+3 7 3 2 583
+1 1 1 2 711
+6 7 0 2 687
+0 2 6 2 623
+4 7 2 2 663
+15 1 6 2 599
+6 7 -2 2 679
+1 5 4 2 615
+6 3 -1 2 735
+1 3 3 2 759
+2 6 4 2 607
+3 1 0 2 591
+2 4 4 2 743
+4 5 1 2 695
+1 4 5 2 647
+5 7 -1 2 703
+0 3 6 2 631
+5 4 -1 2 767
+7 6 -2 2 655
+0 1 2 2 719
+2 4 3 2 639
+4 6 0 2 751
+---
+final_thetas_of_type: 23 is (ft, di, dj, k, id):
+4 6 2 3 663
+1 4 4 3 615
+4 5 0 3 751
+15 0 6 3 599
+7 5 -2 3 655
+6 6 -2 3 679
+1 0 1 3 711
+6 2 -1 3 735
+3 6 3 3 583
+0 0 2 3 719
+2 5 4 3 607
+1 3 5 3 647
+5 3 -1 3 767
+2 3 4 3 743
+6 6 0 3 687
+4 4 1 3 695
+5 6 1 3 671
+1 2 3 3 759
+0 1 6 3 623
+5 6 -1 3 703
+2 3 3 3 639
+0 2 6 3 631
+---
+final_thetas_of_type: 24 is (ft, di, dj, k, id):
+1 0 0 0 -1
+---
+final_thetas_of_type: 25 is (ft, di, dj, k, id):
+2 5 6 1 600
+0 1 6 1 744
+4 7 2 1 616
+1 1 1 1 584
+3 6 4 1 640
+14 0 3 1 728
+3 2 1 1 704
+0 2 5 1 688
+14 -1 7 1 672
+3 4 3 1 752
+2 5 4 1 736
+4 3 1 1 712
+13 -1 6 1 648
+0 3 7 1 656
+15 0 2 1 720
+5 7 1 1 592
+15 0 4 1 760
+2 4 4 1 632
+3 5 5 1 608
+14 1 7 1 680
+15 0 7 1 696
+1 4 7 1 576
+4 7 3 1 624
+15 2 7 1 664
+---
+final_thetas_of_type: 26 is (ft, di, dj, k, id):
+15 -1 4 2 760
+3 3 3 2 752
+15 1 7 2 664
+0 2 7 2 656
+5 6 1 2 592
+1 0 1 2 584
+15 -1 7 2 696
+14 0 7 2 680
+0 0 6 2 744
+0 1 5 2 688
+4 6 3 2 624
+3 1 1 2 704
+14 -1 3 2 728
+2 3 4 2 632
+14 -2 7 2 672
+2 4 6 2 600
+4 2 1 2 712
+3 4 5 2 608
+1 3 7 2 576
+13 -2 6 2 648
+4 6 2 2 616
+2 4 4 2 736
+3 5 4 2 640
+---
+final_thetas_of_type: 27 is (ft, di, dj, k, id):
+3 1 0 3 704
+14 0 6 3 680
+15 -1 6 3 696
+2 3 3 3 632
+14 -2 6 3 672
+14 -1 2 3 728
+13 -2 5 3 648
+15 -1 3 3 760
+3 3 2 3 752
+2 4 5 3 600
+4 2 0 3 712
+3 4 4 3 608
+0 0 5 3 744
+4 6 1 3 616
+15 1 6 3 664
+3 5 3 3 640
+4 6 2 3 624
+0 2 6 3 656
+2 4 3 3 736
+0 1 4 3 688
+1 3 6 3 576
+5 6 0 3 592
+---
+final_thetas_of_type: 28 is (ft, di, dj, k, id):
+5 5 0 4 592
+3 2 2 4 752
+3 4 3 4 640
+4 1 0 4 712
+2 3 3 4 736
+4 5 2 4 624
+2 2 3 4 632
+4 5 1 4 616
+---
+final_thetas_of_type: 29 is (ft, di, dj, k, id):
+2 3 2 5 736
+4 5 1 5 624
+4 5 0 5 616
+5 5 -1 5 592
+3 4 2 5 640
+3 2 1 5 752
+2 2 2 5 632
+---
+final_thetas_of_type: 30 is (ft, di, dj, k, id):
+2 2 2 6 736
+3 3 2 6 640
+4 4 1 6 624
+5 4 -1 6 592
+4 4 0 6 616
+3 1 1 6 752
+---
+final_thetas_of_type: 31 is (ft, di, dj, k, id):
+2 2 1 7 736
+3 1 0 7 752
+3 3 1 7 640
+4 4 0 7 624
+---
+final_thetas_of_type: 32 is (ft, di, dj, k, id):
+3 2 1 8 640
+4 3 0 8 624
+2 1 1 8 736
+---
+final_thetas_of_type: 33 is (ft, di, dj, k, id):
+3 1 1 9 640
+4 2 0 9 624
+---
+final_thetas_of_type: 34 is (ft, di, dj, k, id):
+4 1 0 10 624
+---
+final_thetas_of_type: 35 is (ft, di, dj, k, id):
+3 1 0 10 640
+---
+final_thetas_of_type: 36 is (ft, di, dj, k, id):
+2 1 0 9 736
+---
+final_thetas_of_type: 37 is (ft, di, dj, k, id):
+5 3 -1 7 592
+4 3 0 7 616
+---
+final_thetas_of_type: 38 is (ft, di, dj, k, id):
+4 2 0 8 616
+5 2 -1 8 592
+---
+final_thetas_of_type: 39 is (ft, di, dj, k, id):
+5 1 -1 9 592
+4 1 0 9 616
+---
+final_thetas_of_type: 40 is (ft, di, dj, k, id):
+5 1 0 10 592
+---
+final_thetas_of_type: 41 is (ft, di, dj, k, id):
+5 0 0 0 -1
+---
+final_thetas_of_type: 42 is (ft, di, dj, k, id):
+9 1 -7 1 593
+3 7 0 1 697
+4 7 -3 1 657
+5 1 -1 1 585
+7 4 -6 1 641
+3 7 -2 1 665
+7 3 -4 1 753
+2 7 -1 1 681
+6 4 -5 1 737
+3 2 0 1 721
+4 5 -2 1 689
+1 6 1 1 649
+4 6 -1 1 745
+7 5 -5 1 609
+8 3 -7 1 625
+6 6 -5 1 601
+2 3 0 1 729
+8 2 -7 1 617
+3 4 0 1 761
+2 7 1 1 673
+8 1 -3 1 713
+5 7 -4 1 577
+6 4 -4 1 633
+7 1 -2 1 705
+---
+final_thetas_of_type: 43 is (ft, di, dj, k, id):
+5 7 -3 2 577
+8 2 -6 2 617
+2 7 2 2 673
+3 4 1 2 761
+9 1 -6 2 593
+5 1 0 2 585
+8 3 -6 2 625
+4 7 -2 2 657
+2 7 0 2 681
+8 1 -2 2 713
+7 1 -1 2 705
+6 4 -4 2 737
+6 4 -3 2 633
+7 5 -4 2 609
+6 6 -4 2 601
+7 4 -5 2 641
+3 7 -1 2 665
+2 3 1 2 729
+4 5 -1 2 689
+7 3 -3 2 753
+1 6 2 2 649
+4 6 0 2 745
+3 7 1 2 697
+---
+final_thetas_of_type: 44 is (ft, di, dj, k, id):
+8 2 -6 3 625
+4 5 0 3 745
+8 0 -2 3 713
+4 6 -2 3 657
+2 6 0 3 681
+7 2 -3 3 753
+7 0 -1 3 705
+6 5 -4 3 601
+3 6 -1 3 665
+4 4 -1 3 689
+7 3 -5 3 641
+9 0 -6 3 593
+2 6 2 3 673
+1 5 2 3 649
+6 3 -3 3 633
+3 6 1 3 697
+6 3 -4 3 737
+7 4 -4 3 609
+5 6 -3 3 577
+3 3 1 3 761
+8 1 -6 3 617
+2 2 1 3 729
+---
+final_thetas_of_type: 45 is (ft, di, dj, k, id):
+7 0 0 0 -1
+---
+final_thetas_of_type: 46 is (ft, di, dj, k, id):
+5 4 -3 1 756
+6 4 -4 1 636
+9 0 -4 1 764
+5 6 -4 1 644
+9 2 -7 1 668
+5 2 -1 1 708
+9 0 -7 1 700
+9 0 -2 1 724
+10 -1 -7 1 676
+7 1 -1 1 588
+11 -1 -6 1 652
+7 4 -7 1 580
+6 5 -6 1 604
+4 7 -3 1 628
+10 1 -7 1 684
+10 0 -3 1 732
+6 5 -4 1 740
+3 7 -1 1 596
+8 2 -5 1 692
+8 3 -7 1 660
+4 3 -1 1 716
+5 5 -5 1 612
+8 1 -6 1 748
+4 7 -2 1 620
+---
+final_thetas_of_type: 47 is (ft, di, dj, k, id):
+4 2 -1 2 716
+5 4 -5 2 612
+9 1 -7 2 668
+10 -1 -3 2 732
+7 0 -1 2 588
+6 3 -4 2 636
+7 3 -7 2 580
+5 5 -4 2 644
+9 -1 -4 2 764
+8 1 -5 2 692
+5 1 -1 2 708
+3 6 -1 2 596
+10 0 -7 2 684
+4 6 -3 2 628
+6 4 -4 2 740
+9 -1 -7 2 700
+8 0 -6 2 748
+5 3 -3 2 756
+6 4 -6 2 604
+4 6 -2 2 620
+10 -2 -7 2 676
+11 -2 -6 2 652
+8 2 -7 2 660
+---
+final_thetas_of_type: 48 is (ft, di, dj, k, id):
+9 -1 -3 3 764
+8 1 -4 3 692
+6 4 -3 3 740
+10 -2 -6 3 676
+5 3 -2 3 756
+11 -2 -5 3 652
+4 2 0 3 716
+9 1 -6 3 668
+4 6 -1 3 620
+7 3 -6 3 580
+10 -1 -2 3 732
+8 2 -6 3 660
+5 5 -3 3 644
+5 4 -4 3 612
+10 0 -6 3 684
+4 6 -2 3 628
+6 3 -3 3 636
+5 1 0 3 708
+9 -1 -6 3 700
+8 0 -5 3 748
+6 4 -5 3 604
+3 6 0 3 596
+---
+final_thetas_of_type: 49 is (ft, di, dj, k, id):
+10 -2 -5 4 676
+5 4 -3 4 612
+9 -1 -2 4 764
+9 -1 -5 4 700
+8 2 -5 4 660
+10 -1 -1 4 732
+10 0 -5 4 684
+8 1 -3 4 692
+7 3 -5 4 580
+6 4 -4 4 604
+11 -2 -4 4 652
+9 1 -5 4 668
+8 0 -4 4 748
+---
+final_thetas_of_type: 50 is (ft, di, dj, k, id):
+5 3 -3 5 612
+6 3 -4 5 604
+10 -1 -5 5 684
+9 0 -5 5 668
+8 1 -5 5 660
+8 0 -3 5 692
+7 2 -5 5 580
+---
+final_thetas_of_type: 51 is (ft, di, dj, k, id):
+6 3 -3 6 604
+7 2 -4 6 580
+5 3 -2 6 612
+8 0 -2 6 692
+10 -1 -4 6 684
+9 0 -4 6 668
+8 1 -4 6 660
+---
+final_thetas_of_type: 52 is (ft, di, dj, k, id):
+6 2 -3 7 604
+5 2 -2 7 612
+---
+final_thetas_of_type: 53 is (ft, di, dj, k, id):
+5 2 -1 8 612
+6 2 -2 8 604
+---
+final_thetas_of_type: 54 is (ft, di, dj, k, id):
+6 1 -2 9 604
+5 1 -1 9 612
+---
+final_thetas_of_type: 55 is (ft, di, dj, k, id):
+5 1 0 10 612
+6 1 -1 10 604
+---
+final_thetas_of_type: 56 is (ft, di, dj, k, id):
+6 0 0 0 -1
+---
+final_thetas_of_type: 57 is (ft, di, dj, k, id):
+3 6 -1 1 533
+4 6 -3 1 525
+5 5 -3 1 565
+5 4 -3 1 537
+7 3 -5 1 561
+6 5 -5 1 481
+7 4 -5 1 493
+4 6 -2 1 541
+5 5 -4 1 521
+8 3 -6 1 497
+7 3 -4 1 509
+9 1 -6 1 505
+8 2 -6 1 513
+---
+final_thetas_of_type: 58 is (ft, di, dj, k, id):
+4 5 -2 2 541
+3 5 -1 2 533
+7 3 -5 2 493
+5 4 -3 2 565
+8 2 -6 2 497
+---
+final_thetas_of_type: 59 is (ft, di, dj, k, id):
+8 2 -5 3 497
+4 5 -1 3 541
+3 5 0 3 533
+7 3 -4 3 493
+5 4 -2 3 565
+---
+final_thetas_of_type: 60 is (ft, di, dj, k, id):
+7 2 -4 4 493
+5 3 -2 4 565
+4 4 -1 4 541
+3 4 0 4 533
+---
+final_thetas_of_type: 61 is (ft, di, dj, k, id):
+4 4 0 5 541
+7 2 -3 5 493
+3 4 1 5 533
+5 3 -1 5 565
+---
+final_thetas_of_type: 62 is (ft, di, dj, k, id):
+3 3 1 6 533
+5 2 -1 6 565
+4 3 0 6 541
+---
+final_thetas_of_type: 63 is (ft, di, dj, k, id):
+3 2 1 7 533
+4 2 0 7 541
+5 1 -1 7 565
+---
+final_thetas_of_type: 64 is (ft, di, dj, k, id):
+5 1 0 8 565
+---
+final_thetas_of_type: 65 is (ft, di, dj, k, id):
+3 1 1 8 533
+4 1 0 8 541
+---
+final_thetas_of_type: 66 is (ft, di, dj, k, id):
+3 1 0 9 533
+---
+final_thetas_of_type: 67 is (ft, di, dj, k, id):
+7 2 -2 6 493
+---
+final_thetas_of_type: 68 is (ft, di, dj, k, id):
+7 1 -2 7 493
+---
+final_thetas_of_type: 69 is (ft, di, dj, k, id):
+7 1 -1 8 493
+---
+final_thetas_of_type: 70 is (ft, di, dj, k, id):
+7 0 -1 9 493
+---
+final_thetas_of_type: 71 is (ft, di, dj, k, id):
+8 2 -4 4 497
+---
+final_thetas_of_type: 72 is (ft, di, dj, k, id):
+8 1 -4 5 497
+---
+final_thetas_of_type: 73 is (ft, di, dj, k, id):
+8 1 -3 6 497
+---
+final_thetas_of_type: 74 is (ft, di, dj, k, id):
+8 0 -3 7 497
+---
+final_thetas_of_type: 75 is (ft, di, dj, k, id):
+8 0 -2 8 497
+---
+final_thetas_of_type: 76 is (ft, di, dj, k, id):
+8 0 -1 9 497
+---
+final_thetas_of_type: 77 is (ft, di, dj, k, id):
+8 0 0 0 -1
+---
+final_thetas_of_type: 78 is (ft, di, dj, k, id):
+9 -1 -5 1 414
+10 -1 -2 1 450
+4 5 -4 1 422
+9 -1 -7 1 398
+7 2 -6 1 470
+11 -2 -2 1 454
+10 -2 -7 1 402
+5 5 -5 1 434
+5 4 -6 1 438
+10 -3 -6 1 418
+7 1 -5 1 442
+10 -2 -4 1 474
+11 -4 -6 1 410
+12 -5 -4 1 394
+7 1 -7 1 426
+9 -2 -6 1 466
+6 2 -7 1 430
+6 2 -4 1 478
+6 1 -2 1 458
+5 2 -2 1 462
+8 0 -7 1 386
+11 -5 -5 1 406
+6 3 -6 1 446
+---
+final_thetas_of_type: 79 is (ft, di, dj, k, id):
+5 4 -5 2 438
+7 1 -6 2 426
+9 -1 -4 2 414
+6 1 -1 2 458
+5 5 -4 2 434
+7 2 -5 2 470
+9 -1 -6 2 398
+6 2 -3 2 478
+5 2 -1 2 462
+8 0 -6 2 386
+6 3 -5 2 446
+9 -2 -5 2 466
+10 -3 -5 2 418
+10 -1 -1 2 450
+4 5 -3 2 422
+7 1 -4 2 442
+10 -2 -6 2 402
+11 -2 -1 2 454
+10 -2 -3 2 474
+11 -5 -4 2 406
+11 -4 -5 2 410
+12 -5 -3 2 394
+6 2 -6 2 430
+---
+final_thetas_of_type: 80 is (ft, di, dj, k, id):
+10 -2 -2 3 474
+10 -3 -4 3 418
+7 1 -3 3 442
+6 3 -4 3 446
+12 -5 -2 3 394
+9 -1 -5 3 398
+11 -4 -4 3 410
+5 5 -3 3 434
+6 2 -2 3 478
+8 0 -5 3 386
+5 4 -4 3 438
+10 -2 -5 3 402
+9 -1 -3 3 414
+9 -2 -4 3 466
+7 2 -4 3 470
+6 2 -5 3 430
+4 5 -2 3 422
+7 1 -5 3 426
+11 -5 -3 3 406
+---
+final_thetas_of_type: 81 is (ft, di, dj, k, id):
+6 1 -2 4 478
+4 4 -2 4 422
+5 4 -3 4 434
+---
+final_thetas_of_type: 82 is (ft, di, dj, k, id):
+6 1 -1 5 478
+4 4 -1 5 422
+5 4 -2 5 434
+---
+final_thetas_of_type: 83 is (ft, di, dj, k, id):
+4 3 -1 6 422
+6 0 -1 6 478
+5 3 -2 6 434
+---
+final_thetas_of_type: 84 is (ft, di, dj, k, id):
+4 3 0 7 422
+5 3 -1 7 434
+---
+final_thetas_of_type: 85 is (ft, di, dj, k, id):
+4 2 0 8 422
+5 2 -1 8 434
+---
+final_thetas_of_type: 86 is (ft, di, dj, k, id):
+4 1 0 9 422
+5 1 -1 9 434
+---
+final_thetas_of_type: 87 is (ft, di, dj, k, id):
+5 1 0 10 434
+---
+final_thetas_of_type: 88 is (ft, di, dj, k, id):
+10 -3 -3 4 418
+9 -1 -2 4 414
+5 4 -3 4 438
+9 -1 -4 4 398
+7 2 -3 4 470
+8 0 -4 4 386
+10 -2 -4 4 402
+11 -4 -3 4 410
+6 2 -4 4 430
+6 3 -3 4 446
+7 1 -2 4 442
+9 -2 -3 4 466
+7 1 -4 4 426
+---
+final_thetas_of_type: 89 is (ft, di, dj, k, id):
+9 -1 -3 5 398
+7 1 -1 5 442
+7 1 -3 5 426
+10 -2 -3 5 402
+6 2 -3 5 430
+8 0 -3 5 386
+9 -1 -1 5 414
+---
+final_thetas_of_type: 90 is (ft, di, dj, k, id):
+9 -1 -2 6 398
+6 2 -2 6 430
+7 1 -2 6 426
+10 -2 -2 6 402
+8 0 -2 6 386
+---
+final_thetas_of_type: 91 is (ft, di, dj, k, id):
+8 0 -1 7 386
+7 1 -1 7 426
+9 -1 -1 7 398
+---
+final_thetas_of_type: 92 is (ft, di, dj, k, id):
+7 0 -1 8 426
+---
+final_thetas_of_type: 93 is (ft, di, dj, k, id):
+9 0 -1 8 398
+---
+final_thetas_of_type: 94 is (ft, di, dj, k, id):
+9 0 0 0 -1
+---
+final_thetas_of_type: 95 is (ft, di, dj, k, id):
+12 -7 -3 1 626
+5 1 -6 1 650
+9 -1 -1 1 586
+10 -4 -4 1 634
+6 1 -7 1 674
+10 -5 -4 1 738
+6 -1 -7 1 682
+7 0 -4 1 762
+10 -5 -6 1 602
+9 -4 -7 1 578
+11 -2 -1 1 706
+8 -2 -5 1 690
+11 -4 -3 1 754
+8 -1 -6 1 746
+6 0 -3 1 730
+8 -3 -7 1 658
+11 -6 -4 1 642
+7 0 -2 1 722
+12 -7 -2 1 618
+7 -2 -7 1 666
+12 -3 -1 1 714
+13 -7 -1 1 594
+7 0 -7 1 698
+11 -5 -5 1 610
+---
+final_thetas_of_type: 96 is (ft, di, dj, k, id):
+9 0 -1 2 586
+11 -3 -3 2 754
+12 -6 -2 2 618
+8 -2 -7 2 658
+11 -1 -1 2 706
+6 2 -7 2 674
+12 -2 -1 2 714
+11 -4 -5 2 610
+10 -4 -6 2 602
+8 -1 -5 2 690
+13 -6 -1 2 594
+6 1 -3 2 730
+11 -5 -4 2 642
+8 0 -6 2 746
+12 -6 -3 2 626
+5 2 -6 2 650
+7 1 -4 2 762
+7 -1 -7 2 666
+9 -3 -7 2 578
+10 -3 -4 2 634
+10 -4 -4 2 738
+6 0 -7 2 682
+7 1 -7 2 698
+---
+final_thetas_of_type: 97 is (ft, di, dj, k, id):
+10 -3 -3 3 634
+10 -4 -3 3 738
+6 0 -6 3 682
+9 -3 -6 3 578
+11 -3 -2 3 754
+7 1 -3 3 762
+10 -4 -5 3 602
+13 -6 0 3 594
+6 2 -6 3 674
+8 0 -5 3 746
+12 -2 0 3 714
+12 -6 -1 3 618
+8 -2 -6 3 658
+6 1 -2 3 730
+11 -5 -3 3 642
+7 1 -6 3 698
+7 -1 -6 3 666
+8 -1 -4 3 690
+11 -4 -4 3 610
+5 2 -5 3 650
+11 -1 0 3 706
+12 -6 -2 3 626
+---
+final_thetas_of_type: 98 is (ft, di, dj, k, id):
+11 0 0 0 -1
+---
+final_thetas_of_type: 99 is (ft, di, dj, k, id):
+13 -7 0 1 701
+15 -6 1 1 653
+13 -2 0 1 725
+8 -3 -7 1 629
+12 -5 -2 1 693
+14 -3 0 1 733
+14 -7 -1 1 685
+10 -4 -4 1 637
+13 -7 -2 1 669
+9 -3 -4 1 757
+9 -5 -5 1 613
+12 -6 -1 1 749
+8 -2 -7 1 621
+12 -7 -3 1 661
+14 -7 1 1 677
+7 -1 -7 1 597
+10 -4 -5 1 741
+9 -1 -2 1 709
+9 -4 -6 1 645
+8 -1 -3 1 717
+11 -1 -1 1 589
+10 -6 -5 1 605
+13 -4 0 1 765
+11 -7 -4 1 581
+---
+final_thetas_of_type: 100 is (ft, di, dj, k, id):
+13 -7 -1 2 669
+12 -7 -2 2 661
+9 -1 -1 2 709
+8 -1 -2 2 717
+9 -4 -5 2 645
+14 -7 2 2 677
+8 -2 -6 2 621
+10 -6 -4 2 605
+13 -7 1 2 701
+14 -3 1 2 733
+9 -5 -4 2 613
+11 -1 0 2 589
+10 -4 -3 2 637
+15 -6 2 2 653
+8 -3 -6 2 629
+10 -4 -4 2 741
+12 -6 0 2 749
+11 -7 -3 2 581
+9 -3 -3 2 757
+12 -5 -1 2 693
+7 -1 -6 2 597
+14 -7 0 2 685
+13 -4 1 2 765
+---
+final_thetas_of_type: 101 is (ft, di, dj, k, id):
+12 -4 -1 3 693
+12 -5 0 3 749
+10 -3 -3 3 637
+9 -3 -5 3 645
+8 -2 -6 3 629
+14 -6 0 3 685
+10 -5 -4 3 605
+10 -3 -4 3 741
+13 -6 -1 3 669
+9 -2 -3 3 757
+9 0 -1 3 709
+14 -6 2 3 677
+12 -6 -2 3 661
+15 -5 2 3 653
+13 -3 1 3 765
+11 -6 -3 3 581
+8 0 -2 3 717
+8 -1 -6 3 621
+13 -6 1 3 701
+7 0 -6 3 597
+14 -2 1 3 733
+9 -4 -4 3 613
+---
+final_thetas_of_type: 102 is (ft, di, dj, k, id):
+12 -5 -2 4 661
+14 -1 1 4 733
+12 -3 -1 4 693
+14 -5 0 4 685
+10 -4 -4 4 605
+14 -5 2 4 677
+13 -2 1 4 765
+15 -4 2 4 653
+13 -5 1 4 701
+11 -5 -3 4 581
+13 -5 -1 4 669
+9 -3 -4 4 613
+12 -4 0 4 749
+---
+final_thetas_of_type: 103 is (ft, di, dj, k, id):
+13 -4 1 5 701
+14 -4 2 5 677
+13 -1 1 5 765
+12 -3 0 5 749
+15 -3 2 5 653
+---
+final_thetas_of_type: 104 is (ft, di, dj, k, id):
+15 -2 2 6 653
+13 -3 1 6 701
+12 -2 0 6 749
+14 -3 2 6 677
+---
+final_thetas_of_type: 105 is (ft, di, dj, k, id):
+14 -2 2 7 677
+12 -1 0 7 749
+15 -1 2 7 653
+13 -2 1 7 701
+---
+final_thetas_of_type: 106 is (ft, di, dj, k, id):
+12 0 0 0 -1
+---
+final_thetas_of_type: 107 is (ft, di, dj, k, id):
+10 -2 -1 1 459
+13 -7 1 1 399
+14 -2 1 1 451
+15 -6 4 1 411
+13 -6 2 1 467
+15 -2 2 1 455
+9 -2 -2 1 463
+0 -4 5 1 395
+11 -5 -1 1 443
+14 -7 2 1 403
+12 -7 0 1 387
+11 -7 -1 1 427
+8 -4 -5 1 423
+14 -6 3 1 419
+10 -6 -3 1 447
+9 -6 -4 1 439
+10 -7 -2 1 431
+9 -5 -5 1 435
+14 -4 2 1 475
+15 -5 5 1 407
+11 -6 -2 1 471
+10 -4 -2 1 479
+13 -5 1 1 415
+---
+final_thetas_of_type: 108 is (ft, di, dj, k, id):
+9 -4 -5 2 435
+10 -6 -2 2 431
+14 -3 2 2 475
+15 -4 5 2 407
+10 -5 -3 2 447
+13 -6 1 2 399
+8 -3 -5 2 423
+12 -6 0 2 387
+13 -5 2 2 467
+10 -1 -1 2 459
+10 -3 -2 2 479
+15 -5 4 2 411
+9 -5 -4 2 439
+13 -4 1 2 415
+11 -4 -1 2 443
+14 -1 1 2 451
+15 -1 2 2 455
+9 -1 -2 2 463
+11 -5 -2 2 471
+11 -6 -1 2 427
+0 -3 5 2 395
+14 -6 2 2 403
+14 -5 3 2 419
+---
+final_thetas_of_type: 109 is (ft, di, dj, k, id):
+10 -1 0 3 459
+9 -1 -1 3 463
+---
+final_thetas_of_type: 110 is (ft, di, dj, k, id):
+10 0 0 0 -1
+---
+final_thetas_of_type: 111 is (ft, di, dj, k, id):
+7 -1 -3 1 558
+8 -1 -2 1 554
+8 -2 -4 1 574
+7 -1 -6 1 530
+6 0 -6 1 518
+---
+final_thetas_of_type: 112 is (ft, di, dj, k, id):
+7 0 -3 2 558
+7 0 -6 2 530
+6 1 -6 2 518
+8 -1 -4 2 574
+8 0 -2 2 554
+---
+final_thetas_of_type: 113 is (ft, di, dj, k, id):
+8 0 -1 3 554
+7 0 -5 3 530
+8 -1 -3 3 574
+7 0 -2 3 558
+6 1 -5 3 518
+---
+final_thetas_of_type: 114 is (ft, di, dj, k, id):
+6 2 -5 4 518
+7 1 -5 4 530
+8 0 -3 4 574
+---
+final_thetas_of_type: 115 is (ft, di, dj, k, id):
+7 1 -4 5 530
+8 0 -2 5 574
+6 2 -4 5 518
+---
+final_thetas_of_type: 116 is (ft, di, dj, k, id):
+8 0 -1 6 574
+7 1 -3 6 530
+6 2 -3 6 518
+---
+final_thetas_of_type: 117 is (ft, di, dj, k, id):
+6 2 -2 7 518
+7 1 -2 7 530
+---
+final_thetas_of_type: 118 is (ft, di, dj, k, id):
+7 1 -1 8 530
+---
+final_thetas_of_type: 119 is (ft, di, dj, k, id):
+7 0 -1 9 530
+---
+final_thetas_of_type: 120 is (ft, di, dj, k, id):
+6 1 -2 8 518
+---
+final_thetas_of_type: 121 is (ft, di, dj, k, id):
+6 1 -1 9 518
+---
+final_thetas_of_type: 122 is (ft, di, dj, k, id):
+6 0 -1 10 518
+---
+final_thetas_of_type: 123 is (ft, di, dj, k, id):
+7 0 -1 4 558
+---
+final_thetas_of_type: 124 is (ft, di, dj, k, id):
+8 -3 -6 1 526
+9 -4 -5 1 522
+10 -5 -5 1 482
+12 -6 -3 1 498
+11 -4 -3 1 510
+13 -6 -1 1 506
+7 -1 -6 1 534
+11 -5 -4 1 494
+11 -5 -3 1 562
+12 -6 -2 1 514
+9 -3 -5 1 566
+8 -2 -6 1 542
+9 -3 -4 1 538
+---
+final_thetas_of_type: 125 is (ft, di, dj, k, id):
+11 -4 -3 2 562
+12 -5 -2 2 514
+8 -2 -6 2 526
+9 -3 -5 2 522
+13 -5 -1 2 506
+---
+final_thetas_of_type: 126 is (ft, di, dj, k, id):
+8 -2 -5 3 526
+13 -5 0 3 506
+12 -5 -1 3 514
+11 -4 -2 3 562
+9 -3 -4 3 522
+---
+final_thetas_of_type: 127 is (ft, di, dj, k, id):
+11 -3 -2 4 562
+9 -2 -4 4 522
+13 -4 0 4 506
+12 -4 -1 4 514
+---
+final_thetas_of_type: 128 is (ft, di, dj, k, id):
+12 -4 0 5 514
+13 -4 1 5 506
+9 -2 -3 5 522
+11 -3 -1 5 562
+---
+final_thetas_of_type: 129 is (ft, di, dj, k, id):
+11 -2 -1 6 562
+12 -3 0 6 514
+13 -3 1 6 506
+---
+final_thetas_of_type: 130 is (ft, di, dj, k, id):
+12 -2 0 7 514
+11 -1 -1 7 562
+13 -2 1 7 506
+---
+final_thetas_of_type: 131 is (ft, di, dj, k, id):
+13 -1 1 8 506
+12 -1 0 8 514
+---
+final_thetas_of_type: 132 is (ft, di, dj, k, id):
+13 -1 0 9 506
+---
+final_thetas_of_type: 133 is (ft, di, dj, k, id):
+13 0 0 0 -1
+---
+final_thetas_of_type: 134 is (ft, di, dj, k, id):
+0 -2 7 1 619
+11 -7 0 1 699
+1 -1 7 1 595
+14 -4 5 1 739
+11 -2 0 1 723
+15 -3 4 1 755
+12 -6 1 1 747
+14 -6 5 1 603
+14 -4 4 1 635
+0 -3 7 1 627
+12 -7 3 1 659
+12 -5 2 1 691
+11 -7 2 1 667
+15 -1 2 1 707
+13 -1 1 1 587
+10 -7 -1 1 675
+0 -1 3 1 715
+10 -3 0 1 731
+13 -7 4 1 579
+9 -6 -1 1 651
+10 -7 1 1 683
+15 -4 6 1 643
+15 -5 5 1 611
+11 -4 0 1 763
+---
+final_thetas_of_type: 135 is (ft, di, dj, k, id):
+10 -3 -1 2 731
+14 -6 4 2 603
+15 -5 4 2 611
+15 -3 3 2 755
+12 -7 2 2 659
+12 -5 1 2 691
+10 -7 -2 2 675
+0 -1 2 2 715
+11 -7 1 2 667
+12 -6 0 2 747
+15 -1 1 2 707
+10 -7 0 2 683
+9 -6 -2 2 651
+1 -1 6 2 595
+14 -4 3 2 635
+0 -2 6 2 619
+0 -3 6 2 627
+15 -4 5 2 643
+11 -4 -1 2 763
+13 -1 0 2 587
+14 -4 4 2 739
+11 -7 -1 2 699
+13 -7 3 2 579
+---
+final_thetas_of_type: 136 is (ft, di, dj, k, id):
+12 -6 2 3 659
+15 -3 5 3 643
+15 -2 3 3 755
+14 -3 4 3 739
+15 0 1 3 707
+11 -6 -1 3 699
+0 -1 6 3 619
+14 -5 4 3 603
+11 -3 -1 3 763
+14 -3 3 3 635
+13 -6 3 3 579
+11 -6 1 3 667
+12 -4 1 3 691
+0 -2 6 3 627
+0 0 2 3 715
+10 -6 -2 3 675
+12 -5 0 3 747
+1 0 6 3 595
+10 -6 0 3 683
+15 -4 4 3 611
+9 -5 -2 3 651
+10 -2 -1 3 731
+---
+final_thetas_of_type: 137 is (ft, di, dj, k, id):
+15 0 0 0 -1
+---
+final_thetas_of_type: 138 is (ft, di, dj, k, id):
+13 -6 4 1 646
+12 -7 3 1 630
+2 1 7 1 678
+3 1 6 1 654
+15 -1 1 1 590
+0 -1 6 1 750
+12 -3 1 1 718
+13 -2 1 1 710
+13 -5 5 1 614
+14 -4 4 1 638
+0 -3 7 1 662
+0 -2 5 1 694
+1 -2 7 1 670
+14 -5 4 1 742
+2 -1 7 1 686
+1 0 7 1 702
+11 -7 1 1 598
+1 0 4 1 766
+2 0 3 1 734
+12 -7 2 1 622
+1 0 2 1 726
+14 -5 6 1 606
+13 -4 3 1 758
+15 -4 7 1 582
+---
+final_thetas_of_type: 139 is (ft, di, dj, k, id):
+13 -5 4 2 646
+0 -1 5 2 694
+15 0 1 2 590
+14 -4 6 2 606
+1 -1 7 2 670
+1 1 4 2 766
+0 0 6 2 750
+13 -4 5 2 614
+1 1 7 2 702
+15 -3 7 2 582
+3 2 6 2 654
+2 2 7 2 678
+12 -6 3 2 630
+12 -6 2 2 622
+11 -6 1 2 598
+12 -2 1 2 718
+0 -2 7 2 662
+2 1 3 2 734
+2 0 7 2 686
+13 -3 3 2 758
+14 -3 4 2 638
+14 -4 4 2 742
+13 -1 1 2 710
+---
+final_thetas_of_type: 140 is (ft, di, dj, k, id):
+13 -5 3 3 646
+0 -2 6 3 662
+3 2 5 3 654
+2 2 6 3 678
+13 -1 0 3 710
+12 -2 0 3 718
+14 -3 3 3 638
+2 0 6 3 686
+13 -4 4 3 614
+0 -1 4 3 694
+12 -6 2 3 630
+1 1 6 3 702
+2 1 2 3 734
+12 -6 1 3 622
+11 -6 0 3 598
+0 0 5 3 750
+13 -3 2 3 758
+1 -1 6 3 670
+15 -3 6 3 582
+14 -4 5 3 606
+1 1 3 3 766
+14 -4 3 3 742
+---
+final_thetas_of_type: 141 is (ft, di, dj, k, id):
+15 -3 5 4 582
+0 -1 3 4 694
+2 0 5 4 686
+2 1 1 4 734
+1 1 2 4 766
+3 2 4 4 654
+13 -4 3 4 614
+1 -1 5 4 670
+2 2 5 4 678
+14 -4 4 4 606
+0 -2 5 4 662
+1 1 5 4 702
+0 0 4 4 750
+---
+final_thetas_of_type: 142 is (ft, di, dj, k, id):
+3 2 3 5 654
+1 1 1 5 766
+0 0 3 5 750
+2 2 4 5 678
+1 1 4 5 702
+---
+final_thetas_of_type: 143 is (ft, di, dj, k, id):
+0 0 2 6 750
+3 2 2 6 654
+1 1 3 6 702
+2 2 3 6 678
+---
+final_thetas_of_type: 144 is (ft, di, dj, k, id):
+0 0 1 7 750
+1 1 2 7 702
+3 2 1 7 654
+2 2 2 7 678
+---
+final_thetas_of_type: 145 is (ft, di, dj, k, id):
+2 1 2 8 678
+3 1 1 8 654
+---
+final_thetas_of_type: 146 is (ft, di, dj, k, id):
+2 1 1 9 678
+3 1 0 9 654
+---
+final_thetas_of_type: 147 is (ft, di, dj, k, id):
+2 0 1 10 678
+---
+final_thetas_of_type: 148 is (ft, di, dj, k, id):
+1 1 1 8 702
+---
+final_thetas_of_type: 149 is (ft, di, dj, k, id):
+1 0 1 9 702
+---
+final_thetas_of_type: 150 is (ft, di, dj, k, id):
+1 0 1 6 766
+---
+final_thetas_of_type: 151 is (ft, di, dj, k, id):
+2 0 1 5 734
+---
+final_thetas_of_type: 152 is (ft, di, dj, k, id):
+0 0 3 5 694
+13 -3 3 5 614
+0 -1 5 5 662
+14 -3 4 5 606
+2 1 5 5 686
+15 -2 5 5 582
+1 0 5 5 670
+---
+final_thetas_of_type: 153 is (ft, di, dj, k, id):
+14 -3 3 6 606
+2 1 4 6 686
+0 -1 4 6 662
+0 0 2 6 694
+15 -2 4 6 582
+13 -3 2 6 614
+1 0 4 6 670
+---
+final_thetas_of_type: 154 is (ft, di, dj, k, id):
+0 -1 3 7 662
+2 1 3 7 686
+0 0 1 7 694
+1 0 3 7 670
+15 -2 3 7 582
+---
+final_thetas_of_type: 155 is (ft, di, dj, k, id):
+1 1 3 8 670
+15 -1 3 8 582
+0 0 3 8 662
+---
+final_thetas_of_type: 156 is (ft, di, dj, k, id):
+0 0 2 9 662
+1 1 2 9 670
+15 -1 2 9 582
+---
+final_thetas_of_type: 157 is (ft, di, dj, k, id):
+1 1 1 10 670
+0 0 1 10 662
+15 -1 1 10 582
+---
+final_thetas_of_type: 158 is (ft, di, dj, k, id):
+15 0 1 11 582
+---
+final_thetas_of_type: 159 is (ft, di, dj, k, id):
+1 0 1 11 670
+---
+final_thetas_of_type: 160 is (ft, di, dj, k, id):
+2 1 2 8 686
+---
+final_thetas_of_type: 161 is (ft, di, dj, k, id):
+2 1 1 9 686
+---
+final_thetas_of_type: 162 is (ft, di, dj, k, id):
+2 0 1 10 686
+---
+final_thetas_of_type: 163 is (ft, di, dj, k, id):
+13 -2 2 7 614
+14 -2 3 7 606
+---
+final_thetas_of_type: 164 is (ft, di, dj, k, id):
+13 -2 1 8 614
+14 -2 2 8 606
+---
+final_thetas_of_type: 165 is (ft, di, dj, k, id):
+14 -1 2 9 606
+13 -1 1 9 614
+---
+final_thetas_of_type: 166 is (ft, di, dj, k, id):
+13 -1 0 10 614
+14 -1 1 10 606
+---
+final_thetas_of_type: 167 is (ft, di, dj, k, id):
+14 0 0 0 -1
+---
+final_thetas_of_type: 168 is (ft, di, dj, k, id):
+13 -4 3 1 539
+12 -6 2 1 543
+15 -4 5 1 495
+13 -5 3 1 567
+15 -3 5 1 563
+0 -3 6 1 499
+15 -3 4 1 511
+14 -5 5 1 483
+11 -6 1 1 535
+0 -2 6 1 515
+13 -5 4 1 523
+1 -1 6 1 507
+12 -6 3 1 527
+---
+final_thetas_of_type: 169 is (ft, di, dj, k, id):
+13 -5 3 2 523
+1 -1 5 2 507
+0 -2 5 2 515
+15 -3 4 2 563
+12 -6 2 2 527
+---
+final_thetas_of_type: 170 is (ft, di, dj, k, id):
+1 0 5 3 507
+0 -1 5 3 515
+15 -2 4 3 563
+13 -4 3 3 523
+12 -5 2 3 527
+---
+final_thetas_of_type: 171 is (ft, di, dj, k, id):
+15 -2 3 4 563
+1 0 4 4 507
+13 -4 2 4 523
+0 -1 4 4 515
+---
+final_thetas_of_type: 172 is (ft, di, dj, k, id):
+13 -3 2 5 523
+0 0 4 5 515
+15 -1 3 5 563
+1 1 4 5 507
+---
+final_thetas_of_type: 173 is (ft, di, dj, k, id):
+15 -1 2 6 563
+1 1 3 6 507
+0 0 3 6 515
+---
+final_thetas_of_type: 174 is (ft, di, dj, k, id):
+0 0 2 7 515
+15 -1 1 7 563
+1 1 2 7 507
+---
+final_thetas_of_type: 175 is (ft, di, dj, k, id):
+15 0 1 8 563
+---
+final_thetas_of_type: 176 is (ft, di, dj, k, id):
+0 0 1 8 515
+1 1 1 8 507
+---
+final_thetas_of_type: 177 is (ft, di, dj, k, id):
+1 0 1 9 507
+---
+final_thetas_of_type: 178 is (ft, di, dj, k, id):
+13 -2 2 6 523
+---
+final_thetas_of_type: 179 is (ft, di, dj, k, id):
+13 -2 1 7 523
+---
+final_thetas_of_type: 180 is (ft, di, dj, k, id):
+13 -1 1 8 523
+---
+final_thetas_of_type: 181 is (ft, di, dj, k, id):
+13 -1 0 9 523
+---
+final_thetas_of_type: 182 is (ft, di, dj, k, id):
+12 -4 2 4 527
+---
+final_thetas_of_type: 183 is (ft, di, dj, k, id):
+12 -4 1 5 527
+---
+final_thetas_of_type: 184 is (ft, di, dj, k, id):
+12 -3 1 6 527
+---
+final_thetas_of_type: 185 is (ft, di, dj, k, id):
+12 -3 0 7 527
+---
+final_thetas_of_type: 186 is (ft, di, dj, k, id):
+12 -2 0 8 527
+---
+final_thetas_of_type: 187 is (ft, di, dj, k, id):
+12 -1 0 9 527
+---
+final_thetas_of_type: 188 is (ft, di, dj, k, id):
+15 -3 5 2 495
+13 -4 3 2 567
+11 -5 1 2 535
+0 -2 6 2 499
+12 -5 2 2 543
+---
+final_thetas_of_type: 189 is (ft, di, dj, k, id):
+15 -3 4 3 495
+12 -5 1 3 543
+13 -4 2 3 567
+0 -2 5 3 499
+11 -5 0 3 535
+---
+final_thetas_of_type: 190 is (ft, di, dj, k, id):
+15 -2 4 4 495
+11 -4 0 4 535
+12 -4 1 4 543
+13 -3 2 4 567
+---
+final_thetas_of_type: 191 is (ft, di, dj, k, id):
+13 -3 1 5 567
+12 -4 0 5 543
+15 -2 3 5 495
+11 -4 -1 5 535
+---
+final_thetas_of_type: 192 is (ft, di, dj, k, id):
+15 -2 2 6 495
+---
+final_thetas_of_type: 193 is (ft, di, dj, k, id):
+15 -1 2 7 495
+---
+final_thetas_of_type: 194 is (ft, di, dj, k, id):
+15 -1 1 8 495
+---
+final_thetas_of_type: 195 is (ft, di, dj, k, id):
+15 0 1 9 495
+---
+final_thetas_of_type: 196 is (ft, di, dj, k, id):
+13 -2 1 6 567
+11 -3 -1 6 535
+12 -3 0 6 543
+---
+final_thetas_of_type: 197 is (ft, di, dj, k, id):
+12 -2 0 7 543
+11 -2 -1 7 535
+13 -1 1 7 567
+---
+final_thetas_of_type: 198 is (ft, di, dj, k, id):
+13 -1 0 8 567
+---
+final_thetas_of_type: 199 is (ft, di, dj, k, id):
+12 -1 0 8 543
+11 -1 -1 8 535
+---
+final_thetas_of_type: 200 is (ft, di, dj, k, id):
+11 -1 0 9 535
+---
+final_thetas_of_type: 201 is (ft, di, dj, k, id):
+0 -2 4 4 499
+---
+final_thetas_of_type: 202 is (ft, di, dj, k, id):
+0 -1 4 5 499
+---
+final_thetas_of_type: 203 is (ft, di, dj, k, id):
+0 -1 3 6 499
+---
+final_thetas_of_type: 204 is (ft, di, dj, k, id):
+0 0 3 7 499
+---
+final_thetas_of_type: 205 is (ft, di, dj, k, id):
+0 0 2 8 499
+---
+final_thetas_of_type: 206 is (ft, di, dj, k, id):
+0 0 1 9 499
+---
+final_thetas_of_type: 207 is (ft, di, dj, k, id):
+15 -2 3 2 511
+13 -3 2 2 539
+14 -4 4 2 483
+---
+final_thetas_of_type: 208 is (ft, di, dj, k, id):
+13 -2 2 3 539
+---
+final_thetas_of_type: 209 is (ft, di, dj, k, id):
+13 -2 1 4 539
+---
+final_thetas_of_type: 210 is (ft, di, dj, k, id):
+13 -1 1 5 539
+---
+final_thetas_of_type: 211 is (ft, di, dj, k, id):
+13 -1 0 6 539
+---
+final_thetas_of_type: 212 is (ft, di, dj, k, id):
+15 -2 2 3 511
+---
+final_thetas_of_type: 213 is (ft, di, dj, k, id):
+15 -1 2 4 511
+---
+final_thetas_of_type: 214 is (ft, di, dj, k, id):
+15 -1 1 5 511
+---
+final_thetas_of_type: 215 is (ft, di, dj, k, id):
+15 0 1 6 511
+---
+final_thetas_of_type: 216 is (ft, di, dj, k, id):
+14 -3 3 3 483
+---
+final_thetas_of_type: 217 is (ft, di, dj, k, id):
+14 -2 2 4 483
+---
+final_thetas_of_type: 218 is (ft, di, dj, k, id):
+14 -1 1 5 483
+---
+final_thetas_of_type: 219 is (ft, di, dj, k, id):
+2 0 6 1 491
+0 -1 2 1 547
+1 -1 6 1 503
+1 -1 3 1 551
+0 -2 4 1 571
+---
+final_thetas_of_type: 220 is (ft, di, dj, k, id):
+0 0 2 2 547
+1 0 3 2 551
+2 1 6 2 491
+1 0 6 2 503
+0 -1 4 2 571
+---
+final_thetas_of_type: 221 is (ft, di, dj, k, id):
+1 0 5 3 503
+0 0 1 3 547
+1 0 2 3 551
+2 1 5 3 491
+0 -1 3 3 571
+---
+final_thetas_of_type: 222 is (ft, di, dj, k, id):
+2 2 5 4 491
+1 1 5 4 503
+0 0 3 4 571
+---
+final_thetas_of_type: 223 is (ft, di, dj, k, id):
+2 2 4 5 491
+0 0 2 5 571
+1 1 4 5 503
+---
+final_thetas_of_type: 224 is (ft, di, dj, k, id):
+0 0 1 6 571
+2 2 3 6 491
+1 1 3 6 503
+---
+final_thetas_of_type: 225 is (ft, di, dj, k, id):
+2 2 2 7 491
+1 1 2 7 503
+---
+final_thetas_of_type: 226 is (ft, di, dj, k, id):
+2 1 2 8 491
+---
+final_thetas_of_type: 227 is (ft, di, dj, k, id):
+2 1 1 9 491
+---
+final_thetas_of_type: 228 is (ft, di, dj, k, id):
+2 0 1 10 491
+---
+final_thetas_of_type: 229 is (ft, di, dj, k, id):
+1 1 1 8 503
+---
+final_thetas_of_type: 230 is (ft, di, dj, k, id):
+1 0 1 9 503
+---
+final_thetas_of_type: 231 is (ft, di, dj, k, id):
+1 0 1 4 551
+---
+final_thetas_of_type: 232 is (ft, di, dj, k, id):
+12 -2 1 1 555
+12 -4 2 1 575
+11 -6 1 1 531
+11 -3 1 1 559
+10 -6 0 1 519
+---
+final_thetas_of_type: 233 is (ft, di, dj, k, id):
+11 -6 0 2 531
+12 -4 1 2 575
+10 -6 -1 2 519
+11 -3 0 2 559
+12 -2 0 2 555
+---
+final_thetas_of_type: 234 is (ft, di, dj, k, id):
+10 -5 -1 3 519
+12 -3 1 3 575
+11 -5 0 3 531
+11 -2 0 3 559
+12 -1 0 3 555
+---
+final_thetas_of_type: 235 is (ft, di, dj, k, id):
+10 -5 -2 4 519
+12 -3 0 4 575
+11 -5 -1 4 531
+---
+final_thetas_of_type: 236 is (ft, di, dj, k, id):
+11 -4 -1 5 531
+12 -2 0 5 575
+10 -4 -2 5 519
+---
+final_thetas_of_type: 237 is (ft, di, dj, k, id):
+12 -1 0 6 575
+10 -3 -2 6 519
+11 -3 -1 6 531
+---
+final_thetas_of_type: 238 is (ft, di, dj, k, id):
+11 -2 -1 7 531
+10 -2 -2 7 519
+---
+final_thetas_of_type: 239 is (ft, di, dj, k, id):
+10 -2 -1 8 519
+---
+final_thetas_of_type: 240 is (ft, di, dj, k, id):
+10 -1 -1 9 519
+---
+final_thetas_of_type: 241 is (ft, di, dj, k, id):
+10 -1 0 10 519
+---
+final_thetas_of_type: 242 is (ft, di, dj, k, id):
+11 -1 -1 8 531
+---
+final_thetas_of_type: 243 is (ft, di, dj, k, id):
+11 -1 0 9 531
+---
+final_thetas_of_type: 244 is (ft, di, dj, k, id):
+11 -1 0 4 559
+---
+final_thetas_of_type: 245 is (ft, di, dj, k, id):
+12 -5 2 4 630
+14 -3 3 4 742
+14 -2 3 4 638
+13 -2 2 4 758
+11 -5 0 4 598
+13 -4 3 4 646
+12 -5 1 4 622
+12 -1 0 4 718
+---
+final_thetas_of_type: 246 is (ft, di, dj, k, id):
+14 -2 2 5 638
+13 -4 2 5 646
+13 -2 1 5 758
+12 -5 1 5 630
+12 -5 0 5 622
+11 -5 -1 5 598
+14 -3 2 5 742
+---
+final_thetas_of_type: 247 is (ft, di, dj, k, id):
+12 -4 1 6 630
+12 -4 0 6 622
+14 -2 2 6 742
+11 -4 -1 6 598
+13 -3 2 6 646
+13 -1 1 6 758
+---
+final_thetas_of_type: 248 is (ft, di, dj, k, id):
+12 -4 0 7 630
+13 -1 0 7 758
+13 -3 1 7 646
+14 -2 1 7 742
+---
+final_thetas_of_type: 249 is (ft, di, dj, k, id):
+14 -1 1 8 742
+13 -2 1 8 646
+12 -3 0 8 630
+---
+final_thetas_of_type: 250 is (ft, di, dj, k, id):
+14 -1 0 9 742
+---
+final_thetas_of_type: 251 is (ft, di, dj, k, id):
+13 -1 1 9 646
+12 -2 0 9 630
+---
+final_thetas_of_type: 252 is (ft, di, dj, k, id):
+13 -1 0 10 646
+---
+final_thetas_of_type: 253 is (ft, di, dj, k, id):
+12 -1 0 10 630
+---
+final_thetas_of_type: 254 is (ft, di, dj, k, id):
+11 -3 -1 7 598
+12 -3 0 7 622
+---
+final_thetas_of_type: 255 is (ft, di, dj, k, id):
+12 -2 0 8 622
+11 -2 -1 8 598
+---
+final_thetas_of_type: 256 is (ft, di, dj, k, id):
+12 -1 0 9 622
+11 -1 -1 9 598
+---
+final_thetas_of_type: 257 is (ft, di, dj, k, id):
+11 -1 0 10 598
+---
+final_thetas_of_type: 258 is (ft, di, dj, k, id):
+14 -1 1 6 638
+---
+final_thetas_of_type: 259 is (ft, di, dj, k, id):
+1 0 1 2 726
+---
+final_thetas_of_type: 260 is (ft, di, dj, k, id):
+12 -5 2 4 659
+10 -5 -2 4 675
+11 -5 1 4 667
+11 -5 -1 4 699
+13 -5 3 4 579
+10 -5 0 4 683
+14 -4 4 4 603
+12 -4 0 4 747
+15 -3 4 4 611
+9 -4 -2 4 651
+10 -1 -1 4 731
+12 -3 1 4 691
+11 -2 -1 4 763
+---
+final_thetas_of_type: 261 is (ft, di, dj, k, id):
+10 -4 -2 5 675
+9 -3 -2 5 651
+12 -3 0 5 747
+11 -1 -1 5 763
+11 -4 -1 5 699
+---
+final_thetas_of_type: 262 is (ft, di, dj, k, id):
+9 -2 -2 6 651
+12 -2 0 6 747
+10 -3 -2 6 675
+11 -3 -1 6 699
+---
+final_thetas_of_type: 263 is (ft, di, dj, k, id):
+11 -2 -1 7 699
+10 -2 -2 7 675
+9 -1 -2 7 651
+12 -1 0 7 747
+---
+final_thetas_of_type: 264 is (ft, di, dj, k, id):
+9 -1 -1 8 651
+10 -2 -1 8 675
+---
+final_thetas_of_type: 265 is (ft, di, dj, k, id):
+10 -1 -1 9 675
+9 0 -1 9 651
+---
+final_thetas_of_type: 266 is (ft, di, dj, k, id):
+10 -1 0 10 675
+---
+final_thetas_of_type: 267 is (ft, di, dj, k, id):
+11 -1 -1 8 699
+---
+final_thetas_of_type: 268 is (ft, di, dj, k, id):
+11 -1 0 9 699
+---
+final_thetas_of_type: 269 is (ft, di, dj, k, id):
+11 -1 0 6 763
+---
+final_thetas_of_type: 270 is (ft, di, dj, k, id):
+10 -5 -1 5 683
+13 -5 2 5 579
+12 -5 1 5 659
+14 -4 3 5 603
+15 -3 3 5 611
+11 -5 0 5 667
+12 -3 0 5 691
+---
+final_thetas_of_type: 271 is (ft, di, dj, k, id):
+13 -4 2 6 579
+10 -4 -1 6 683
+14 -3 3 6 603
+11 -4 0 6 667
+15 -2 3 6 611
+12 -2 0 6 691
+12 -4 1 6 659
+---
+final_thetas_of_type: 272 is (ft, di, dj, k, id):
+11 -3 0 7 667
+12 -1 0 7 691
+13 -3 2 7 579
+10 -3 -1 7 683
+12 -3 1 7 659
+---
+final_thetas_of_type: 273 is (ft, di, dj, k, id):
+13 -3 1 8 579
+11 -3 -1 8 667
+12 -3 0 8 659
+---
+final_thetas_of_type: 274 is (ft, di, dj, k, id):
+11 -2 -1 9 667
+13 -2 1 9 579
+12 -2 0 9 659
+---
+final_thetas_of_type: 275 is (ft, di, dj, k, id):
+12 -1 0 10 659
+11 -1 -1 10 667
+13 -1 1 10 579
+---
+final_thetas_of_type: 276 is (ft, di, dj, k, id):
+13 -1 0 11 579
+---
+final_thetas_of_type: 277 is (ft, di, dj, k, id):
+11 -1 0 11 667
+---
+final_thetas_of_type: 278 is (ft, di, dj, k, id):
+10 -2 -1 8 683
+---
+final_thetas_of_type: 279 is (ft, di, dj, k, id):
+10 -1 -1 9 683
+---
+final_thetas_of_type: 280 is (ft, di, dj, k, id):
+10 -1 0 10 683
+---
+final_thetas_of_type: 281 is (ft, di, dj, k, id):
+14 -3 2 7 603
+15 -2 2 7 611
+---
+final_thetas_of_type: 282 is (ft, di, dj, k, id):
+14 -2 2 8 603
+15 -1 2 8 611
+---
+final_thetas_of_type: 283 is (ft, di, dj, k, id):
+15 -1 1 9 611
+14 -2 1 9 603
+---
+final_thetas_of_type: 284 is (ft, di, dj, k, id):
+14 -1 1 10 603
+15 0 1 10 611
+---
+final_thetas_of_type: 285 is (ft, di, dj, k, id):
+10 -1 0 5 731
+---
+final_thetas_of_type: 286 is (ft, di, dj, k, id):
+15 -2 2 4 755
+0 -1 5 4 619
+14 -3 3 4 739
+14 -3 2 4 635
+1 0 5 4 595
+0 -2 5 4 627
+15 -3 4 4 643
+0 0 1 4 715
+---
+final_thetas_of_type: 287 is (ft, di, dj, k, id):
+14 -2 3 5 739
+0 0 5 5 619
+15 -2 4 5 643
+1 1 5 5 595
+0 -1 5 5 627
+15 -1 2 5 755
+14 -2 2 5 635
+---
+final_thetas_of_type: 288 is (ft, di, dj, k, id):
+15 -1 1 6 755
+1 1 4 6 595
+0 -1 4 6 627
+14 -2 2 6 739
+15 -2 3 6 643
+0 0 4 6 619
+---
+final_thetas_of_type: 289 is (ft, di, dj, k, id):
+14 -1 2 7 739
+0 0 4 7 627
+15 0 1 7 755
+15 -1 3 7 643
+---
+final_thetas_of_type: 290 is (ft, di, dj, k, id):
+15 -1 2 8 643
+14 -1 1 8 739
+0 0 3 8 627
+---
+final_thetas_of_type: 291 is (ft, di, dj, k, id):
+15 -1 1 9 643
+0 0 2 9 627
+---
+final_thetas_of_type: 292 is (ft, di, dj, k, id):
+0 0 1 10 627
+---
+final_thetas_of_type: 293 is (ft, di, dj, k, id):
+15 0 1 10 643
+---
+final_thetas_of_type: 294 is (ft, di, dj, k, id):
+14 0 1 9 739
+---
+final_thetas_of_type: 295 is (ft, di, dj, k, id):
+0 0 3 7 619
+1 1 3 7 595
+---
+final_thetas_of_type: 296 is (ft, di, dj, k, id):
+1 1 2 8 595
+0 0 2 8 619
+---
+final_thetas_of_type: 297 is (ft, di, dj, k, id):
+0 0 1 9 619
+1 1 1 9 595
+---
+final_thetas_of_type: 298 is (ft, di, dj, k, id):
+1 0 1 10 595
+---
+final_thetas_of_type: 299 is (ft, di, dj, k, id):
+14 -1 1 6 635
+---
+final_thetas_of_type: 300 is (ft, di, dj, k, id):
+11 -1 0 2 723
+---
+final_thetas_of_type: 301 is (ft, di, dj, k, id):
+11 -1 0 8 562
+---
+final_thetas_of_type: 302 is (ft, di, dj, k, id):
+9 -2 -2 6 522
+---
+final_thetas_of_type: 303 is (ft, di, dj, k, id):
+9 -1 -2 7 522
+---
+final_thetas_of_type: 304 is (ft, di, dj, k, id):
+9 -1 -1 8 522
+---
+final_thetas_of_type: 305 is (ft, di, dj, k, id):
+9 0 -1 9 522
+---
+final_thetas_of_type: 306 is (ft, di, dj, k, id):
+8 -2 -4 4 526
+---
+final_thetas_of_type: 307 is (ft, di, dj, k, id):
+8 -1 -4 5 526
+---
+final_thetas_of_type: 308 is (ft, di, dj, k, id):
+8 -1 -3 6 526
+---
+final_thetas_of_type: 309 is (ft, di, dj, k, id):
+8 0 -3 7 526
+---
+final_thetas_of_type: 310 is (ft, di, dj, k, id):
+8 0 -2 8 526
+---
+final_thetas_of_type: 311 is (ft, di, dj, k, id):
+8 0 -1 9 526
+---
+final_thetas_of_type: 312 is (ft, di, dj, k, id):
+11 -5 -3 2 494
+8 -2 -5 2 542
+9 -3 -4 2 566
+12 -6 -2 2 498
+7 -1 -5 2 534
+---
+final_thetas_of_type: 313 is (ft, di, dj, k, id):
+9 -2 -4 3 566
+7 0 -5 3 534
+11 -4 -3 3 494
+12 -5 -2 3 498
+8 -1 -5 3 542
+---
+final_thetas_of_type: 314 is (ft, di, dj, k, id):
+11 -4 -2 4 494
+7 0 -4 4 534
+8 -1 -4 4 542
+9 -2 -3 4 566
+---
+final_thetas_of_type: 315 is (ft, di, dj, k, id):
+9 -1 -3 5 566
+7 1 -4 5 534
+8 0 -4 5 542
+11 -3 -2 5 494
+---
+final_thetas_of_type: 316 is (ft, di, dj, k, id):
+9 -1 -2 6 566
+8 0 -3 6 542
+7 1 -3 6 534
+---
+final_thetas_of_type: 317 is (ft, di, dj, k, id):
+9 -1 -1 7 566
+7 1 -2 7 534
+8 0 -2 7 542
+---
+final_thetas_of_type: 318 is (ft, di, dj, k, id):
+7 1 -1 8 534
+8 0 -1 8 542
+---
+final_thetas_of_type: 319 is (ft, di, dj, k, id):
+7 0 -1 9 534
+---
+final_thetas_of_type: 320 is (ft, di, dj, k, id):
+9 0 -1 8 566
+---
+final_thetas_of_type: 321 is (ft, di, dj, k, id):
+11 -2 -2 6 494
+---
+final_thetas_of_type: 322 is (ft, di, dj, k, id):
+11 -2 -1 7 494
+---
+final_thetas_of_type: 323 is (ft, di, dj, k, id):
+11 -1 -1 8 494
+---
+final_thetas_of_type: 324 is (ft, di, dj, k, id):
+11 -1 0 9 494
+---
+final_thetas_of_type: 325 is (ft, di, dj, k, id):
+12 -4 -2 4 498
+---
+final_thetas_of_type: 326 is (ft, di, dj, k, id):
+12 -4 -1 5 498
+---
+final_thetas_of_type: 327 is (ft, di, dj, k, id):
+12 -3 -1 6 498
+---
+final_thetas_of_type: 328 is (ft, di, dj, k, id):
+12 -3 0 7 498
+---
+final_thetas_of_type: 329 is (ft, di, dj, k, id):
+12 -2 0 8 498
+---
+final_thetas_of_type: 330 is (ft, di, dj, k, id):
+12 -1 0 9 498
+---
+final_thetas_of_type: 331 is (ft, di, dj, k, id):
+9 -2 -3 2 538
+11 -3 -2 2 510
+10 -4 -4 2 482
+---
+final_thetas_of_type: 332 is (ft, di, dj, k, id):
+10 -3 -3 3 482
+---
+final_thetas_of_type: 333 is (ft, di, dj, k, id):
+10 -2 -2 4 482
+---
+final_thetas_of_type: 334 is (ft, di, dj, k, id):
+10 -1 -1 5 482
+---
+final_thetas_of_type: 335 is (ft, di, dj, k, id):
+9 -2 -2 3 538
+---
+final_thetas_of_type: 336 is (ft, di, dj, k, id):
+9 -1 -2 4 538
+---
+final_thetas_of_type: 337 is (ft, di, dj, k, id):
+9 -1 -1 5 538
+---
+final_thetas_of_type: 338 is (ft, di, dj, k, id):
+9 0 -1 6 538
+---
+final_thetas_of_type: 339 is (ft, di, dj, k, id):
+11 -2 -2 3 510
+---
+final_thetas_of_type: 340 is (ft, di, dj, k, id):
+11 -2 -1 4 510
+---
+final_thetas_of_type: 341 is (ft, di, dj, k, id):
+11 -1 -1 5 510
+---
+final_thetas_of_type: 342 is (ft, di, dj, k, id):
+11 -1 0 6 510
+---
+final_thetas_of_type: 343 is (ft, di, dj, k, id):
+14 -6 0 1 490
+13 -3 -1 1 550
+12 -4 -2 1 570
+13 -6 -1 1 502
+12 -2 -1 1 546
+---
+final_thetas_of_type: 344 is (ft, di, dj, k, id):
+13 -3 0 2 550
+14 -6 1 2 490
+12 -4 -1 2 570
+13 -6 0 2 502
+12 -2 0 2 546
+---
+final_thetas_of_type: 345 is (ft, di, dj, k, id):
+14 -5 1 3 490
+12 -1 0 3 546
+13 -5 0 3 502
+12 -3 -1 3 570
+13 -2 0 3 550
+---
+final_thetas_of_type: 346 is (ft, di, dj, k, id):
+14 -5 2 4 490
+12 -3 0 4 570
+13 -5 1 4 502
+---
+final_thetas_of_type: 347 is (ft, di, dj, k, id):
+12 -2 0 5 570
+13 -4 1 5 502
+14 -4 2 5 490
+---
+final_thetas_of_type: 348 is (ft, di, dj, k, id):
+14 -3 2 6 490
+13 -3 1 6 502
+12 -1 0 6 570
+---
+final_thetas_of_type: 349 is (ft, di, dj, k, id):
+13 -2 1 7 502
+14 -2 2 7 490
+---
+final_thetas_of_type: 350 is (ft, di, dj, k, id):
+13 -1 1 8 502
+---
+final_thetas_of_type: 351 is (ft, di, dj, k, id):
+13 -1 0 9 502
+---
+final_thetas_of_type: 352 is (ft, di, dj, k, id):
+14 -2 1 8 490
+---
+final_thetas_of_type: 353 is (ft, di, dj, k, id):
+14 -1 1 9 490
+---
+final_thetas_of_type: 354 is (ft, di, dj, k, id):
+14 -1 0 10 490
+---
+final_thetas_of_type: 355 is (ft, di, dj, k, id):
+13 -1 0 4 550
+---
+final_thetas_of_type: 356 is (ft, di, dj, k, id):
+9 0 -1 4 463
+---
+final_thetas_of_type: 357 is (ft, di, dj, k, id):
+9 -4 -4 3 439
+11 -4 -2 3 471
+11 -3 -1 3 443
+13 -5 1 3 399
+8 -2 -5 3 423
+10 -5 -2 3 431
+14 -2 2 3 475
+15 -3 5 3 407
+13 -3 1 3 415
+10 -4 -3 3 447
+15 -4 4 3 411
+10 -2 -2 3 479
+0 -2 5 3 395
+14 -5 2 3 403
+12 -5 0 3 387
+11 -5 -1 3 427
+14 -4 3 3 419
+13 -4 2 3 467
+9 -3 -5 3 435
+---
+final_thetas_of_type: 358 is (ft, di, dj, k, id):
+10 -3 -3 4 447
+15 -3 4 4 411
+10 -4 -2 4 431
+14 -4 2 4 403
+11 -3 -2 4 471
+11 -2 -1 4 443
+13 -2 1 4 415
+14 -3 3 4 419
+11 -4 -1 4 427
+12 -4 0 4 387
+13 -3 2 4 467
+9 -3 -4 4 439
+13 -4 1 4 399
+---
+final_thetas_of_type: 359 is (ft, di, dj, k, id):
+13 -1 1 5 415
+10 -3 -2 5 431
+12 -3 0 5 387
+11 -1 -1 5 443
+14 -3 2 5 403
+11 -3 -1 5 427
+13 -3 1 5 399
+---
+final_thetas_of_type: 360 is (ft, di, dj, k, id):
+13 -1 0 6 415
+---
+final_thetas_of_type: 361 is (ft, di, dj, k, id):
+11 -2 -1 6 427
+12 -2 0 6 387
+13 -2 1 6 399
+14 -2 2 6 403
+10 -2 -2 6 431
+---
+final_thetas_of_type: 362 is (ft, di, dj, k, id):
+11 -1 -1 7 427
+12 -1 0 7 387
+13 -1 1 7 399
+---
+final_thetas_of_type: 363 is (ft, di, dj, k, id):
+11 -1 0 8 427
+---
+final_thetas_of_type: 364 is (ft, di, dj, k, id):
+13 -1 0 8 399
+---
+final_thetas_of_type: 365 is (ft, di, dj, k, id):
+10 -2 -1 7 431
+---
+final_thetas_of_type: 366 is (ft, di, dj, k, id):
+10 -1 -1 8 431
+---
+final_thetas_of_type: 367 is (ft, di, dj, k, id):
+10 -1 0 9 431
+---
+final_thetas_of_type: 368 is (ft, di, dj, k, id):
+14 -2 1 7 403
+---
+final_thetas_of_type: 369 is (ft, di, dj, k, id):
+14 -1 1 8 403
+---
+final_thetas_of_type: 370 is (ft, di, dj, k, id):
+14 -1 0 9 403
+---
+final_thetas_of_type: 371 is (ft, di, dj, k, id):
+11 -1 0 6 443
+---
+final_thetas_of_type: 372 is (ft, di, dj, k, id):
+15 -3 3 5 411
+13 -3 1 5 467
+14 -3 2 5 419
+---
+final_thetas_of_type: 373 is (ft, di, dj, k, id):
+13 -2 1 6 467
+15 -2 3 6 411
+14 -2 2 6 419
+---
+final_thetas_of_type: 374 is (ft, di, dj, k, id):
+15 -2 2 7 411
+14 -2 1 7 419
+---
+final_thetas_of_type: 375 is (ft, di, dj, k, id):
+14 -1 1 8 419
+15 -1 2 8 411
+---
+final_thetas_of_type: 376 is (ft, di, dj, k, id):
+15 -1 1 9 411
+14 -1 0 9 419
+---
+final_thetas_of_type: 377 is (ft, di, dj, k, id):
+15 0 1 10 411
+---
+final_thetas_of_type: 378 is (ft, di, dj, k, id):
+13 -1 1 7 467
+---
+final_thetas_of_type: 379 is (ft, di, dj, k, id):
+13 -1 0 8 467
+---
+final_thetas_of_type: 380 is (ft, di, dj, k, id):
+11 -3 -1 5 471
+9 -3 -3 5 439
+10 -3 -2 5 447
+---
+final_thetas_of_type: 381 is (ft, di, dj, k, id):
+11 -2 -1 6 471
+9 -2 -3 6 439
+10 -2 -2 6 447
+---
+final_thetas_of_type: 382 is (ft, di, dj, k, id):
+11 -1 -1 7 471
+---
+final_thetas_of_type: 383 is (ft, di, dj, k, id):
+11 -1 0 8 471
+---
+final_thetas_of_type: 384 is (ft, di, dj, k, id):
+9 -2 -2 7 439
+10 -2 -1 7 447
+---
+final_thetas_of_type: 385 is (ft, di, dj, k, id):
+10 -1 -1 8 447
+9 -1 -2 8 439
+---
+final_thetas_of_type: 386 is (ft, di, dj, k, id):
+10 -1 0 9 447
+9 -1 -1 9 439
+---
+final_thetas_of_type: 387 is (ft, di, dj, k, id):
+9 0 -1 10 439
+---
+final_thetas_of_type: 388 is (ft, di, dj, k, id):
+10 -2 -1 4 479
+9 -3 -4 4 435
+8 -2 -4 4 423
+---
+final_thetas_of_type: 389 is (ft, di, dj, k, id):
+10 -1 -1 5 479
+8 -1 -4 5 423
+9 -2 -4 5 435
+---
+final_thetas_of_type: 390 is (ft, di, dj, k, id):
+8 -1 -3 6 423
+10 -1 0 6 479
+9 -2 -3 6 435
+---
+final_thetas_of_type: 391 is (ft, di, dj, k, id):
+9 -1 -3 7 435
+8 0 -3 7 423
+---
+final_thetas_of_type: 392 is (ft, di, dj, k, id):
+8 0 -2 8 423
+9 -1 -2 8 435
+---
+final_thetas_of_type: 393 is (ft, di, dj, k, id):
+9 -1 -1 9 435
+8 0 -1 9 423
+---
+final_thetas_of_type: 394 is (ft, di, dj, k, id):
+9 0 -1 10 435
+---
+final_thetas_of_type: 395 is (ft, di, dj, k, id):
+0 -2 4 4 395
+14 -2 1 4 475
+15 -3 4 4 407
+---
+final_thetas_of_type: 396 is (ft, di, dj, k, id):
+15 -2 4 5 407
+14 -1 1 5 475
+0 -1 4 5 395
+---
+final_thetas_of_type: 397 is (ft, di, dj, k, id):
+15 -2 3 6 407
+14 -1 0 6 475
+0 -1 3 6 395
+---
+final_thetas_of_type: 398 is (ft, di, dj, k, id):
+0 0 3 7 395
+15 -1 3 7 407
+---
+final_thetas_of_type: 399 is (ft, di, dj, k, id):
+0 0 2 8 395
+15 -1 2 8 407
+---
+final_thetas_of_type: 400 is (ft, di, dj, k, id):
+15 -1 1 9 407
+0 0 1 9 395
+---
+final_thetas_of_type: 401 is (ft, di, dj, k, id):
+15 0 1 10 407
+---
+final_thetas_of_type: 402 is (ft, di, dj, k, id):
+14 -1 0 3 451
+15 -1 1 3 455
+---
+final_thetas_of_type: 403 is (ft, di, dj, k, id):
+15 0 1 4 455
+---
+final_thetas_of_type: 404 is (ft, di, dj, k, id):
+13 -1 1 8 701
+---
+final_thetas_of_type: 405 is (ft, di, dj, k, id):
+13 -1 0 9 701
+---
+final_thetas_of_type: 406 is (ft, di, dj, k, id):
+14 -2 1 8 677
+15 -1 1 8 653
+---
+final_thetas_of_type: 407 is (ft, di, dj, k, id):
+14 -1 1 9 677
+15 0 1 9 653
+---
+final_thetas_of_type: 408 is (ft, di, dj, k, id):
+14 -1 0 10 677
+---
+final_thetas_of_type: 409 is (ft, di, dj, k, id):
+13 -1 0 6 765
+---
+final_thetas_of_type: 410 is (ft, di, dj, k, id):
+12 -3 0 5 693
+14 -5 1 5 685
+10 -4 -3 5 605
+12 -5 -1 5 661
+9 -3 -3 5 613
+11 -5 -2 5 581
+13 -5 0 5 669
+---
+final_thetas_of_type: 411 is (ft, di, dj, k, id):
+14 -4 1 6 685
+12 -4 -1 6 661
+10 -3 -3 6 605
+13 -4 0 6 669
+11 -4 -2 6 581
+9 -2 -3 6 613
+12 -2 0 6 693
+---
+final_thetas_of_type: 412 is (ft, di, dj, k, id):
+12 -1 0 7 693
+11 -3 -2 7 581
+12 -3 -1 7 661
+13 -3 0 7 669
+14 -3 1 7 685
+---
+final_thetas_of_type: 413 is (ft, di, dj, k, id):
+12 -3 0 8 661
+13 -3 1 8 669
+11 -3 -1 8 581
+---
+final_thetas_of_type: 414 is (ft, di, dj, k, id):
+12 -2 0 9 661
+11 -2 -1 9 581
+13 -2 1 9 669
+---
+final_thetas_of_type: 415 is (ft, di, dj, k, id):
+11 -1 -1 10 581
+12 -1 0 10 661
+13 -1 1 10 669
+---
+final_thetas_of_type: 416 is (ft, di, dj, k, id):
+13 -1 0 11 669
+---
+final_thetas_of_type: 417 is (ft, di, dj, k, id):
+11 -1 0 11 581
+---
+final_thetas_of_type: 418 is (ft, di, dj, k, id):
+14 -2 1 8 685
+---
+final_thetas_of_type: 419 is (ft, di, dj, k, id):
+14 -1 1 9 685
+---
+final_thetas_of_type: 420 is (ft, di, dj, k, id):
+14 -1 0 10 685
+---
+final_thetas_of_type: 421 is (ft, di, dj, k, id):
+10 -3 -2 7 605
+9 -2 -2 7 613
+---
+final_thetas_of_type: 422 is (ft, di, dj, k, id):
+9 -1 -2 8 613
+10 -2 -2 8 605
+---
+final_thetas_of_type: 423 is (ft, di, dj, k, id):
+9 -1 -1 9 613
+10 -2 -1 9 605
+---
+final_thetas_of_type: 424 is (ft, di, dj, k, id):
+10 -1 -1 10 605
+9 0 -1 10 613
+---
+final_thetas_of_type: 425 is (ft, di, dj, k, id):
+14 -1 0 5 733
+---
+final_thetas_of_type: 426 is (ft, di, dj, k, id):
+7 0 -5 4 597
+10 -3 -2 4 637
+8 -2 -5 4 629
+9 -2 -2 4 757
+10 -3 -3 4 741
+8 -1 -5 4 621
+9 -3 -4 4 645
+8 0 -1 4 717
+---
+final_thetas_of_type: 427 is (ft, di, dj, k, id):
+8 0 -5 5 621
+8 -1 -5 5 629
+9 -1 -2 5 757
+10 -2 -2 5 637
+7 1 -5 5 597
+9 -2 -4 5 645
+10 -2 -3 5 741
+---
+final_thetas_of_type: 428 is (ft, di, dj, k, id):
+10 -1 -1 6 637
+---
+final_thetas_of_type: 429 is (ft, di, dj, k, id):
+8 0 -4 6 621
+10 -2 -2 6 741
+9 -1 -1 6 757
+8 -1 -4 6 629
+9 -2 -3 6 645
+7 1 -4 6 597
+---
+final_thetas_of_type: 430 is (ft, di, dj, k, id):
+7 1 -3 7 597
+8 0 -3 7 621
+---
+final_thetas_of_type: 431 is (ft, di, dj, k, id):
+7 1 -2 8 597
+8 0 -2 8 621
+---
+final_thetas_of_type: 432 is (ft, di, dj, k, id):
+7 1 -1 9 597
+8 0 -1 9 621
+---
+final_thetas_of_type: 433 is (ft, di, dj, k, id):
+7 0 -1 10 597
+---
+final_thetas_of_type: 434 is (ft, di, dj, k, id):
+10 -1 -2 7 741
+9 -1 -3 7 645
+8 0 -4 7 629
+9 0 -1 7 757
+---
+final_thetas_of_type: 435 is (ft, di, dj, k, id):
+8 0 -3 8 629
+10 -1 -1 8 741
+9 -1 -2 8 645
+---
+final_thetas_of_type: 436 is (ft, di, dj, k, id):
+8 0 -2 9 629
+9 -1 -1 9 645
+---
+final_thetas_of_type: 437 is (ft, di, dj, k, id):
+9 0 -1 10 645
+---
+final_thetas_of_type: 438 is (ft, di, dj, k, id):
+8 0 -1 10 629
+---
+final_thetas_of_type: 439 is (ft, di, dj, k, id):
+10 0 -1 9 741
+---
+final_thetas_of_type: 440 is (ft, di, dj, k, id):
+13 -1 0 2 725
+---
+final_thetas_of_type: 441 is (ft, di, dj, k, id):
+7 1 -5 4 698
+7 1 -2 4 762
+6 0 -5 4 682
+11 -4 -3 4 610
+8 -2 -5 4 658
+8 -1 -3 4 690
+10 -4 -4 4 602
+9 -3 -5 4 578
+8 0 -4 4 746
+5 2 -4 4 650
+6 2 -5 4 674
+6 1 -1 4 730
+7 -1 -5 4 666
+---
+final_thetas_of_type: 442 is (ft, di, dj, k, id):
+8 -1 -5 5 658
+6 1 -5 5 682
+8 0 -3 5 690
+11 -3 -3 5 610
+9 -2 -5 5 578
+10 -3 -4 5 602
+7 0 -5 5 666
+---
+final_thetas_of_type: 443 is (ft, di, dj, k, id):
+6 1 -4 6 682
+8 0 -2 6 690
+9 -2 -4 6 578
+10 -3 -3 6 602
+8 -1 -4 6 658
+7 0 -4 6 666
+11 -3 -2 6 610
+---
+final_thetas_of_type: 444 is (ft, di, dj, k, id):
+7 0 -3 7 666
+8 0 -1 7 690
+8 -1 -3 7 658
+6 1 -3 7 682
+9 -2 -3 7 578
+---
+final_thetas_of_type: 445 is (ft, di, dj, k, id):
+9 -1 -3 8 578
+8 0 -3 8 658
+7 1 -3 8 666
+---
+final_thetas_of_type: 446 is (ft, di, dj, k, id):
+8 0 -2 9 658
+9 -1 -2 9 578
+7 1 -2 9 666
+---
+final_thetas_of_type: 447 is (ft, di, dj, k, id):
+7 1 -1 10 666
+8 0 -1 10 658
+9 -1 -1 10 578
+---
+final_thetas_of_type: 448 is (ft, di, dj, k, id):
+9 0 -1 11 578
+---
+final_thetas_of_type: 449 is (ft, di, dj, k, id):
+7 0 -1 11 666
+---
+final_thetas_of_type: 450 is (ft, di, dj, k, id):
+6 1 -2 8 682
+---
+final_thetas_of_type: 451 is (ft, di, dj, k, id):
+6 1 -1 9 682
+---
+final_thetas_of_type: 452 is (ft, di, dj, k, id):
+6 0 -1 10 682
+---
+final_thetas_of_type: 453 is (ft, di, dj, k, id):
+11 -2 -2 7 610
+10 -2 -3 7 602
+---
+final_thetas_of_type: 454 is (ft, di, dj, k, id):
+11 -2 -1 8 610
+10 -2 -2 8 602
+---
+final_thetas_of_type: 455 is (ft, di, dj, k, id):
+10 -1 -2 9 602
+11 -1 -1 9 610
+---
+final_thetas_of_type: 456 is (ft, di, dj, k, id):
+11 -1 0 10 610
+10 -1 -1 10 602
+---
+final_thetas_of_type: 457 is (ft, di, dj, k, id):
+5 2 -3 5 650
+7 1 -4 5 698
+6 2 -4 5 674
+7 1 -1 5 762
+8 0 -3 5 746
+---
+final_thetas_of_type: 458 is (ft, di, dj, k, id):
+7 1 -3 6 698
+5 2 -2 6 650
+6 2 -3 6 674
+8 0 -2 6 746
+---
+final_thetas_of_type: 459 is (ft, di, dj, k, id):
+8 0 -1 7 746
+6 2 -2 7 674
+5 2 -1 7 650
+7 1 -2 7 698
+---
+final_thetas_of_type: 460 is (ft, di, dj, k, id):
+5 1 -1 8 650
+6 1 -2 8 674
+---
+final_thetas_of_type: 461 is (ft, di, dj, k, id):
+5 1 0 9 650
+6 1 -1 9 674
+---
+final_thetas_of_type: 462 is (ft, di, dj, k, id):
+6 0 -1 10 674
+---
+final_thetas_of_type: 463 is (ft, di, dj, k, id):
+7 1 -1 8 698
+---
+final_thetas_of_type: 464 is (ft, di, dj, k, id):
+7 0 -1 9 698
+---
+final_thetas_of_type: 465 is (ft, di, dj, k, id):
+7 0 -1 6 762
+---
+final_thetas_of_type: 466 is (ft, di, dj, k, id):
+6 0 -1 5 730
+---
+final_thetas_of_type: 467 is (ft, di, dj, k, id):
+12 -1 0 4 714
+11 -4 -3 4 642
+10 -2 -3 4 634
+12 -5 -1 4 618
+11 -2 -2 4 754
+10 -3 -3 4 738
+12 -5 -2 4 626
+13 -5 0 4 594
+---
+final_thetas_of_type: 468 is (ft, di, dj, k, id):
+13 -5 1 5 594
+11 -2 -1 5 754
+12 -5 -1 5 626
+12 -5 0 5 618
+10 -2 -2 5 634
+10 -3 -2 5 738
+11 -4 -2 5 642
+---
+final_thetas_of_type: 469 is (ft, di, dj, k, id):
+12 -4 -1 6 626
+12 -4 0 6 618
+10 -2 -2 6 738
+11 -1 -1 6 754
+11 -3 -2 6 642
+13 -4 1 6 594
+---
+final_thetas_of_type: 470 is (ft, di, dj, k, id):
+11 -1 0 7 754
+10 -2 -1 7 738
+12 -4 0 7 626
+11 -3 -1 7 642
+---
+final_thetas_of_type: 471 is (ft, di, dj, k, id):
+10 -1 -1 8 738
+11 -2 -1 8 642
+12 -3 0 8 626
+---
+final_thetas_of_type: 472 is (ft, di, dj, k, id):
+10 -1 0 9 738
+---
+final_thetas_of_type: 473 is (ft, di, dj, k, id):
+11 -1 -1 9 642
+12 -2 0 9 626
+---
+final_thetas_of_type: 474 is (ft, di, dj, k, id):
+11 -1 0 10 642
+---
+final_thetas_of_type: 475 is (ft, di, dj, k, id):
+12 -1 0 10 626
+---
+final_thetas_of_type: 476 is (ft, di, dj, k, id):
+12 -3 0 7 618
+13 -3 1 7 594
+---
+final_thetas_of_type: 477 is (ft, di, dj, k, id):
+13 -2 1 8 594
+12 -2 0 8 618
+---
+final_thetas_of_type: 478 is (ft, di, dj, k, id):
+13 -1 1 9 594
+12 -1 0 9 618
+---
+final_thetas_of_type: 479 is (ft, di, dj, k, id):
+13 -1 0 10 594
+---
+final_thetas_of_type: 480 is (ft, di, dj, k, id):
+10 -1 -1 6 634
+---
+final_thetas_of_type: 481 is (ft, di, dj, k, id):
+7 0 -1 2 722
+---
+final_thetas_of_type: 482 is (ft, di, dj, k, id):
+10 -1 -2 7 402
+---
+final_thetas_of_type: 483 is (ft, di, dj, k, id):
+10 -1 -1 8 402
+---
+final_thetas_of_type: 484 is (ft, di, dj, k, id):
+10 0 -1 9 402
+---
+final_thetas_of_type: 485 is (ft, di, dj, k, id):
+6 1 -2 7 430
+---
+final_thetas_of_type: 486 is (ft, di, dj, k, id):
+6 1 -1 8 430
+---
+final_thetas_of_type: 487 is (ft, di, dj, k, id):
+6 0 -1 9 430
+---
+final_thetas_of_type: 488 is (ft, di, dj, k, id):
+7 0 -1 6 442
+---
+final_thetas_of_type: 489 is (ft, di, dj, k, id):
+9 0 -1 6 414
+---
+final_thetas_of_type: 490 is (ft, di, dj, k, id):
+5 3 -3 5 438
+7 1 -3 5 470
+6 2 -3 5 446
+---
+final_thetas_of_type: 491 is (ft, di, dj, k, id):
+6 2 -2 6 446
+5 3 -2 6 438
+7 1 -2 6 470
+---
+final_thetas_of_type: 492 is (ft, di, dj, k, id):
+6 1 -2 7 446
+5 2 -2 7 438
+---
+final_thetas_of_type: 493 is (ft, di, dj, k, id):
+5 2 -1 8 438
+6 1 -1 8 446
+---
+final_thetas_of_type: 494 is (ft, di, dj, k, id):
+6 0 -1 9 446
+5 1 -1 9 438
+---
+final_thetas_of_type: 495 is (ft, di, dj, k, id):
+5 1 0 10 438
+---
+final_thetas_of_type: 496 is (ft, di, dj, k, id):
+7 1 -1 7 470
+---
+final_thetas_of_type: 497 is (ft, di, dj, k, id):
+7 0 -1 8 470
+---
+final_thetas_of_type: 498 is (ft, di, dj, k, id):
+10 -2 -3 5 418
+11 -3 -3 5 410
+9 -1 -3 5 466
+---
+final_thetas_of_type: 499 is (ft, di, dj, k, id):
+11 -3 -2 6 410
+9 -1 -2 6 466
+10 -2 -2 6 418
+---
+final_thetas_of_type: 500 is (ft, di, dj, k, id):
+9 -1 -1 7 466
+---
+final_thetas_of_type: 501 is (ft, di, dj, k, id):
+9 0 -1 8 466
+---
+final_thetas_of_type: 502 is (ft, di, dj, k, id):
+11 -2 -2 7 410
+10 -1 -2 7 418
+---
+final_thetas_of_type: 503 is (ft, di, dj, k, id):
+10 -1 -1 8 418
+11 -2 -1 8 410
+---
+final_thetas_of_type: 504 is (ft, di, dj, k, id):
+11 -1 -1 9 410
+10 0 -1 9 418
+---
+final_thetas_of_type: 505 is (ft, di, dj, k, id):
+11 -1 0 10 410
+---
+final_thetas_of_type: 506 is (ft, di, dj, k, id):
+11 -4 -3 4 406
+12 -4 -2 4 394
+10 -1 -2 4 474
+---
+final_thetas_of_type: 507 is (ft, di, dj, k, id):
+10 -1 -1 5 474
+11 -4 -2 5 406
+12 -4 -1 5 394
+---
+final_thetas_of_type: 508 is (ft, di, dj, k, id):
+10 0 -1 6 474
+11 -3 -2 6 406
+12 -3 -1 6 394
+---
+final_thetas_of_type: 509 is (ft, di, dj, k, id):
+11 -3 -1 7 406
+12 -3 0 7 394
+---
+final_thetas_of_type: 510 is (ft, di, dj, k, id):
+11 -2 -1 8 406
+12 -2 0 8 394
+---
+final_thetas_of_type: 511 is (ft, di, dj, k, id):
+12 -1 0 9 394
+11 -1 -1 9 406
+---
+final_thetas_of_type: 512 is (ft, di, dj, k, id):
+11 -1 0 10 406
+---
+final_thetas_of_type: 513 is (ft, di, dj, k, id):
+11 -1 -1 3 454
+10 0 -1 3 450
+---
+final_thetas_of_type: 514 is (ft, di, dj, k, id):
+11 -1 0 4 454
+---
+final_thetas_of_type: 515 is (ft, di, dj, k, id):
+5 1 -1 3 462
+6 0 -1 3 458
+---
+final_thetas_of_type: 516 is (ft, di, dj, k, id):
+5 1 0 4 462
+---
+final_thetas_of_type: 517 is (ft, di, dj, k, id):
+5 5 -3 2 521
+8 2 -5 2 513
+4 6 -2 2 525
+7 3 -4 2 561
+9 1 -5 2 505
+---
+final_thetas_of_type: 518 is (ft, di, dj, k, id):
+8 1 -5 3 513
+4 5 -2 3 525
+5 4 -3 3 521
+9 0 -5 3 505
+7 2 -4 3 561
+---
+final_thetas_of_type: 519 is (ft, di, dj, k, id):
+5 4 -2 4 521
+8 1 -4 4 513
+9 0 -4 4 505
+7 2 -3 4 561
+---
+final_thetas_of_type: 520 is (ft, di, dj, k, id):
+5 3 -2 5 521
+8 0 -4 5 513
+9 -1 -4 5 505
+7 1 -3 5 561
+---
+final_thetas_of_type: 521 is (ft, di, dj, k, id):
+9 -1 -3 6 505
+8 0 -3 6 513
+7 1 -2 6 561
+---
+final_thetas_of_type: 522 is (ft, di, dj, k, id):
+7 1 -1 7 561
+9 -1 -2 7 505
+8 0 -2 7 513
+---
+final_thetas_of_type: 523 is (ft, di, dj, k, id):
+9 -1 -1 8 505
+8 0 -1 8 513
+---
+final_thetas_of_type: 524 is (ft, di, dj, k, id):
+9 0 -1 9 505
+---
+final_thetas_of_type: 525 is (ft, di, dj, k, id):
+7 0 -1 8 561
+---
+final_thetas_of_type: 526 is (ft, di, dj, k, id):
+5 2 -2 6 521
+---
+final_thetas_of_type: 527 is (ft, di, dj, k, id):
+5 2 -1 7 521
+---
+final_thetas_of_type: 528 is (ft, di, dj, k, id):
+5 1 -1 8 521
+---
+final_thetas_of_type: 529 is (ft, di, dj, k, id):
+5 1 0 9 521
+---
+final_thetas_of_type: 530 is (ft, di, dj, k, id):
+4 4 -2 4 525
+---
+final_thetas_of_type: 531 is (ft, di, dj, k, id):
+4 4 -1 5 525
+---
+final_thetas_of_type: 532 is (ft, di, dj, k, id):
+4 3 -1 6 525
+---
+final_thetas_of_type: 533 is (ft, di, dj, k, id):
+4 3 0 7 525
+---
+final_thetas_of_type: 534 is (ft, di, dj, k, id):
+4 2 0 8 525
+---
+final_thetas_of_type: 535 is (ft, di, dj, k, id):
+4 1 0 9 525
+---
+final_thetas_of_type: 536 is (ft, di, dj, k, id):
+7 2 -3 2 509
+6 4 -4 2 481
+5 3 -2 2 537
+---
+final_thetas_of_type: 537 is (ft, di, dj, k, id):
+7 2 -2 3 509
+---
+final_thetas_of_type: 538 is (ft, di, dj, k, id):
+7 1 -2 4 509
+---
+final_thetas_of_type: 539 is (ft, di, dj, k, id):
+7 1 -1 5 509
+---
+final_thetas_of_type: 540 is (ft, di, dj, k, id):
+7 0 -1 6 509
+---
+final_thetas_of_type: 541 is (ft, di, dj, k, id):
+6 3 -3 3 481
+---
+final_thetas_of_type: 542 is (ft, di, dj, k, id):
+6 2 -2 4 481
+---
+final_thetas_of_type: 543 is (ft, di, dj, k, id):
+6 1 -1 5 481
+---
+final_thetas_of_type: 544 is (ft, di, dj, k, id):
+5 2 -2 3 537
+---
+final_thetas_of_type: 545 is (ft, di, dj, k, id):
+5 2 -1 4 537
+---
+final_thetas_of_type: 546 is (ft, di, dj, k, id):
+5 1 -1 5 537
+---
+final_thetas_of_type: 547 is (ft, di, dj, k, id):
+5 1 0 6 537
+---
+final_thetas_of_type: 548 is (ft, di, dj, k, id):
+4 2 -1 1 553
+3 6 -1 1 529
+3 3 -1 1 557
+4 4 -2 1 573
+2 6 0 1 517
+---
+final_thetas_of_type: 549 is (ft, di, dj, k, id):
+4 4 -1 2 573
+2 6 1 2 517
+4 2 0 2 553
+3 6 0 2 529
+3 3 0 2 557
+---
+final_thetas_of_type: 550 is (ft, di, dj, k, id):
+3 2 0 3 557
+4 3 -1 3 573
+4 1 0 3 553
+3 5 0 3 529
+2 5 1 3 517
+---
+final_thetas_of_type: 551 is (ft, di, dj, k, id):
+2 5 2 4 517
+3 5 1 4 529
+4 3 0 4 573
+---
+final_thetas_of_type: 552 is (ft, di, dj, k, id):
+4 2 0 5 573
+3 4 1 5 529
+2 4 2 5 517
+---
+final_thetas_of_type: 553 is (ft, di, dj, k, id):
+2 3 2 6 517
+3 3 1 6 529
+4 1 0 6 573
+---
+final_thetas_of_type: 554 is (ft, di, dj, k, id):
+2 2 2 7 517
+3 2 1 7 529
+---
+final_thetas_of_type: 555 is (ft, di, dj, k, id):
+3 1 1 8 529
+---
+final_thetas_of_type: 556 is (ft, di, dj, k, id):
+3 1 0 9 529
+---
+final_thetas_of_type: 557 is (ft, di, dj, k, id):
+2 2 1 8 517
+---
+final_thetas_of_type: 558 is (ft, di, dj, k, id):
+2 1 1 9 517
+---
+final_thetas_of_type: 559 is (ft, di, dj, k, id):
+2 1 0 10 517
+---
+final_thetas_of_type: 560 is (ft, di, dj, k, id):
+3 1 0 4 557
+---
+final_thetas_of_type: 561 is (ft, di, dj, k, id):
+10 0 -6 1 489
+9 1 -3 1 549
+9 1 -6 1 501
+8 1 -2 1 545
+8 2 -4 1 569
+---
+final_thetas_of_type: 562 is (ft, di, dj, k, id):
+8 1 -4 2 569
+10 -1 -6 2 489
+9 0 -3 2 549
+8 0 -2 2 545
+9 0 -6 2 501
+---
+final_thetas_of_type: 563 is (ft, di, dj, k, id):
+9 0 -2 3 549
+8 1 -3 3 569
+9 0 -5 3 501
+8 0 -1 3 545
+10 -1 -5 3 489
+---
+final_thetas_of_type: 564 is (ft, di, dj, k, id):
+8 0 -3 4 569
+9 -1 -5 4 501
+10 -2 -5 4 489
+---
+final_thetas_of_type: 565 is (ft, di, dj, k, id):
+9 -1 -4 5 501
+10 -2 -4 5 489
+8 0 -2 5 569
+---
+final_thetas_of_type: 566 is (ft, di, dj, k, id):
+10 -2 -3 6 489
+8 0 -1 6 569
+9 -1 -3 6 501
+---
+final_thetas_of_type: 567 is (ft, di, dj, k, id):
+10 -2 -2 7 489
+9 -1 -2 7 501
+---
+final_thetas_of_type: 568 is (ft, di, dj, k, id):
+9 -1 -1 8 501
+---
+final_thetas_of_type: 569 is (ft, di, dj, k, id):
+9 0 -1 9 501
+---
+final_thetas_of_type: 570 is (ft, di, dj, k, id):
+10 -1 -2 8 489
+---
+final_thetas_of_type: 571 is (ft, di, dj, k, id):
+10 -1 -1 9 489
+---
+final_thetas_of_type: 572 is (ft, di, dj, k, id):
+10 0 -1 10 489
+---
+final_thetas_of_type: 573 is (ft, di, dj, k, id):
+9 0 -1 4 549
+---
+final_thetas_of_type: 574 is (ft, di, dj, k, id):
+7 2 -3 7 580
+8 1 -3 7 660
+9 0 -3 7 668
+10 -1 -3 7 684
+8 0 -1 7 692
+---
+final_thetas_of_type: 575 is (ft, di, dj, k, id):
+10 -1 -2 8 684
+---
+final_thetas_of_type: 576 is (ft, di, dj, k, id):
+10 -1 -1 9 684
+---
+final_thetas_of_type: 577 is (ft, di, dj, k, id):
+10 0 -1 10 684
+---
+final_thetas_of_type: 578 is (ft, di, dj, k, id):
+8 0 -3 8 660
+7 1 -3 8 580
+9 -1 -3 8 668
+---
+final_thetas_of_type: 579 is (ft, di, dj, k, id):
+9 -1 -2 9 668
+8 0 -2 9 660
+7 1 -2 9 580
+---
+final_thetas_of_type: 580 is (ft, di, dj, k, id):
+7 1 -1 10 580
+9 -1 -1 10 668
+8 0 -1 10 660
+---
+final_thetas_of_type: 581 is (ft, di, dj, k, id):
+9 0 -1 11 668
+---
+final_thetas_of_type: 582 is (ft, di, dj, k, id):
+7 0 -1 11 580
+---
+final_thetas_of_type: 583 is (ft, di, dj, k, id):
+11 -2 -3 5 652
+8 0 -3 5 748
+9 -1 -1 5 764
+10 -2 -4 5 676
+9 -1 -4 5 700
+---
+final_thetas_of_type: 584 is (ft, di, dj, k, id):
+8 0 -2 6 748
+11 -2 -2 6 652
+10 -2 -3 6 676
+9 -1 -3 6 700
+---
+final_thetas_of_type: 585 is (ft, di, dj, k, id):
+9 -1 -2 7 700
+11 -2 -1 7 652
+8 0 -1 7 748
+10 -2 -2 7 676
+---
+final_thetas_of_type: 586 is (ft, di, dj, k, id):
+10 -1 -2 8 676
+11 -1 -1 8 652
+---
+final_thetas_of_type: 587 is (ft, di, dj, k, id):
+10 -1 -1 9 676
+11 -1 0 9 652
+---
+final_thetas_of_type: 588 is (ft, di, dj, k, id):
+10 0 -1 10 676
+---
+final_thetas_of_type: 589 is (ft, di, dj, k, id):
+9 -1 -1 8 700
+---
+final_thetas_of_type: 590 is (ft, di, dj, k, id):
+9 0 -1 9 700
+---
+final_thetas_of_type: 591 is (ft, di, dj, k, id):
+9 0 -1 6 764
+---
+final_thetas_of_type: 592 is (ft, di, dj, k, id):
+10 0 -1 5 732
+---
+final_thetas_of_type: 593 is (ft, di, dj, k, id):
+6 2 -3 4 636
+5 4 -3 4 644
+5 2 -2 4 756
+6 3 -3 4 740
+4 1 0 4 716
+4 5 -2 4 628
+3 5 0 4 596
+4 5 -1 4 620
+---
+final_thetas_of_type: 594 is (ft, di, dj, k, id):
+6 2 -2 5 636
+6 3 -2 5 740
+5 4 -2 5 644
+5 2 -1 5 756
+3 5 1 5 596
+4 5 -1 5 628
+4 5 0 5 620
+---
+final_thetas_of_type: 595 is (ft, di, dj, k, id):
+5 1 -1 6 756
+4 4 -1 6 628
+4 4 0 6 620
+5 3 -2 6 644
+6 2 -2 6 740
+3 4 1 6 596
+---
+final_thetas_of_type: 596 is (ft, di, dj, k, id):
+4 3 0 7 620
+3 3 1 7 596
+---
+final_thetas_of_type: 597 is (ft, di, dj, k, id):
+3 2 1 8 596
+4 2 0 8 620
+---
+final_thetas_of_type: 598 is (ft, di, dj, k, id):
+3 1 1 9 596
+4 1 0 9 620
+---
+final_thetas_of_type: 599 is (ft, di, dj, k, id):
+3 1 0 10 596
+---
+final_thetas_of_type: 600 is (ft, di, dj, k, id):
+6 2 -1 7 740
+4 4 0 7 628
+5 3 -1 7 644
+5 1 0 7 756
+---
+final_thetas_of_type: 601 is (ft, di, dj, k, id):
+6 1 -1 8 740
+4 3 0 8 628
+5 2 -1 8 644
+---
+final_thetas_of_type: 602 is (ft, di, dj, k, id):
+6 1 0 9 740
+---
+final_thetas_of_type: 603 is (ft, di, dj, k, id):
+5 1 -1 9 644
+4 2 0 9 628
+---
+final_thetas_of_type: 604 is (ft, di, dj, k, id):
+4 1 0 10 628
+---
+final_thetas_of_type: 605 is (ft, di, dj, k, id):
+5 1 0 10 644
+---
+final_thetas_of_type: 606 is (ft, di, dj, k, id):
+6 1 -1 6 636
+---
+final_thetas_of_type: 607 is (ft, di, dj, k, id):
+9 0 -1 2 724
+---
+final_thetas_of_type: 608 is (ft, di, dj, k, id):
+2 5 0 4 681
+2 5 2 4 673
+2 1 1 4 729
+4 5 -2 4 657
+3 5 -1 4 665
+3 5 1 4 697
+3 2 1 4 761
+5 5 -3 4 577
+4 4 0 4 745
+6 4 -4 4 601
+4 3 -1 4 689
+7 3 -4 4 609
+1 4 2 4 649
+---
+final_thetas_of_type: 609 is (ft, di, dj, k, id):
+3 5 0 5 665
+6 4 -3 5 601
+5 5 -2 5 577
+2 5 1 5 681
+7 3 -3 5 609
+4 3 0 5 689
+4 5 -1 5 657
+---
+final_thetas_of_type: 610 is (ft, di, dj, k, id):
+7 2 -3 6 609
+2 4 1 6 681
+6 3 -3 6 601
+4 2 0 6 689
+5 4 -2 6 577
+4 4 -1 6 657
+3 4 0 6 665
+---
+final_thetas_of_type: 611 is (ft, di, dj, k, id):
+3 3 0 7 665
+5 3 -2 7 577
+4 3 -1 7 657
+4 1 0 7 689
+2 3 1 7 681
+---
+final_thetas_of_type: 612 is (ft, di, dj, k, id):
+2 2 1 8 681
+---
+final_thetas_of_type: 613 is (ft, di, dj, k, id):
+2 1 1 9 681
+---
+final_thetas_of_type: 614 is (ft, di, dj, k, id):
+2 1 0 10 681
+---
+final_thetas_of_type: 615 is (ft, di, dj, k, id):
+5 3 -1 8 577
+4 3 0 8 657
+3 3 1 8 665
+---
+final_thetas_of_type: 616 is (ft, di, dj, k, id):
+3 2 1 9 665
+5 2 -1 9 577
+4 2 0 9 657
+---
+final_thetas_of_type: 617 is (ft, di, dj, k, id):
+5 1 -1 10 577
+4 1 0 10 657
+3 1 1 10 665
+---
+final_thetas_of_type: 618 is (ft, di, dj, k, id):
+5 1 0 11 577
+---
+final_thetas_of_type: 619 is (ft, di, dj, k, id):
+3 1 0 11 665
+---
+final_thetas_of_type: 620 is (ft, di, dj, k, id):
+6 3 -2 7 601
+7 2 -2 7 609
+---
+final_thetas_of_type: 621 is (ft, di, dj, k, id):
+7 1 -2 8 609
+6 2 -2 8 601
+---
+final_thetas_of_type: 622 is (ft, di, dj, k, id):
+7 1 -1 9 609
+6 2 -1 9 601
+---
+final_thetas_of_type: 623 is (ft, di, dj, k, id):
+7 0 -1 10 609
+6 1 -1 10 601
+---
+final_thetas_of_type: 624 is (ft, di, dj, k, id):
+3 1 1 5 761
+3 4 1 5 697
+2 4 2 5 673
+4 3 0 5 745
+1 3 2 5 649
+---
+final_thetas_of_type: 625 is (ft, di, dj, k, id):
+1 2 2 6 649
+4 2 0 6 745
+2 3 2 6 673
+3 3 1 6 697
+---
+final_thetas_of_type: 626 is (ft, di, dj, k, id):
+3 2 1 7 697
+4 1 0 7 745
+1 1 2 7 649
+2 2 2 7 673
+---
+final_thetas_of_type: 627 is (ft, di, dj, k, id):
+3 1 1 8 697
+---
+final_thetas_of_type: 628 is (ft, di, dj, k, id):
+3 1 0 9 697
+---
+final_thetas_of_type: 629 is (ft, di, dj, k, id):
+1 1 1 8 649
+2 2 1 8 673
+---
+final_thetas_of_type: 630 is (ft, di, dj, k, id):
+1 0 1 9 649
+2 1 1 9 673
+---
+final_thetas_of_type: 631 is (ft, di, dj, k, id):
+2 1 0 10 673
+---
+final_thetas_of_type: 632 is (ft, di, dj, k, id):
+3 1 0 6 761
+---
+final_thetas_of_type: 633 is (ft, di, dj, k, id):
+2 1 0 5 729
+---
+final_thetas_of_type: 634 is (ft, di, dj, k, id):
+6 3 -3 4 737
+8 0 -1 4 713
+8 1 -5 4 617
+8 2 -5 4 625
+6 3 -2 4 633
+7 3 -4 4 641
+9 0 -5 4 593
+7 2 -2 4 753
+---
+final_thetas_of_type: 635 is (ft, di, dj, k, id):
+6 2 -2 5 633
+6 2 -3 5 737
+7 2 -4 5 641
+8 1 -5 5 625
+8 0 -5 5 617
+7 1 -2 5 753
+9 -1 -5 5 593
+---
+final_thetas_of_type: 636 is (ft, di, dj, k, id):
+7 1 -1 6 753
+7 2 -3 6 641
+8 0 -4 6 617
+9 -1 -4 6 593
+6 2 -2 6 737
+8 1 -4 6 625
+---
+final_thetas_of_type: 637 is (ft, di, dj, k, id):
+8 0 -3 7 617
+9 -1 -3 7 593
+---
+final_thetas_of_type: 638 is (ft, di, dj, k, id):
+9 -1 -2 8 593
+8 0 -2 8 617
+---
+final_thetas_of_type: 639 is (ft, di, dj, k, id):
+9 -1 -1 9 593
+8 0 -1 9 617
+---
+final_thetas_of_type: 640 is (ft, di, dj, k, id):
+9 0 -1 10 593
+---
+final_thetas_of_type: 641 is (ft, di, dj, k, id):
+8 0 -4 7 625
+7 0 -1 7 753
+6 1 -2 7 737
+7 1 -3 7 641
+---
+final_thetas_of_type: 642 is (ft, di, dj, k, id):
+7 1 -2 8 641
+6 1 -1 8 737
+8 0 -3 8 625
+---
+final_thetas_of_type: 643 is (ft, di, dj, k, id):
+8 0 -2 9 625
+7 1 -1 9 641
+---
+final_thetas_of_type: 644 is (ft, di, dj, k, id):
+8 0 -1 10 625
+---
+final_thetas_of_type: 645 is (ft, di, dj, k, id):
+7 0 -1 10 641
+---
+final_thetas_of_type: 646 is (ft, di, dj, k, id):
+6 0 -1 9 737
+---
+final_thetas_of_type: 647 is (ft, di, dj, k, id):
+6 1 -1 6 633
+---
+final_thetas_of_type: 648 is (ft, di, dj, k, id):
+3 1 0 2 721
+---
+final_thetas_of_type: 649 is (ft, di, dj, k, id):
+2 1 1 6 632
+---
+final_thetas_of_type: 650 is (ft, di, dj, k, id):
+3 4 3 4 608
+13 -2 4 4 648
+2 4 4 4 600
+1 3 5 4 576
+14 -2 5 4 672
+14 0 5 4 680
+15 -1 2 4 760
+15 1 5 4 664
+14 -1 1 4 728
+15 -1 5 4 696
+0 0 4 4 744
+0 2 5 4 656
+0 1 3 4 688
+---
+final_thetas_of_type: 651 is (ft, di, dj, k, id):
+14 -2 4 5 672
+15 -1 1 5 760
+13 -2 3 5 648
+0 0 3 5 744
+15 -1 4 5 696
+---
+final_thetas_of_type: 652 is (ft, di, dj, k, id):
+14 -2 3 6 672
+0 0 2 6 744
+15 -1 3 6 696
+13 -2 2 6 648
+---
+final_thetas_of_type: 653 is (ft, di, dj, k, id):
+14 -2 2 7 672
+0 0 1 7 744
+15 -1 2 7 696
+13 -2 1 7 648
+---
+final_thetas_of_type: 654 is (ft, di, dj, k, id):
+13 -1 1 8 648
+14 -1 2 8 672
+---
+final_thetas_of_type: 655 is (ft, di, dj, k, id):
+14 -1 1 9 672
+13 -1 0 9 648
+---
+final_thetas_of_type: 656 is (ft, di, dj, k, id):
+14 0 1 10 672
+---
+final_thetas_of_type: 657 is (ft, di, dj, k, id):
+15 -1 1 8 696
+---
+final_thetas_of_type: 658 is (ft, di, dj, k, id):
+15 0 1 9 696
+---
+final_thetas_of_type: 659 is (ft, di, dj, k, id):
+15 0 1 6 760
+---
+final_thetas_of_type: 660 is (ft, di, dj, k, id):
+2 3 4 5 600
+0 1 5 5 656
+1 2 5 5 576
+3 3 3 5 608
+0 0 3 5 688
+14 -1 5 5 680
+15 0 5 5 664
+---
+final_thetas_of_type: 661 is (ft, di, dj, k, id):
+14 -1 4 6 680
+15 0 4 6 664
+0 0 2 6 688
+3 3 2 6 608
+1 2 4 6 576
+2 3 3 6 600
+0 1 4 6 656
+---
+final_thetas_of_type: 662 is (ft, di, dj, k, id):
+2 2 3 7 600
+3 2 2 7 608
+---
+final_thetas_of_type: 663 is (ft, di, dj, k, id):
+2 2 2 8 600
+3 2 1 8 608
+---
+final_thetas_of_type: 664 is (ft, di, dj, k, id):
+3 1 1 9 608
+2 1 2 9 600
+---
+final_thetas_of_type: 665 is (ft, di, dj, k, id):
+3 1 0 10 608
+2 1 1 10 600
+---
+final_thetas_of_type: 666 is (ft, di, dj, k, id):
+1 2 3 7 576
+0 0 1 7 688
+14 -1 3 7 680
+15 0 3 7 664
+0 1 3 7 656
+---
+final_thetas_of_type: 667 is (ft, di, dj, k, id):
+0 0 3 8 656
+15 -1 3 8 664
+1 1 3 8 576
+---
+final_thetas_of_type: 668 is (ft, di, dj, k, id):
+15 -1 2 9 664
+1 1 2 9 576
+0 0 2 9 656
+---
+final_thetas_of_type: 669 is (ft, di, dj, k, id):
+15 -1 1 10 664
+0 0 1 10 656
+1 1 1 10 576
+---
+final_thetas_of_type: 670 is (ft, di, dj, k, id):
+15 0 1 11 664
+---
+final_thetas_of_type: 671 is (ft, di, dj, k, id):
+1 0 1 11 576
+---
+final_thetas_of_type: 672 is (ft, di, dj, k, id):
+14 -1 2 8 680
+---
+final_thetas_of_type: 673 is (ft, di, dj, k, id):
+14 -1 1 9 680
+---
+final_thetas_of_type: 674 is (ft, di, dj, k, id):
+14 0 1 10 680
+---
+final_thetas_of_type: 675 is (ft, di, dj, k, id):
+14 0 1 5 728
+---
+final_thetas_of_type: 676 is (ft, di, dj, k, id):
+15 0 1 2 720
+---
+final_thetas_of_type: 677 is (ft, di, dj, k, id):
+6 5 -2 4 679
+6 1 -1 4 735
+1 3 4 4 615
+3 5 3 4 583
+5 5 -1 4 703
+5 5 1 4 671
+2 4 4 4 607
+4 5 2 4 663
+5 2 -1 4 767
+4 4 0 4 751
+4 3 1 4 695
+7 4 -2 4 655
+6 5 0 4 687
+---
+final_thetas_of_type: 678 is (ft, di, dj, k, id):
+3 5 2 5 583
+6 5 -1 5 687
+1 3 3 5 615
+4 3 0 5 695
+2 4 3 5 607
+5 5 0 5 671
+4 5 1 5 663
+---
+final_thetas_of_type: 679 is (ft, di, dj, k, id):
+2 3 3 6 607
+6 4 -1 6 687
+4 2 0 6 695
+4 4 1 6 663
+3 4 2 6 583
+5 4 0 6 671
+1 2 3 6 615
+---
+final_thetas_of_type: 680 is (ft, di, dj, k, id):
+3 3 2 7 583
+4 3 1 7 663
+5 3 0 7 671
+6 3 -1 7 687
+4 1 0 7 695
+---
+final_thetas_of_type: 681 is (ft, di, dj, k, id):
+4 3 0 8 663
+5 3 -1 8 671
+3 3 1 8 583
+---
+final_thetas_of_type: 682 is (ft, di, dj, k, id):
+5 2 -1 9 671
+3 2 1 9 583
+4 2 0 9 663
+---
+final_thetas_of_type: 683 is (ft, di, dj, k, id):
+3 1 1 10 583
+4 1 0 10 663
+5 1 -1 10 671
+---
+final_thetas_of_type: 684 is (ft, di, dj, k, id):
+5 1 0 11 671
+---
+final_thetas_of_type: 685 is (ft, di, dj, k, id):
+3 1 0 11 583
+---
+final_thetas_of_type: 686 is (ft, di, dj, k, id):
+6 2 -1 8 687
+---
+final_thetas_of_type: 687 is (ft, di, dj, k, id):
+6 1 -1 9 687
+---
+final_thetas_of_type: 688 is (ft, di, dj, k, id):
+6 1 0 10 687
+---
+final_thetas_of_type: 689 is (ft, di, dj, k, id):
+2 3 2 7 607
+1 2 2 7 615
+---
+final_thetas_of_type: 690 is (ft, di, dj, k, id):
+1 1 2 8 615
+2 2 2 8 607
+---
+final_thetas_of_type: 691 is (ft, di, dj, k, id):
+2 2 1 9 607
+1 1 1 9 615
+---
+final_thetas_of_type: 692 is (ft, di, dj, k, id):
+2 1 1 10 607
+1 0 1 10 615
+---
+final_thetas_of_type: 693 is (ft, di, dj, k, id):
+6 1 0 5 735
+---
+final_thetas_of_type: 694 is (ft, di, dj, k, id):
+5 4 -1 5 703
+4 3 0 5 751
+5 1 -1 5 767
+7 3 -2 5 655
+6 4 -2 5 679
+---
+final_thetas_of_type: 695 is (ft, di, dj, k, id):
+4 2 0 6 751
+7 2 -2 6 655
+5 3 -1 6 703
+6 3 -2 6 679
+---
+final_thetas_of_type: 696 is (ft, di, dj, k, id):
+5 2 -1 7 703
+7 1 -2 7 655
+6 2 -2 7 679
+4 1 0 7 751
+---
+final_thetas_of_type: 697 is (ft, di, dj, k, id):
+6 2 -1 8 679
+7 1 -1 8 655
+---
+final_thetas_of_type: 698 is (ft, di, dj, k, id):
+7 0 -1 9 655
+6 1 -1 9 679
+---
+final_thetas_of_type: 699 is (ft, di, dj, k, id):
+6 1 0 10 679
+---
+final_thetas_of_type: 700 is (ft, di, dj, k, id):
+5 1 -1 8 703
+---
+final_thetas_of_type: 701 is (ft, di, dj, k, id):
+5 1 0 9 703
+---
+final_thetas_of_type: 702 is (ft, di, dj, k, id):
+5 1 0 6 767
+---
+final_thetas_of_type: 703 is (ft, di, dj, k, id):
+2 3 2 4 639
+2 3 3 4 743
+1 3 4 4 647
+1 2 2 4 759
+15 0 5 4 599
+0 0 1 4 719
+0 1 5 4 623
+0 2 5 4 631
+---
+final_thetas_of_type: 704 is (ft, di, dj, k, id):
+1 1 2 5 759
+1 2 4 5 647
+15 -1 5 5 599
+2 2 2 5 639
+0 0 5 5 623
+2 2 3 5 743
+0 1 5 5 631
+---
+final_thetas_of_type: 705 is (ft, di, dj, k, id):
+2 2 2 6 743
+0 0 4 6 623
+15 -1 4 6 599
+0 1 4 6 631
+1 2 3 6 647
+1 1 1 6 759
+---
+final_thetas_of_type: 706 is (ft, di, dj, k, id):
+2 1 2 7 743
+1 0 1 7 759
+1 1 3 7 647
+0 0 4 7 631
+---
+final_thetas_of_type: 707 is (ft, di, dj, k, id):
+1 1 2 8 647
+2 1 1 8 743
+0 0 3 8 631
+---
+final_thetas_of_type: 708 is (ft, di, dj, k, id):
+1 1 1 9 647
+0 0 2 9 631
+---
+final_thetas_of_type: 709 is (ft, di, dj, k, id):
+0 0 1 10 631
+---
+final_thetas_of_type: 710 is (ft, di, dj, k, id):
+1 0 1 10 647
+---
+final_thetas_of_type: 711 is (ft, di, dj, k, id):
+2 0 1 9 743
+---
+final_thetas_of_type: 712 is (ft, di, dj, k, id):
+0 0 3 7 623
+15 -1 3 7 599
+---
+final_thetas_of_type: 713 is (ft, di, dj, k, id):
+15 -1 2 8 599
+0 0 2 8 623
+---
+final_thetas_of_type: 714 is (ft, di, dj, k, id):
+0 0 1 9 623
+15 -1 1 9 599
+---
+final_thetas_of_type: 715 is (ft, di, dj, k, id):
+15 0 1 10 599
+---
+final_thetas_of_type: 716 is (ft, di, dj, k, id):
+2 1 1 6 639
+---
+final_thetas_of_type: 717 is (ft, di, dj, k, id):
+5 1 0 2 727
+---
+final_thetas_of_type: 718 is (ft, di, dj, k, id):
+2 2 1 7 445
+1 2 2 7 437
+---
+final_thetas_of_type: 719 is (ft, di, dj, k, id):
+2 1 1 8 445
+1 1 2 8 437
+---
+final_thetas_of_type: 720 is (ft, di, dj, k, id):
+2 1 0 9 445
+1 1 1 9 437
+---
+final_thetas_of_type: 721 is (ft, di, dj, k, id):
+1 0 1 10 437
+---
+final_thetas_of_type: 722 is (ft, di, dj, k, id):
+5 3 -1 5 465
+6 3 -2 5 417
+7 3 -3 5 409
+---
+final_thetas_of_type: 723 is (ft, di, dj, k, id):
+6 2 -2 6 417
+5 2 -1 6 465
+7 2 -3 6 409
+---
+final_thetas_of_type: 724 is (ft, di, dj, k, id):
+6 2 -1 7 417
+7 2 -2 7 409
+---
+final_thetas_of_type: 725 is (ft, di, dj, k, id):
+6 1 -1 8 417
+7 1 -2 8 409
+---
+final_thetas_of_type: 726 is (ft, di, dj, k, id):
+7 1 -1 9 409
+6 1 0 9 417
+---
+final_thetas_of_type: 727 is (ft, di, dj, k, id):
+7 0 -1 10 409
+---
+final_thetas_of_type: 728 is (ft, di, dj, k, id):
+5 1 -1 7 465
+---
+final_thetas_of_type: 729 is (ft, di, dj, k, id):
+5 1 0 8 465
+---
+final_thetas_of_type: 730 is (ft, di, dj, k, id):
+5 1 -1 5 413
+5 3 -1 5 397
+3 3 1 5 425
+4 3 0 5 385
+2 3 2 5 429
+3 1 1 5 441
+6 3 -2 5 401
+---
+final_thetas_of_type: 731 is (ft, di, dj, k, id):
+3 1 0 6 441
+---
+final_thetas_of_type: 732 is (ft, di, dj, k, id):
+6 2 -2 6 401
+2 2 2 6 429
+3 2 1 6 425
+5 2 -1 6 397
+4 2 0 6 385
+---
+final_thetas_of_type: 733 is (ft, di, dj, k, id):
+5 1 -1 7 397
+4 1 0 7 385
+3 1 1 7 425
+---
+final_thetas_of_type: 734 is (ft, di, dj, k, id):
+3 1 0 8 425
+---
+final_thetas_of_type: 735 is (ft, di, dj, k, id):
+5 1 0 8 397
+---
+final_thetas_of_type: 736 is (ft, di, dj, k, id):
+2 2 1 7 429
+---
+final_thetas_of_type: 737 is (ft, di, dj, k, id):
+2 1 1 8 429
+---
+final_thetas_of_type: 738 is (ft, di, dj, k, id):
+2 1 0 9 429
+---
+final_thetas_of_type: 739 is (ft, di, dj, k, id):
+6 2 -1 7 401
+---
+final_thetas_of_type: 740 is (ft, di, dj, k, id):
+6 1 -1 8 401
+---
+final_thetas_of_type: 741 is (ft, di, dj, k, id):
+6 1 0 9 401
+---
+final_thetas_of_type: 742 is (ft, di, dj, k, id):
+5 1 0 6 413
+---
+final_thetas_of_type: 743 is (ft, di, dj, k, id):
+0 2 4 4 421
+2 2 1 4 477
+1 3 4 4 433
+---
+final_thetas_of_type: 744 is (ft, di, dj, k, id):
+2 1 1 5 477
+0 1 4 5 421
+1 2 4 5 433
+---
+final_thetas_of_type: 745 is (ft, di, dj, k, id):
+0 1 3 6 421
+1 2 3 6 433
+2 1 0 6 477
+---
+final_thetas_of_type: 746 is (ft, di, dj, k, id):
+0 0 3 7 421
+1 1 3 7 433
+---
+final_thetas_of_type: 747 is (ft, di, dj, k, id):
+0 0 2 8 421
+1 1 2 8 433
+---
+final_thetas_of_type: 748 is (ft, di, dj, k, id):
+1 1 1 9 433
+0 0 1 9 421
+---
+final_thetas_of_type: 749 is (ft, di, dj, k, id):
+1 0 1 10 433
+---
+final_thetas_of_type: 750 is (ft, di, dj, k, id):
+7 3 -4 4 405
+6 2 -1 4 473
+8 2 -4 4 393
+---
+final_thetas_of_type: 751 is (ft, di, dj, k, id):
+6 1 -1 5 473
+8 1 -4 5 393
+7 2 -4 5 405
+---
+final_thetas_of_type: 752 is (ft, di, dj, k, id):
+7 2 -3 6 405
+8 1 -3 6 393
+6 1 0 6 473
+---
+final_thetas_of_type: 753 is (ft, di, dj, k, id):
+7 1 -3 7 405
+8 0 -3 7 393
+---
+final_thetas_of_type: 754 is (ft, di, dj, k, id):
+7 1 -2 8 405
+8 0 -2 8 393
+---
+final_thetas_of_type: 755 is (ft, di, dj, k, id):
+8 0 -1 9 393
+7 1 -1 9 405
+---
+final_thetas_of_type: 756 is (ft, di, dj, k, id):
+7 0 -1 10 405
+---
+final_thetas_of_type: 757 is (ft, di, dj, k, id):
+6 1 0 3 449
+7 1 -1 3 453
+---
+final_thetas_of_type: 758 is (ft, di, dj, k, id):
+7 0 -1 4 453
+---
+final_thetas_of_type: 759 is (ft, di, dj, k, id):
+2 1 0 3 457
+1 1 1 3 461
+---
+final_thetas_of_type: 760 is (ft, di, dj, k, id):
+1 0 1 4 461
+---
+final_thetas_of_type: 761 is (ft, di, dj, k, id):
+4 3 0 4 568
+5 5 -1 4 500
+6 5 -2 4 488
+---
+final_thetas_of_type: 762 is (ft, di, dj, k, id):
+4 2 0 5 568
+5 4 -1 5 500
+6 4 -2 5 488
+---
+final_thetas_of_type: 763 is (ft, di, dj, k, id):
+5 3 -1 6 500
+6 3 -2 6 488
+4 1 0 6 568
+---
+final_thetas_of_type: 764 is (ft, di, dj, k, id):
+6 2 -2 7 488
+5 2 -1 7 500
+---
+final_thetas_of_type: 765 is (ft, di, dj, k, id):
+5 1 -1 8 500
+---
+final_thetas_of_type: 766 is (ft, di, dj, k, id):
+5 1 0 9 500
+---
+final_thetas_of_type: 767 is (ft, di, dj, k, id):
+6 2 -1 8 488
+---
+final_thetas_of_type: 768 is (ft, di, dj, k, id):
+6 1 -1 9 488
+---
+final_thetas_of_type: 769 is (ft, di, dj, k, id):
+6 1 0 10 488
+---
+final_thetas_of_type: 770 is (ft, di, dj, k, id):
+5 1 0 4 548
+---
+final_thetas_of_type: 771 is (ft, di, dj, k, id):
+15 1 6 1 532
+3 4 3 1 508
+0 3 6 1 524
+0 2 6 1 540
+1 3 5 1 564
+3 5 3 1 560
+2 5 5 1 480
+5 6 1 1 504
+4 6 3 1 496
+1 4 5 1 520
+1 3 4 1 536
+3 5 4 1 492
+4 6 2 1 512
+---
+final_thetas_of_type: 772 is (ft, di, dj, k, id):
+1 3 4 2 564
+0 2 5 2 540
+15 1 5 2 532
+4 6 2 2 496
+3 5 3 2 492
+---
+final_thetas_of_type: 773 is (ft, di, dj, k, id):
+3 4 3 3 492
+15 0 5 3 532
+0 1 5 3 540
+4 5 2 3 496
+1 2 4 3 564
+---
+final_thetas_of_type: 774 is (ft, di, dj, k, id):
+15 0 4 4 532
+0 1 4 4 540
+3 4 2 4 492
+1 2 3 4 564
+---
+final_thetas_of_type: 775 is (ft, di, dj, k, id):
+15 -1 4 5 532
+1 1 3 5 564
+3 3 2 5 492
+0 0 4 5 540
+---
+final_thetas_of_type: 776 is (ft, di, dj, k, id):
+0 0 3 6 540
+15 -1 3 6 532
+1 1 2 6 564
+---
+final_thetas_of_type: 777 is (ft, di, dj, k, id):
+15 -1 2 7 532
+1 1 1 7 564
+0 0 2 7 540
+---
+final_thetas_of_type: 778 is (ft, di, dj, k, id):
+0 0 1 8 540
+15 -1 1 8 532
+---
+final_thetas_of_type: 779 is (ft, di, dj, k, id):
+15 0 1 9 532
+---
+final_thetas_of_type: 780 is (ft, di, dj, k, id):
+1 0 1 8 564
+---
+final_thetas_of_type: 781 is (ft, di, dj, k, id):
+3 2 2 6 492
+---
+final_thetas_of_type: 782 is (ft, di, dj, k, id):
+3 2 1 7 492
+---
+final_thetas_of_type: 783 is (ft, di, dj, k, id):
+3 1 1 8 492
+---
+final_thetas_of_type: 784 is (ft, di, dj, k, id):
+3 1 0 9 492
+---
+final_thetas_of_type: 785 is (ft, di, dj, k, id):
+4 4 2 4 496
+---
+final_thetas_of_type: 786 is (ft, di, dj, k, id):
+4 4 1 5 496
+---
+final_thetas_of_type: 787 is (ft, di, dj, k, id):
+4 3 1 6 496
+---
+final_thetas_of_type: 788 is (ft, di, dj, k, id):
+4 3 0 7 496
+---
+final_thetas_of_type: 789 is (ft, di, dj, k, id):
+4 2 0 8 496
+---
+final_thetas_of_type: 790 is (ft, di, dj, k, id):
+4 1 0 9 496
+---
+final_thetas_of_type: 791 is (ft, di, dj, k, id):
+0 2 6 2 524
+1 3 5 2 520
+4 5 2 2 512
+5 5 1 2 504
+3 4 3 2 560
+---
+final_thetas_of_type: 792 is (ft, di, dj, k, id):
+5 5 0 3 504
+3 4 2 3 560
+1 3 4 3 520
+4 5 1 3 512
+0 2 5 3 524
+---
+final_thetas_of_type: 793 is (ft, di, dj, k, id):
+5 4 0 4 504
+3 3 2 4 560
+4 4 1 4 512
+1 2 4 4 520
+---
+final_thetas_of_type: 794 is (ft, di, dj, k, id):
+5 4 -1 5 504
+3 3 1 5 560
+1 2 3 5 520
+4 4 0 5 512
+---
+final_thetas_of_type: 795 is (ft, di, dj, k, id):
+3 2 1 6 560
+4 3 0 6 512
+5 3 -1 6 504
+---
+final_thetas_of_type: 796 is (ft, di, dj, k, id):
+4 2 0 7 512
+5 2 -1 7 504
+3 1 1 7 560
+---
+final_thetas_of_type: 797 is (ft, di, dj, k, id):
+5 1 -1 8 504
+4 1 0 8 512
+---
+final_thetas_of_type: 798 is (ft, di, dj, k, id):
+5 1 0 9 504
+---
+final_thetas_of_type: 799 is (ft, di, dj, k, id):
+3 1 0 8 560
+---
+final_thetas_of_type: 800 is (ft, di, dj, k, id):
+1 2 2 6 520
+---
+final_thetas_of_type: 801 is (ft, di, dj, k, id):
+1 1 2 7 520
+---
+final_thetas_of_type: 802 is (ft, di, dj, k, id):
+1 1 1 8 520
+---
+final_thetas_of_type: 803 is (ft, di, dj, k, id):
+1 0 1 9 520
+---
+final_thetas_of_type: 804 is (ft, di, dj, k, id):
+0 2 4 4 524
+---
+final_thetas_of_type: 805 is (ft, di, dj, k, id):
+0 1 4 5 524
+---
+final_thetas_of_type: 806 is (ft, di, dj, k, id):
+0 1 3 6 524
+---
+final_thetas_of_type: 807 is (ft, di, dj, k, id):
+0 0 3 7 524
+---
+final_thetas_of_type: 808 is (ft, di, dj, k, id):
+0 0 2 8 524
+---
+final_thetas_of_type: 809 is (ft, di, dj, k, id):
+0 0 1 9 524
+---
+final_thetas_of_type: 810 is (ft, di, dj, k, id):
+3 3 2 2 508
+1 2 3 2 536
+2 4 4 2 480
+---
+final_thetas_of_type: 811 is (ft, di, dj, k, id):
+1 2 2 3 536
+---
+final_thetas_of_type: 812 is (ft, di, dj, k, id):
+1 1 2 4 536
+---
+final_thetas_of_type: 813 is (ft, di, dj, k, id):
+1 1 1 5 536
+---
+final_thetas_of_type: 814 is (ft, di, dj, k, id):
+1 0 1 6 536
+---
+final_thetas_of_type: 815 is (ft, di, dj, k, id):
+2 3 3 3 480
+---
+final_thetas_of_type: 816 is (ft, di, dj, k, id):
+2 2 2 4 480
+---
+final_thetas_of_type: 817 is (ft, di, dj, k, id):
+2 1 1 5 480
+---
+final_thetas_of_type: 818 is (ft, di, dj, k, id):
+3 2 2 3 508
+---
+final_thetas_of_type: 819 is (ft, di, dj, k, id):
+3 2 1 4 508
+---
+final_thetas_of_type: 820 is (ft, di, dj, k, id):
+3 1 1 5 508
+---
+final_thetas_of_type: 821 is (ft, di, dj, k, id):
+3 1 0 6 508
+---
+final_thetas_of_type: 822 is (ft, di, dj, k, id):
+15 1 6 1 528
+14 0 6 1 516
+15 1 3 1 556
+0 2 4 1 572
+0 1 2 1 552
+---
+final_thetas_of_type: 823 is (ft, di, dj, k, id):
+14 -1 6 2 516
+15 0 6 2 528
+0 1 4 2 572
+15 0 3 2 556
+0 0 2 2 552
+---
+final_thetas_of_type: 824 is (ft, di, dj, k, id):
+15 0 2 3 556
+15 0 5 3 528
+14 -1 5 3 516
+0 0 1 3 552
+0 1 3 3 572
+---
+final_thetas_of_type: 825 is (ft, di, dj, k, id):
+14 -2 5 4 516
+15 -1 5 4 528
+0 0 3 4 572
+---
+final_thetas_of_type: 826 is (ft, di, dj, k, id):
+15 -1 4 5 528
+14 -2 4 5 516
+0 0 2 5 572
+---
+final_thetas_of_type: 827 is (ft, di, dj, k, id):
+0 0 1 6 572
+14 -2 3 6 516
+15 -1 3 6 528
+---
+final_thetas_of_type: 828 is (ft, di, dj, k, id):
+14 -2 2 7 516
+15 -1 2 7 528
+---
+final_thetas_of_type: 829 is (ft, di, dj, k, id):
+14 -1 2 8 516
+---
+final_thetas_of_type: 830 is (ft, di, dj, k, id):
+14 -1 1 9 516
+---
+final_thetas_of_type: 831 is (ft, di, dj, k, id):
+14 0 1 10 516
+---
+final_thetas_of_type: 832 is (ft, di, dj, k, id):
+15 -1 1 8 528
+---
+final_thetas_of_type: 833 is (ft, di, dj, k, id):
+15 0 1 9 528
+---
+final_thetas_of_type: 834 is (ft, di, dj, k, id):
+15 0 1 4 556
+---
+final_thetas_of_type: 835 is (ft, di, dj, k, id):
+3 3 1 7 404
+4 3 0 7 392
+---
+final_thetas_of_type: 836 is (ft, di, dj, k, id):
+4 2 0 8 392
+3 2 1 8 404
+---
+final_thetas_of_type: 837 is (ft, di, dj, k, id):
+4 1 0 9 392
+3 1 1 9 404
+---
+final_thetas_of_type: 838 is (ft, di, dj, k, id):
+3 1 0 10 404
+---
+final_thetas_of_type: 839 is (ft, di, dj, k, id):
+1 2 3 4 464
+2 3 3 4 416
+15 -1 2 4 440
+1 1 4 4 396
+3 4 3 4 408
+1 1 2 4 412
+2 2 4 4 400
+15 -1 4 4 424
+14 -3 3 4 444
+13 -4 3 4 436
+14 -2 4 4 428
+15 -2 3 4 468
+0 0 4 4 384
+---
+final_thetas_of_type: 840 is (ft, di, dj, k, id):
+1 1 3 5 396
+15 -1 3 5 424
+0 0 3 5 384
+2 2 3 5 400
+14 -2 3 5 428
+15 -1 1 5 440
+1 1 1 5 412
+---
+final_thetas_of_type: 841 is (ft, di, dj, k, id):
+14 -2 2 6 428
+1 1 2 6 396
+15 -1 2 6 424
+2 2 2 6 400
+0 0 2 6 384
+---
+final_thetas_of_type: 842 is (ft, di, dj, k, id):
+0 0 1 7 384
+1 1 1 7 396
+15 -1 1 7 424
+---
+final_thetas_of_type: 843 is (ft, di, dj, k, id):
+15 0 1 8 424
+---
+final_thetas_of_type: 844 is (ft, di, dj, k, id):
+1 0 1 8 396
+---
+final_thetas_of_type: 845 is (ft, di, dj, k, id):
+14 -1 2 7 428
+---
+final_thetas_of_type: 846 is (ft, di, dj, k, id):
+14 -1 1 8 428
+---
+final_thetas_of_type: 847 is (ft, di, dj, k, id):
+14 0 1 9 428
+---
+final_thetas_of_type: 848 is (ft, di, dj, k, id):
+2 1 2 7 400
+---
+final_thetas_of_type: 849 is (ft, di, dj, k, id):
+2 1 1 8 400
+---
+final_thetas_of_type: 850 is (ft, di, dj, k, id):
+2 0 1 9 400
+---
+final_thetas_of_type: 851 is (ft, di, dj, k, id):
+1 0 1 6 412
+---
+final_thetas_of_type: 852 is (ft, di, dj, k, id):
+15 0 1 6 440
+---
+final_thetas_of_type: 853 is (ft, di, dj, k, id):
+14 -2 3 5 444
+13 -3 3 5 436
+15 -1 3 5 468
+---
+final_thetas_of_type: 854 is (ft, di, dj, k, id):
+15 -1 2 6 468
+14 -2 2 6 444
+13 -3 2 6 436
+---
+final_thetas_of_type: 855 is (ft, di, dj, k, id):
+14 -1 2 7 444
+13 -2 2 7 436
+---
+final_thetas_of_type: 856 is (ft, di, dj, k, id):
+14 -1 1 8 444
+13 -2 1 8 436
+---
+final_thetas_of_type: 857 is (ft, di, dj, k, id):
+13 -1 1 9 436
+14 0 1 9 444
+---
+final_thetas_of_type: 858 is (ft, di, dj, k, id):
+13 -1 0 10 436
+---
+final_thetas_of_type: 859 is (ft, di, dj, k, id):
+15 -1 1 7 468
+---
+final_thetas_of_type: 860 is (ft, di, dj, k, id):
+15 0 1 8 468
+---
+final_thetas_of_type: 861 is (ft, di, dj, k, id):
+2 2 3 5 416
+3 3 3 5 408
+1 1 3 5 464
+---
+final_thetas_of_type: 862 is (ft, di, dj, k, id):
+3 3 2 6 408
+1 1 2 6 464
+2 2 2 6 416
+---
+final_thetas_of_type: 863 is (ft, di, dj, k, id):
+3 2 2 7 408
+2 1 2 7 416
+---
+final_thetas_of_type: 864 is (ft, di, dj, k, id):
+3 2 1 8 408
+2 1 1 8 416
+---
+final_thetas_of_type: 865 is (ft, di, dj, k, id):
+2 0 1 9 416
+3 1 1 9 408
+---
+final_thetas_of_type: 866 is (ft, di, dj, k, id):
+3 1 0 10 408
+---
+final_thetas_of_type: 867 is (ft, di, dj, k, id):
+1 1 1 7 464
+---
+final_thetas_of_type: 868 is (ft, di, dj, k, id):
+1 0 1 8 464
+---
+final_thetas_of_type: 869 is (ft, di, dj, k, id):
+14 -1 2 4 476
+13 -4 3 4 432
+12 -4 2 4 420
+---
+final_thetas_of_type: 870 is (ft, di, dj, k, id):
+12 -4 1 5 420
+13 -4 2 5 432
+14 -1 1 5 476
+---
+final_thetas_of_type: 871 is (ft, di, dj, k, id):
+12 -3 1 6 420
+14 0 1 6 476
+13 -3 2 6 432
+---
+final_thetas_of_type: 872 is (ft, di, dj, k, id):
+12 -3 0 7 420
+13 -3 1 7 432
+---
+final_thetas_of_type: 873 is (ft, di, dj, k, id):
+12 -2 0 8 420
+13 -2 1 8 432
+---
+final_thetas_of_type: 874 is (ft, di, dj, k, id):
+12 -1 0 9 420
+13 -1 1 9 432
+---
+final_thetas_of_type: 875 is (ft, di, dj, k, id):
+13 -1 0 10 432
+---
+final_thetas_of_type: 876 is (ft, di, dj, k, id):
+3 1 1 3 452
+2 0 1 3 448
+---
+final_thetas_of_type: 877 is (ft, di, dj, k, id):
+3 1 0 4 452
+---
+final_thetas_of_type: 878 is (ft, di, dj, k, id):
+14 0 1 3 456
+13 -1 1 3 460
+---
+final_thetas_of_type: 879 is (ft, di, dj, k, id):
+13 -1 0 4 460
+---
