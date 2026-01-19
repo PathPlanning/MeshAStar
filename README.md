@@ -24,7 +24,7 @@ The following animations demonstrate the qualitative difference in state-space e
   </tr>
   <tr>
     <td align="center"><img src="images/lba_demo.gif" width="400" alt="LBA Search"></td>
-    <td align="center"><img src="images/mesh_demo.gif" width="400" alt="MeshA Search"></td>
+    <td align="center"><img src="images/mesha_demo.gif" width="400" alt="MeshA Search"></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
