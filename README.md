@@ -45,22 +45,21 @@ The project is organized into a high-performance C++ core and a Python-based eco
 
 ```text
 .
-├── data/                       # Configuration files (e.g., control sets, primitives)
-├── images/                     # Generated visual assets (GIFs, plots)
-├── include/                    # Header files for the C++ implementation
-├── maps/                       # Benchmark maps (MovingAI format) and scenarios
-├── res/                        # Output directory for search results (logs and trajectories)
-├── src/                        # Core C++ source code (High-performance MeshA* & LBA*)
-├── tools/                      # Python ecosystem for analysis and pre-computation
-│   ├── common/                 # Shared utilities (graphics, data structures)
-│   ├── Search Visualization/   # Educational Python implementation of MeshA*/LBA* for interactive visualization (not optimized for speed)
-│   ├── Experiment Process/     # Notebooks for analyzing benchmark results from 'res/' and generating paper tables/plots
-│   ├── Generating control set/ # Tools for pre-computing custom motion primitives
-│   ├── Numbering configurations/ # Pre-computation of Mesh Graph transitions (see Paper Appendix)
-│   └── Playground/             # Easy Entry Point: Notebooks to compile/run C++ code and plot resulting trajectories
-├── Makefile                    # Build configuration
-└── README.md                   # Project documentation
-
+├── data/                          # Configuration files (e.g., control sets)
+├── images/                        # Generated visual assets (GIFs, plots)
+├── include/                       # Header files for the C++ implementation
+├── maps/                          # Benchmark maps (MovingAI format) and scenarios
+├── res/                           # Output directory for search results (trajectories and benchmark logs)
+├── src/                           # Core C++ source code (High-performance MeshA* & LBA*)
+├── tools/                         # Python ecosystem for analysis and pre-computation
+│   ├── common/                    # Shared utilities (graphics, data structures)
+│   ├── Search Visualization/      # Educational Python implementation of MeshA*/LBA* for interactive visualization (not optimized for speed)
+│   ├── Experiment Process/        # Notebooks for analyzing benchmark results from 'res/' and generating paper tables/plots
+│   ├── Generating control set/    # Tools for pre-computing custom motion primitives
+│   ├── Numbering configurations/  # Pre-computation of Mesh Graph information (configurations' IDs and transition table), see Paper Appendix
+│   └── Playground/                # Easy Entry Point: Notebooks to compile/run C++ code and plot resulting trajectories
+├── Makefile                       # Build configuration
+└── README.md                      # Project documentation
 ```
 
 ## 🚀 Getting Started
