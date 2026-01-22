@@ -370,6 +370,7 @@ class ControlSet:
                 
                 find_prim.set_description(x_coords, y_coords, prim.length,
                                           np.array(collision_in_i), np.array(collision_in_j), prim.turning)
+                find_prim.set_id(prim.id)
                 return find_prim
         
         raise Exception(f"Primitive not found! Request: {start.i, start.j, start.theta} -> {goal.i, goal.j, goal.theta}")
