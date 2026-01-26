@@ -107,6 +107,77 @@ Use `tools/Search Visualization/` to generate animations and inspect how the new
 5. **Benchmark:**
 Configure the scenarios in `src/KC_testing.cpp` and run `./mesh_astar --mode benchmark`. Finally, use `tools/Experiment Process/` to parse the results and generate performance tables.
 
+
+
+## 📉 Effective Branching Factor (Visual Analysis)
+
+To fully appreciate the efficiency of **MeshA\***, we must analyze how the Search Tree expands compared to standard Lattice-based approaches (LBA*).
+
+<p align="center">
+  <img src="images/big_mesha_demo.gif" width="600" alt="MeshA Effective Branching Factor Visualization">
+  <br>
+  <em>
+    <b>Figure: Visualization of the Effective Branching Factor.</b><br>
+    If several primitives share the same collision trace, MeshA* treats them as an <b>indistinguishable group</b>, exploring them simultaneously by expanding their common trace cell-by-cell. Thus, computationally, it makes no difference whether this trace contains several primitives or just one.<br>
+    To illustrate this, after path reconstruction, we display only <b>one random representative</b> for each indistinguishable group (discarding the others). This sparse tree reveals the true computational complexity — the <b>Effective Branching Factor</b> of the MeshA* search process.
+  </em>
+</p>
+
+<details>
+<summary><b>📖 Click to read the detailed theoretical explanation</b></summary>
+<br>
+
+To fully appreciate the efficiency of **MeshA\***, we must analyze how the Search Tree expands compared to standard Lattice-based approaches (LBA*). This section explains the rationale behind fading out specific primitives at the end of the MeshA* visualization.
+
+### 1. The Baseline: Branching in Lattice A*
+
+In standard Lattice A* (LBA*), the search operates on states managed within a **Search Tree** (typically implemented via an *OPEN list* or priority queue).
+When the algorithm extracts a state from the tree, it applies the entire control set (e.g., a bundle of $N=7$ motion primitives for a specific heading) to generate successors.
+
+* **Mechanism:** One node is removed from the search tree, and exactly $N$ new nodes are added back.
+* **Result:** The branching factor is fixed and constant ($B_{LBA*} = N$). The algorithm is forced to commit to the full length of every primitive immediately, regardless of the environment.
+
+### 2. MeshA* Mechanics: Geometric Expansion
+
+To compare this with MeshA*, we consider the **Initial Extended Cell** — the node where a fresh bundle of primitives originates (forming an initial configuration in this node). This is the direct equivalent of an LBA* state.
+
+The expansion process in MeshA* is fundamentally different because it is strictly driven by grid geometry.
+When expanding an Extended Cell, we look at where the primitives in the current configuration move next. Formally, according to the successor generation algorithm, we group together all primitives that enter the exact same neighboring grid cell. We then create a successor node in that cell, assigning it a configuration consisting of those specific primitives.
+
+Thus, the configurations of the generated successors form a disjoint partition of the parent's configuration.
+
+### 3. Analysis of Branching for MeshA*
+
+This geometric partitioning directly impacts the branching factor:
+
+* **Case A: No Physical Divergence.** If all primitives in the current configuration proceed to the *same* neighbor (e.g., the whole bundle moves Right), MeshA* generates only one successor, whose configuration contains the exact same set of primitives. Thus, we extracted 1 node from the Search Tree and added 1 node back. The number of open "search branches" does not increase.
+
+* **Case B: Physical Divergence.** Branching occurs *only* when the primitives physically separate into different cells (e.g., some move Right, others move Top). In this case, we extract 1 node and add $k > 1$ nodes back (where $k$ is the number of successor cells).
+
+Theoretically, if we were to traverse the search tree all the way to the primitive endpoints (the set of $\texttt{Finals}$), the sum of all accumulated physical divergences would eventually equal $N$, matching the LBA* branching factor.
+
+### 4. The Key Advantage: Partial Expansion
+
+However, the core advantage of MeshA* is partial cell-level expansion: the search often terminates or prunes a branch *before* the primitives fully diverge.
+
+Instead of paying the full cost of $N$ branches immediately (as LBA* does), MeshA* adds new nodes to the Search Tree *only* when a physical geometric split actually occurs during the explored path.
+This implies that the **Effective Branching Factor** $B_{MeshA*}$ — the number of nodes actually processed — is significantly lower than $N$.
+
+### 5. Interpreting the Visualization
+
+The animations provided in this repository demonstrate this concept via a post-processing filtering step:
+
+1. **Search Phase:** We visualize the full blue bundles (at Initial Extended Cells) to show that the search respects kinematic constraints.
+2. **Post-Processing:** At the end of the search, after path reconstruction, for every bundle originating from an Initial Extended Cell, we analyze how far it was expanded.
+    * For every group of primitives that remained *indistinguishable* (i.e., did not physically diverge) up to the point where expansion stopped, we retain only *one representative* (selected arbitrarily from the group).
+    * All other primitives in that group are discarded — they did not impact the search complexity.
+
+**Conclusion:** The resulting sparse tree provides visual proof that MeshA* implicitly groups trajectories, achieving a significantly lower effective branching factor than the theoretical maximum utilized by standard Lattice-based approaches.
+
+</details>
+
+
+
 ## 📄 Citation
 
 If you use this code or ideas in your research, please cite our AAAI paper:
