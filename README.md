@@ -113,13 +113,13 @@ Configure the scenarios in `src/KC_testing.cpp` and run `./mesh_astar --mode ben
 
 To fully appreciate the efficiency of **MeshA\***, we must analyze how the Search Tree expands compared to standard Lattice-based approaches (LBA*).
 
+
 <p align="center">
-  <img src="images/big_mesha_demo.gif" width="600" alt="MeshA Effective Branching Factor Visualization">
+  <img src="images/big_mesha_demo.gif" width="90%" alt="MeshA Effective Branching Factor Visualization">
   <br>
   <em>
     <b>Figure: Visualization of the Effective Branching Factor.</b><br>
-    If several primitives share the same collision trace, MeshA* treats them as an <b>indistinguishable group</b>, exploring them simultaneously by expanding their common trace cell-by-cell. Thus, computationally, it makes no difference whether this trace contains several primitives or just one.<br>
-    To illustrate this, after path reconstruction, we display only <b>one random representative</b> for each indistinguishable group (discarding the others). This sparse tree reveals the true computational complexity — the <b>Effective Branching Factor</b> of the MeshA* search process.
+    If several primitives share the same collision trace, MeshA* treats them as an indistinguishable group; that is, it explores them simultaneously by expanding their common trace cell-by-cell. Thus, in this case, for MeshA* there is no difference whether this collision trace contained several primitives or only one — the computational complexity of exploration remains the same. In this visualization, after trajectory reconstruction, we illustrate this concept by showing only one random representative for each indistinguishable group (other primitives are discarded). This reveals the true computational complexity, in other words — the effective branching factor during the search process of MeshA*.
   </em>
 </p>
 
