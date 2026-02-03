@@ -95,6 +95,8 @@ static inline void reconstruct_path_lattice(ResultSearch *result, SearchAlgorith
      Reconstructs the trajectory for Lattice-based A*.
     */
 
+    search->path.clear();  // clear from previous runs
+    
     if (result->path_found) {
         ptrSearchNode current = result->final_node;
 
