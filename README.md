@@ -185,8 +185,6 @@ The animations provided in this repository demonstrate this concept via a post-p
 
 To realize this visualization in code, we perform a post-processing pass over the search tree (examining regular extended cells from the OPEN list and all visited (both in OPEN and in CLOSED) initial extended cells).
 
-The selection of the "representative" primitive relies on the specific parent-pointer structure of MeshA\* (where nodes store a pointer to the previous *Initial* Extended Cell, not the immediate grid neighbor — see Appendix):
-
 1. **The Search Frontier (Regular Extended Cells in OPEN):**
    These nodes represent branches where the primitives have been partially explored but not yet fully traversed.
    * For each Regular Cell in `OPEN`, we inspect its `Finals` set (the subset of primitives that successfully reached this specific cell from the parent Initial configuration).
