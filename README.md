@@ -49,6 +49,7 @@ The project is organized into a high-performance C++ core and a Python-based eco
 ├── images/                        # Generated visual assets (GIFs, plots)
 ├── include/                       # Header files for the C++ implementation
 ├── maps/                          # Benchmark maps (MovingAI format) and scenarios
+├── media/                         # AAAI presentation materials (slides, poster) and supplementary visuals
 ├── res/                           # Output directory for search results (trajectories and benchmark logs)
 ├── src/                           # Core C++ source code (High-performance MeshA* & LBA*)
 ├── tools/                         # Python ecosystem for analysis and pre-computation
@@ -86,10 +87,16 @@ To view available command-line arguments:
 ./mesh_astar --help
 ```
 
-To run a benchmark (requires configuring `src/KC_testing.cpp`):
+**Run a Benchmark:** To run a massive benchmark (requires configuring the test cases hardcoded at the beginning of `src/KC_testing.cpp`):
 
 ```bash
 ./mesh_astar --mode benchmark
+```
+
+**Run a Single Test:** You can run the planner on a specific instance by passing the map, control set, and coordinates directly. For example:
+
+```bash
+./mesh_astar --mode single --map maps/Labyrinth.map --prim data/base_control_set.txt --mesh data/base_mesh_info.txt --start "124 180 4" --goal "631 742 0" --out-prefix "./" --weight 8.0
 ```
 
 ## 🔬 Research Workflow
@@ -173,6 +180,24 @@ The animations provided in this repository demonstrate this concept via a post-p
     * All other primitives in that group are discarded — they did not impact the search complexity.
 
 **Conclusion:** The resulting sparse tree provides visual proof that MeshA* implicitly groups trajectories, achieving a significantly lower effective branching factor than the theoretical maximum utilized by standard Lattice-based approaches.
+
+### 6. Technical Implementation Details
+
+To realize this visualization in code, we perform a post-processing pass over the search tree (examining regular extended cells from the OPEN list and all visited (both in OPEN and in CLOSED) initial extended cells).
+
+The selection of the "representative" primitive relies on the specific parent-pointer structure of MeshA\* (where nodes store a pointer to the previous *Initial* Extended Cell, not the immediate grid neighbor — see Appendix):
+
+1. **The Search Frontier (Regular Extended Cells in OPEN):**
+   These nodes represent branches where the primitives have been partially explored but not yet fully traversed.
+   * For each Regular Cell in `OPEN`, we inspect its `Finals` set (the subset of primitives that successfully reached this specific cell from the parent Initial configuration).
+   * Since all primitives in `Finals` followed the same collision trace to get here, they form an **indistinguishable group**.
+   * We arbitrarily select **one primitive** $p \in \text{Finals}$ and mark it as the representative for this specific branch.
+
+2. **Traversed Segments (All Initial Extended Cells):**
+   When the search reaches a new Initial Extended Cell (corresponding to a new Lattice State), it implies that a specific primitive has been fully traversed.
+   * Since the connection between two Lattice States (parent Initial $\to$ current Initial) is defined by exactly one primitive, we identify and retain that specific primitive.
+
+**Result:** When rendering the final frame, we draw *only* the primitives identified in these two steps. All other primitives in the initial bundles are discarded, creating the sparse "effective branching" tree.
 
 </details>
 
