@@ -32,6 +32,7 @@ Vertex::Vertex(int i, int j, int config_id, bool is_mesh_node) {
      Asserts that the 'is_mesh_node' flag is true to prevent accidental misuse
      of the Lattice constructor signature.
     */
+    (void) is_mesh_node;  // to prevent "unused parameter" error
     rassert(is_mesh_node, "Error: Mesh Vertex constructor called with false flag!");
     
     this->i = i;
