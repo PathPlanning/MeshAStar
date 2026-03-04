@@ -303,6 +303,106 @@ static inline bool mesh_should_prune(Map* task_map, int i, int j, int config_id,
     return true;
 }
 
+/*
+ * OPTIMIZED SUCCESSOR GENERATION (Post-Submission / Post-Conference Version)
+ * * This alternative implementation was developed to significantly simplify 
+ * and speed up the successor generation process in MeshA*. 
+ * * CORE IDEA: "Corridor Skipping" (Topological Fast-Forwarding)
+ * In the Mesh Graph, internal transitions between non-initial extended cells 
+ * have a cost of 0. Furthermore, the heuristic value (h) depends on the set 
+ * of reachable endpoints, 'Finals(u)'. If an extended cell has exactly ONE 
+ * topological successor (which is non-initial!), its 'Finals' set is identical
+ * to that of its successor.
+ * * Consequently, for a cell with a single successor:
+ * - The g-value remains constant (transition cost is 0).
+ * - The h-value remains constant (Finals set doesn't change).
+ * - Therefore, the f-value (g + h) is strictly constant.
+ * * If we were to push this single successor into the OPEN list, it would 
+ * inevitably be popped immediately in the next iteration. To avoid this O(log N) 
+ * priority queue overhead, we can simply "fast-forward" through the graph 
+ * (fly through the "corridor") until we reach either a branching point 
+ * (multiple successors) or the end of a primitive.
+ * * COMPLEXITY BOUND:
+ * Suppose a bundle of primitives exiting an Initial Cell contains 'n' primitives.
+ * Topologically, this bundle merges and splits, creating at most 'n' branching 
+ * points and exactly 'n' endpoints. Therefore, the total number of branching/end 
+ * points in a single bundle is bounded by <= 2n. 
+ * This means we will perform at most <= 2n push/pop operations per expanded bundle, 
+ * which is at most twice that of standard Lattice-Based A* (LBA*). In practice, 
+ * it is often much less, making MeshA* highly competitive and efficient.
+ */
+// void MeshGraphParams::get_successors(ptrSearchNode current, vector<ptrSearchNode> &list, bool lazy) {
+//     (void)lazy;
+//     rassert(lazy == false, "Lazy evaluation not supported in MeshA*!");
+
+//     ptrVertex v = current->vertex;
+    
+//     int curr_i = v->i;
+//     int curr_j = v->j;
+//     int curr_config = v->config_id;
+
+//     // --- 1. FAST-FORWARD CURRENT ("Corridor Skipping") ---
+//     // If the current cell has exactly one successor, we fast-forward through the graph.
+//     while (mesh_info->successors[curr_config].size() == 1) {
+//         auto triple = mesh_info->successors[curr_config][0];
+//         int connecting_prim_id = get<3>(triple);
+
+//         // If the next step completes a primitive (transitioning into an Initial Cell), 
+//         // we stop the fast-forward. We need to correctly apply the transition cost 
+//         // and generate an actual search node to be evaluated.
+//         if (connecting_prim_id != -1) break;
+
+//         int next_i = curr_i + get<0>(triple);
+//         int next_j = curr_j + get<1>(triple);
+
+//         // Check for collisions at this intermediate step of the corridor.
+//         // Note: We skip the 'mesh_should_prune' check here. Since the current node 
+//         // wasn't pruned and has only one obligatory successor, the successor cannot be pruned either.
+//         if (!check_cell(task_map, next_i, next_j, &checked_cells)) {
+//             return; // Hit an obstacle inside the corridor! The path is blocked, no successors.
+//         }
+
+//         // Advance to the next cell in the corridor
+//         curr_i = next_i;
+//         curr_j = next_j;
+//         curr_config = get<2>(triple);
+//     }
+
+//     // --- 2. STANDARD SUCCESSOR GENERATION ---
+//     // At this point, we are either at a branching point or right before a primitive's endpoint.
+//     // We iterate over the successors of the updated 'curr_config'.
+//     for (auto triple : mesh_info->successors[curr_config]) {
+//         int di = get<0>(triple);
+//         int dj = get<1>(triple);
+//         int next_config = get<2>(triple);
+//         int connecting_prim_id = get<3>(triple);
+        
+//         int succ_i = curr_i + di;
+//         int succ_j = curr_j + dj;
+
+//         // Determine the transition cost.
+//         // It remains 0.0 for intermediate cells, but if we are transitioning into 
+//         // an Initial Cell (connecting_prim_id >= 0), we apply the full primitive cost.
+//         float cost = (connecting_prim_id >= 0) ? (float)control_set->cost(connecting_prim_id) : 0.0f;
+
+//         if (check_cell(task_map, succ_i, succ_j, &checked_cells) &&
+//             !mesh_should_prune(task_map, succ_i, succ_j, next_config, this)) {
+            
+//             ptrVertex u = HEAP->new_Vertex(succ_i, succ_j, next_config, true);
+//             ptrSearchNode new_node = HEAP->new_SearchNode(u);
+            
+//             // mesh_set_parent works correctly because all skipped nodes were non-initial cells.
+//             // The logical parent correctly points back to the last Initial Cell in the path.
+//             mesh_set_parent(current, new_node, mesh_info);
+            
+//             new_node->g = current->g + cost;
+//             new_node->f = new_node->g + heuristic(new_node);
+
+//             list.push_back(new_node);
+//         }
+//     }
+// }
+
 void MeshGraphParams::get_successors(ptrSearchNode current, vector<ptrSearchNode> &list, bool lazy) {
     /*
      Generates successors in the Mesh Graph.
