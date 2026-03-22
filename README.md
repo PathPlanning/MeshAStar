@@ -1,5 +1,6 @@
 # MeshA\*: Efficient Path Planning With Motion Primitives
 
+[![Paper](https://img.shields.io/badge/AAAI_Digital_Library-Paper_Page-green.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/41004)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Conference](https://img.shields.io/badge/Conference-AAAI_2026-blue)](https://aaai.org/)
 [![Language](https://img.shields.io/badge/C%2B%2B-17-00599C.svg)](https://isocpp.org/)
